@@ -123,16 +123,9 @@
     // Generate file names based on the known naming convention 'Chapitre_XXX.txt'
     let chapters = [];
     for (let i = 1; i <= 999; i++) {
-        let fileName = "./Chapitres/Chapitre_${String(i).padStart(3, '0')}.txt";
+        let fileName = `./Chapitres/Chapitre_${String(i).padStart(3, '0')}.txt`;
         // Check if the file exists (optional)
-        try {
-            const response = await fetch(fileName);
-            if (response.ok) {
-                chapters.push(fileName);
-            }
-        } catch (error) {
-            console.error(`Error loading ${fileName}: ${error}`);
-        }
+        chapters.push(fileName);
     }
     return chapters;
 }
