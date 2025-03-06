@@ -119,29 +119,23 @@
 
     <script>
 	async function getTextFiles() {
-            // Note: This method works differently depending on the hosting environment
-            try {
-                // Try to fetch a directory listing
-                const response = await fetch('../Chapitres');
-                const text = await response.text();
-                
-                // Create a temporary div to parse the HTML
-                const parser = new DOMParser();
-                const htmlDoc = parser.parseFromString(text, 'text/html');
-                
-                // Find all links ending with .txt
-                const txtLinks = Array.from(htmlDoc.getElementsByTagName('a'))
-                    .map(a => a.href)
-                    .filter(href => href.toLowerCase().endsWith('.txt'))
-                    .map(href => href.split('/').pop());
-                
-                return txtLinks;
-            } catch (error) {
-                // Fallback method - manual input
-                console.warn('Automatic file detection failed. Please provide chapter list manually.');
-                return ['Notes de Traduction.txt'];
+    // Generate file names based on the known naming convention 'Chapitre_XXX.txt'
+    let chapters = [];
+    for (let i = 1; i <= 999; i++) {
+        let fileName = `Chapitres/Chapitre_${String(i).padStart(3, '0')}.txt`;
+        // Check if the file exists (optional)
+        try {
+            const response = await fetch(fileName);
+            if (response.ok) {
+                chapters.push(fileName);
             }
+        } catch (error) {
+            console.error(`Error loading ${fileName}: ${error}`);
         }
+    }
+    return chapters;
+}
+
 
         let chapters = [];
 
