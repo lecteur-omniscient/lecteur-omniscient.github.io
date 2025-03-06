@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple E-Reader</title>
+    <title>Le Point de Vue du Lecteur Omniscient</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -93,6 +93,7 @@
     </style>
 </head>
 <body>
+    <h2>Le Point du Vue du Lecteur Omniscient</h2>
     <div id="reader-controls">
         <div>
             <button id="prev-chapter">⬅️ Chapitre Précédent</button>
@@ -122,7 +123,7 @@
     // Generate file names based on the known naming convention 'Chapitre_XXX.txt'
     let chapters = [];
     for (let i = 1; i <= 999; i++) {
-        let fileName = `Chapitres/Chapitre_${String(i).padStart(3, '0')}.txt`;
+        let fileName = "./Chapitres/Chapitre_${String(i).padStart(3, '0')}.txt";
         // Check if the file exists (optional)
         try {
             const response = await fetch(fileName);
