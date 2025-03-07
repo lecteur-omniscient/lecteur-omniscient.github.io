@@ -156,7 +156,7 @@ Je savais pourquoi cette fille, qui détestait la mer et n'était pas particuli�
 
 [L'effet de la caractéristique exclusive améliore la mémoire des livres lus.]
 
-Les pages du 'Guide de Survie' tournèrent dans ma tête. Vers le 40e chapitre du 'Guide de Survie', il y avait une scène comme celle-ci.
+Les pages du *Guide de Survie* tournèrent dans ma tête. Vers le 40e chapitre du *Guide de Survie*, il y avait une scène comme celle-ci.
 
 « "Hé, comment as-tu pu être choisie par l'amiral Yi alors que tu as peur de la mer ?"
 
@@ -164,11 +164,11 @@ Les pages du 'Guide de Survie' tournèrent dans ma tête. Vers le 40e chapitre d
 
 "...... Est-ce que tu serais une descendante de l'amiral Yi ?" »
 
-Jusqu'au 40e chapitre du 'Guide de Survie', il y avait d'autres lecteurs que moi, et à l'époque où cette partie avait été publiée, cela avait suscité de vives critiques.
+Jusqu'au 40e chapitre du *Guide de Survie*, il y avait d'autres lecteurs que moi, et à l'époque où cette partie avait été publiée, cela avait suscité de vives critiques.
 
 Non, comment notre grand amiral Yi aurait-il pu se soucier de simples liens de sang ?
 
-Mais moi, qui avais lu tous les chapitres du 'Guide de Survie' à l'exception de l'épilogue, je savais.
+Mais moi, qui avais lu tous les chapitres du *Guide de Survie* à l'exception de l'épilogue, je savais.
 
 Lee Jihye n'était pas une descendante de l'amiral Yi.
 
@@ -196,7 +196,7 @@ L'amiral Yi ne pouvait probablement pas rester les bras croisés.
 
 En voyant la descendante de son ami, qui avait protégé son ami précieux, devenir un démon en tuant de ses propres mains.
 
-Enfin...... C'était ce que disait le 'Guide de Survie'.
+Enfin...... C'était ce que disait le *Guide de Survie*.
 
 [Un scénario de prime est arrivé.]
 
@@ -360,7 +360,7 @@ Lee Jihye, tenant la poignée de son épée, regarda la mer. Les ennemis étaien
 
 Un éclat de lumière jaillit de la pointe de son épée.
 
-[Le personnage 'Lee Jihye' active le stigmate 'Flotte Fantôme Nv.1' !]
+[Le personnage 'Lee Jihye' active le stigmate 'Flotte Fantôme Nv. 1' !]
 
 Avec un grondement, de la vapeur s'éleva de toute la zone maritime.
 
@@ -388,7 +388,7 @@ Dans le coucher de soleil, les cris des Japonais se dispersaient dans la fumée.
 
 [Le propriétaire du théâtre est satisfait de la fin modifiée.]
 
-[Vous avez atteint le quatrième 'Ending credit'.]
+[Vous avez atteint le quatrième 'Générique de Fin'.]
 
 [Acteurs : Kim Dokja, Jeong Huiwon, Lee Jihye, Lee Gilyeong]
 
@@ -438,17 +438,17 @@ Et pour empêcher cette 'fin', je devais sauver Yu Junghyeok.
 
 Je bus toutes les ampoules de statistiques que j'avais économisées. Comme le coût en pièces augmentait par paliers de 10 niveaux, j'avais d'abord dépensé des pièces avant d'utiliser les ampoules pour maximiser leur efficacité.
 
-[J'ai dépensé un total de 4000 pièces.]
+[J'ai dépensé un total de 4 000 pièces.]
 
 [J'ai utilisé des ampoules de renforcement de statistiques.]
 
-[Endurance Nv.18 -> Endurance Nv.24]
+[Endurance Nv. 18 -> Endurance Nv. 24]
 
-[Force Nv.18 -> Force Nv.24]
+[Force Nv. 18 -> Force Nv. 24]
 
-[Agilité Nv.11 -> Agilité Nv.20]
+[Agilité Nv. 11 -> Agilité Nv. 20]
 
-[Magie Nv.10 -> Magie Nv.15]
+[Magie Nv. 10 -> Magie Nv. 15]
 
 [Toutes vos statistiques ont considérablement augmenté !]
 
@@ -469,3 +469,5 @@ Heureusement, sa nuque était en parfait état pour que je puisse la frapper.
 "Hé, Yu Junghyeok !"
 
 Je courus droit vers Yu Junghyeok et lui assénai un coup sur la nuque.
+
+< Épisode 9. Le Point de Vue du Poisson-Lune Omniscient (4) - Fin>

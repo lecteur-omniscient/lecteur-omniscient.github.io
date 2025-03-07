@@ -134,7 +134,7 @@ Les yeux jaunes du T-Rex, haletant de douleur, me fixèrent une dernière fois a
 
 [Vous avez réussi à vaincre pour la première fois le dragon de niveau 7, 'Tyrannosaurus Rex' !]
 
-[Vous avez obtenu 1000 pièces en récompense.]
+[Vous avez obtenu 1 000 pièces en récompense.]
 
 "Ah... On l'a vraiment eu."
 
@@ -214,7 +214,7 @@ Je secouai la tête et regardai l'homme effondré.
 
 Une "révélation", hein ? C'était une histoire intéressante.
 
-Parce que, d'après ce que je savais du 'Guide de Survie', la seule capacité similaire était la 'Vision du Futur', et la seule personne qui possédait cette capacité était la prophétesse 'Anna Croft'.
+Parce que, d'après ce que je savais du *Guide de Survie*, la seule capacité similaire était la 'Vision du Futur', et la seule personne qui possédait cette capacité était la prophétesse 'Anna Croft'.
 
 Donc, la réponse était évidente.
 
@@ -316,17 +316,17 @@ Personnage : Lee Jihye
 
 Caractéristique exclusive : Épéiste Blessée (Rare)
 
-Compétences exclusives : [Affûtage de l'Art de l'Épée Lv.4], [Fauchage de Démon Lv.1], [Sens Absolu Lv.2], [Marche Fantomatique Lv.2]
+Compétences exclusives : [Affûtage de l'Art de l'Épée Nv. 4], [Fauchage de Démon Nv. 1], [Sens Absolu Nv. 2], [Marche Fantomatique Nv. 2]
 
-Stigmates : [Combat Maritime Lv.1], [Commande de la Grande Armée Lv.1]
+Stigmates : [Combat Maritime Nv. 1], [Commande de la Grande Armée Nv. 1]
 
-Statistiques polyvalentes : [Santé Lv.13], [Force Lv.17], [Agilité Lv.13], [Magie Lv.10]
+Statistiques polyvalentes : [Santé Nv. 13], [Force Nv. 17], [Agilité Nv. 13], [Magie Nv. 10]
 
 Cette gamine mentait...
 
 "Euh ? Sœur Huiwon, je ne pourrais pas l'avoir ?"
 
-"Euh, c'est Lecteur qui l'a trouvée, donc c'est à lui de décider..."
+"Euh, c'estDokja qui l'a trouvée, donc c'est à lui de décider..."
 
 Honnêtement, je m'en fichais que les autres l'aient, mais la donner à Lee Jihye me semblait un peu dommage. De toute façon, elle était du côté de Yu Junghyeok.
 
@@ -346,7 +346,7 @@ Un éclair de cupidité traversa le visage de Lee Jihye.
 
 "D'accord !"
 
-"Bon... Si c'est ce que Lecteur veut, on peut faire ça. Mais tu es sûr ? Ça pourrait mal tourner."
+"Bon... Si c'est ce queDokja veut, on peut faire ça. Mais tu es sûr ? Ça pourrait mal tourner."
 
 "Alors ce sera la chance de cette personne, c'est tout."
 
@@ -369,3 +369,5 @@ Je souris en regardant Lee Jihye.
 [Compétence exclusive, 'Point de Vue du Lecteur Omniscient' niveau 1 activée !]
 
 [Le personnage, 'Lee Jihye', prépare 'pierre'.]
+
+< Épisode 9. Le Point de Vue du Poisson-Lune Omniscient (2) - Fin>

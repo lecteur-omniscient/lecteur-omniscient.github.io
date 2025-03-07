@@ -78,7 +78,7 @@ Célébré uniquement dans le cadre de l'histoire. Mais ce n'était pas un menso
 
 J'avais aimé Yu Junghyeok, je l'avais détesté, je lui en avais voulu, je l'avais soutenu.
 
-J'avais vécu 3000 chapitres d'histoire avec lui.
+J'avais vécu 3 000 chapitres d'histoire avec lui.
 
 “Un fan, hein ? Ça fait longtemps que je n'ai pas entendu ça.”
 
@@ -104,7 +104,7 @@ Je m'en doutais.
 
 Mensonge.
 
-Je le voyais à son expression. Ce n'est pas pour rien que je suis le seul lecteur du Guide de Survie.
+Je le voyais à son expression. Ce n'est pas pour rien que je suis le seul lecteur du *Guide de Survie*.
 
 Mon esprit simula de nombreuses réponses possibles.
 
@@ -156,7 +156,7 @@ Yu Junghyeok était si surpris qu'il en oubliait même qu'il avait la bouche ouv
 
 C'était normal qu'il soit choqué.
 
-À l'origine, les humains du wagon 3807 devaient s'entretuer dans une bataille royale, et seuls Lee Hyeonseong et Kim Namwun devaient survivre.
+À l'origine, les humains du wagon 3 807 devaient s'entretuer dans une bataille royale, et seuls Lee Hyeonseong et Kim Namwun devaient survivre.
 
 “Tu as l'œil. Comment as-tu su qu'il y avait des insectes dans le wagon ?”
 
@@ -318,9 +318,9 @@ Les yeux de Yu Junghyeok s'élargirent lentement.
 
 Un prophète.
 
-Dans le Guide de Survie, c'est la seule caractéristique capable de voir l'avenir, et la seule parmi toutes les caractéristiques à avoir 'l'annulation des skills de détection' comme passif.
+Dans le *Guide de Survie*, c'est la seule caractéristique capable de voir l'avenir, et la seule parmi toutes les caractéristiques à avoir 'l'annulation des skills de détection' comme passif.
 
-En réalité, dans le monde du 'Guide de Survie', il y avait une personne avec la caractéristique de 'prophète'.
+En réalité, dans le monde du *Guide de Survie*, il y avait une personne avec la caractéristique de 'prophète'.
 
 « Seul un prophète peut bloquer mon 'Œil du Sage'. »
 
@@ -461,3 +461,5 @@ L'eau froide du fleuve Han et le choc qui secoua tout mon corps m'envahirent. En
 [Échec du scénario.]
 
 ...Merde, je vais devoir utiliser cette méthode après tout.
+
+< Épisode 2. Le Protagoniste (5) - Fin>

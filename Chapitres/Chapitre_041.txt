@@ -34,7 +34,7 @@ Une aura de tueur impitoyable se répandait sur tout le corps de ce type qui ava
 
 Il n’y avait personne dans ce monde capable d’arrêter ce type maintenant.
 
-[Le personnage ‘Yu Junghyeok’ utilise ‘Explosion de Force Lv.4’.]
+[Le personnage ‘Yu Junghyeok’ utilise ‘Explosion de Force Nv. 4’.]
 
 Je parvins à peine à ouvrir la bouche.
 
@@ -64,13 +64,13 @@ J’avais pris tellement d’ampoules, et une seule attaque m’avait réduit à
 
 L’impact de ce coup était si fort que j’avais été projeté contre le mur latéral du toit.
 
-[Le personnage ‘Jeong Huiwon’ utilise ‘Fauchage de Démon Lv.2’ !]
+[Le personnage ‘Jeong Huiwon’ utilise ‘Fauchage de Démon Nv. 2’ !]
 
 Au loin, je vis Jeong Huiwon courir vers nous, les yeux remplis de détermination.
 
 Je devais l’arrêter, mais mon corps ne m’obéissait pas.
 
-[Le personnage ‘Yu Junghyeok’ utilise ‘Poing Divin des Cent Pas Lv.2’.]
+[Le personnage ‘Yu Junghyeok’ utilise ‘Poing Divin des Cent Pas Nv. 2’.]
 
 Jeong Huiwon n’avait aucune chance contre Yu Junghyeok dans cet état. Grâce à [Fauchage de Démon], elle parvint à tenir quelques instants, mais bientôt, du sang jaillit de ses lèvres.
 
@@ -88,11 +88,11 @@ Personnage : Yu Junghyeok
 
 Caractéristiques exclusives : régresseur <3e tour> (Mythique), Joueur Professionnel (Rare)
 
-Compétences exclusives : [Œil du Sage Lv.8], [Combat au Corps à Corps Lv.8], [Affûtage d’Armes Avancé Lv.5], [Barrière Mentale Lv.5], [Poing Divin des Cent Pas Lv.2], [Protection Divine de l'Oiseau Vermillon Lv.1], [Énergie Fendant les Cieux Lv.2]... (suite)...
+Compétences exclusives : [Œil du Sage Nv. 8], [Combat au Corps à Corps Nv. 8], [Affûtage d’Armes Avancé Nv. 5], [Barrière Mentale Nv. 5], [Poing Divin des Cent Pas Nv. 2], [Protection Divine de l'Oiseau Vermillon Nv. 1], [Énergie Fendant les Cieux Nv. 2]... (suite)...
 
-Stigmates : [Régression Lv.3], [Héritage Éternel Lv.1]
+Stigmates : [Régression Nv. 3], [Héritage Éternel Nv. 1]
 
-Statistiques globales : [Endurance Lv.28], [Force Lv.27], [Agilité Lv.26], [Magie Lv.25]
+Statistiques globales : [Endurance Nv. 28], [Force Nv. 27], [Agilité Nv. 26], [Magie Nv. 25]
 
 * Le personnage actuel a perdu la raison.
 
@@ -172,13 +172,13 @@ Lee Gilyeong commença immédiatement à murmurer quelque chose. Ses pupilles se
 
 D’accord... Alors, combattons, espèce de poisson-lune.
 
-[Endurance Lv.24 -> Endurance Lv.34]
+[Endurance Nv. 24 -> Endurance Nv. 34]
 
-[Force Lv.24 -> Force Lv.34]
+[Force Nv. 24 -> Force Nv. 34]
 
-[Agilité Lv.20 -> Agilité Lv.30]
+[Agilité Nv. 20 -> Agilité Nv. 30]
 
-[Magie Lv.15 -> Magie Lv.25]
+[Magie Nv. 15 -> Magie Nv. 25]
 
 [Une énergie vitale jaillit de tout votre corps !]
 
@@ -196,15 +196,15 @@ Même si ce n’était que pour un court instant.
 
 Même pour ce seul instant, ça valait le coup.
 
-[Compétence exclusive, ‘Aura de Pouvoir Blanche Lv.1’ activée !]
+[Compétence exclusive, ‘Aura de Pouvoir Blanche Nv. 1’ activée !]
 
 [La maîtrise accumulée a augmenté le niveau de ‘Aura de Pouvoir Blanche’ !]
 
-[Aura de Pouvoir Blanche Lv.1 -> Aura de Pouvoir Blanche Lv.2]
+[Aura de Pouvoir Blanche Nv. 1 -> Aura de Pouvoir Blanche Nv. 2]
 
 La sensation de magie enveloppant mes doigts changea. Je n’eus même pas besoin de courir, car il se précipita vers moi. Réalisant que mon énergie était inhabituelle, il dégaina son épée pour la première fois.
 
-[Le personnage ‘Yu Junghyeok’ utilise ‘Énergie Fendant les Cieux Lv.2’.]
+[Le personnage ‘Yu Junghyeok’ utilise ‘Énergie Fendant les Cieux Nv. 2’.]
 
 *Clang clang clang !*
 
@@ -212,7 +212,7 @@ Des étincelles jaillirent de nos lames. Ni Yu Junghyeok ni moi ne reculâmes d�
 
 À ce stade, c’était au-delà de l’admiration, c’était de l’émerveillement.
 
-Dans le monde du ‘Guide de Survie’, le premier chiffre des statistiques créait un écart de puissance absolu.
+Dans le monde du *Guide de Survie*, le premier chiffre des statistiques créait un écart de puissance absolu.
 
 Et en ce moment, mon premier chiffre était 3, tandis que celui de Yu Junghyeok était 2.
 
@@ -260,7 +260,7 @@ Yu Junghyeok, les yeux vides, semblait plongé dans une philosophie de merde. Le
 
 « Tu es vraiment le protagoniste ? »
 
-Pour le dire autrement, c’était la colère légitime d’un lecteur qui avait lu 3149 fois le ‘Guide de Survie’.
+Pour le dire autrement, c’était la colère légitime d’un lecteur qui avait lu 3 149 fois le *Guide de Survie*.
 
 « Tu es seulement au 3e tour de Régression, et tu es déjà dans cet état ? »
 
@@ -306,7 +306,7 @@ Mes dents grincèrent.
 
 « Pourquoi es-tu seul ? Quand tu es mort comme un idiot dans le ‘Donjon du Théâtre’, quand tu as pleuré en tenant ta sœur morte, quand tu as été trahi par un prophète et tué ! Quand tu as eu un enfant avec la première personne que tu as aimée... ! »
 
-En disant cela, étrangement, je me souvins d’autres souvenirs. Un mot, puis un autre. Les souvenirs de ma vie passée à lire le ‘Guide de Survie’.
+En disant cela, étrangement, je me souvins d’autres souvenirs. Un mot, puis un autre. Les souvenirs de ma vie passée à lire le *Guide de Survie*.
 
 « Quand tu es devenu fou après la mort de ton enfant ! »
 
@@ -353,3 +353,5 @@ En voyant l’expression de Yu Junghyeok, mon cœur se serra.
 Les yeux de Yu Junghyeok me fixaient directement.
 
 « Toi... qui es-tu ? »
+
+< Épisode 9. Le Point de Vue du Poisson-Lune Omniscient (5) - Fin>

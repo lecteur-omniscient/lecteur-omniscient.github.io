@@ -62,7 +62,7 @@ En plus, il y a un bonus de résurrection.
 
 C'est pour ça que 'Roi de la Non-Violence' est si puissant.
 
-Dans tout le 'Guide de Survie', seule Selena Kim des États-Unis avait obtenu cette caractéristique.
+Dans tout le *Guide de Survie*, seule Selena Kim des États-Unis avait obtenu cette caractéristique.
 
 [Points de karma actuels : 0/100]
 
@@ -230,7 +230,7 @@ Nous avons gagné à peine 10 secondes de plus.
 
 Je devais considérer que c'était la dernière fois.
 
-"Ouf... ce maudit type. Lecteur, qu'est-ce qu'on fait ?"
+"Ouf... ce maudit type.Dokja, qu'est-ce qu'on fait ?"
 
 Lee Hyeonseong et Jeong Huiwon semblaient aussi épuisés. Après avoir couru pendant plus de dix minutes dans cette chaleur étouffante, c'était normal.
 
@@ -254,9 +254,9 @@ Le problème est de savoir si nous pouvons le tuer avant la prochaine 'attaque t
 
 Au même moment, le groupe se dispersa.
 
-[J'ai investi 4100 pièces dans la magie.]
+[J'ai investi 4 100 pièces dans la magie.]
 
-[Niveau de magie Lv.16 -> Niveau de magie Lv.25]
+[Niveau de magie Nv. 16 -> Niveau de magie Nv. 25]
 
 [Votre âme résonne avec le monde !]
 
@@ -591,3 +591,5 @@ Cette fois, j'ai vraiment failli mourir.
 Un Dokkaebi de niveau intermédiaire apparut dans les airs et me fixa calmement.
 
 Quoi qu'il en soit, c'est maintenant l'heure de la douce récompense.
+
+< Épisode 12. Point de Vue à la Première Personne du Personnage Principal (2) - Fin>

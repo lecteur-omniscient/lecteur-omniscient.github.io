@@ -54,11 +54,11 @@ Constellation de soutien : Bavard Impitoyable
 
 Caractéristique exclusive : Spécialiste des rumeurs (général)
 
-Compétences exclusives : [Affûtage d'armes Lv.2], [Art oratoire Lv.3], [Propagation de rumeurs Lv.1]
+Compétences exclusives : [Affûtage d'armes Nv. 2], [Art oratoire Nv. 3], [Propagation de rumeurs Nv. 1]
 
-Stigmate : [Créer du désordre Lv.1]
+Stigmate : [Créer du désordre Nv. 1]
 
-Statistiques globales : [Endurance Lv.12], [Force Lv.13], [Agilité Lv.13], [Magie Lv.10]
+Statistiques globales : [Endurance Nv. 12], [Force Nv. 13], [Agilité Nv. 13], [Magie Nv. 10]
 
 Évaluation globale : Malheureusement, il n'a pas pu s'épanouir à cause de sa mauvaise rencontre avec sa constellation de soutien, mais il possède des statistiques décentes pour être utilisé comme simple soldat. Il propage des rumeurs sans distinction entre vérité et mensonge, donc méfiance.
 
@@ -234,7 +234,7 @@ Environ 20 secondes plus tard, j'ai ouvert la bouche.
 
 "Yu Sangah !"
 
-Les [Fils de Soie] de Yu Sangah s'enroulèrent autour des roues des quatre motos. Les motos, dont les trajectoires s'étaient entremêlées, entrèrent en collision avec un bruit assourdissant.
+Les [Fils d\'Ariane] de Yu Sangah s'enroulèrent autour des roues des quatre motos. Les motos, dont les trajectoires s'étaient entremêlées, entrèrent en collision avec un bruit assourdissant.
 
 Boom !
 
@@ -313,3 +313,5 @@ Parmi les ennemis qui chargeaient, celui qui se distinguait le plus était celui
 "On s'occupera de la répression plus tard ! Il suffit de planter le drapeau !"
 
 Je vois. Ce type est le 'représentant'.
+
+< Épisode 10. Guerre Future (3) - Fin>

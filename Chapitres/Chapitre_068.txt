@@ -40,7 +40,7 @@ Le jeune homme aux cheveux en queue-de-cheval est impressionné.
 
 Pas mal, hein ?
 
-Il a déjà obtenu une "Pierre Étoilée"...  
+Il a déjà obtenu une "Pierre Étoilée"... 
 
 Les Pierres Étoilées sont des objets de récompense du "Hall des Sept Étoiles du Nord".
 
@@ -78,11 +78,11 @@ Constellation de soutien : Maitreya à l'Œil Unique
 
 Caractéristiques exclusives : Gourou sectaire (Héros), Roi Maitreya (Héros)
 
-Compétences exclusives : [Affûtage d'Armes Lv.5], [Barrière Mentale Lv.3], [Éloquence Éblouissante Lv.3], [Tromperie Habile Lv.3], [Fausse Prière Lv.1]...
+Compétences exclusives : [Affûtage d'Armes Nv. 5], [Barrière Mentale Nv. 3], [Éloquence Éblouissante Nv. 3], [Tromperie Habile Nv. 3], [Fausse Prière Nv. 1]...
 
-Stigmates : [Terre Pure de Maitreya Lv.2], [Loi de l'Attention Lv.2], [Déclaration des Démons Lv.3]
+Stigmates : [Terre Pure de Maitreya Nv. 2], [Loi de l'Attention Nv. 2], [Déclaration des Démons Nv. 3]
 
-Statistiques globales : [Endurance Lv.28], [Force Lv.26], [Agilité Lv.28], [Magie Lv.25]
+Statistiques globales : [Endurance Nv. 28], [Force Nv. 26], [Agilité Nv. 28], [Magie Nv. 25]
 
 Évaluation globale : Personne ne peut rester libre devant son "œil unique" qui perçoit tout. Faites attention à ne pas tousser devant lui.
 
@@ -100,9 +100,9 @@ Cha Sangkyung parle.
 
 Oui, pourquoi pas.
 
-[Le personnage 'Cha Sangkyung' utilise le stigmate 'Loi de l'Attention Lv.2' !]
+[Le personnage 'Cha Sangkyung' utilise le stigmate 'Loi de l'Attention Nv. 2' !]
 
-Le stigmate de Gung Ye, [Loi de l'Attention], est l'une des techniques de détection les plus intéressantes du 'Guide de Survie'. Bien qu'il ne permette pas de voir la fenêtre des caractéristiques de l'adversaire, il permet de connaître son alignement et son niveau de dangerosité approximatif. En gros, si la personne est bonne, elle apparaîtra comme un "démon inoffensif" à ses yeux, et si elle est mauvaise, comme un "démon prêt à frapper dans le dos". Par exemple,
+Le stigmate de Gung Ye, [Loi de l'Attention], est l'une des techniques de détection les plus intéressantes du *Guide de Survie*. Bien qu'il ne permette pas de voir la fenêtre des caractéristiques de l'adversaire, il permet de connaître son alignement et son niveau de dangerosité approximatif. En gros, si la personne est bonne, elle apparaîtra comme un "démon inoffensif" à ses yeux, et si elle est mauvaise, comme un "démon prêt à frapper dans le dos". Par exemple,
 
 [Le personnage 'Cha Sangkyung' a compris que vous êtes un "démon qu'il ne faut pas toucher".]
 
@@ -130,7 +130,7 @@ Au mot "démon", le jeune homme aux cheveux en queue-de-cheval et les autres mem
 
 En effet. Le fait qu'il ne néglige pas l'avertissement de la constellation montre qu'il n'est pas stupide.
 
-D'ailleurs, un "démon qu'il ne faut pas toucher"...  
+D'ailleurs, un "démon qu'il ne faut pas toucher"... 
 
 Il semble que 'Maitreya à l'Œil Unique' ne veuille pas se battre contre moi.
 
@@ -385,3 +385,5 @@ J'ajoute.
 Alors, la tête coupée de Han Suyeong commence à parler.
 
 "C'est intéressant. Kim Dokja."
+
+< Épisode 14. Le Maître du Trône (4) - Fin>

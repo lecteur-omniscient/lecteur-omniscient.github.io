@@ -138,7 +138,7 @@ Condition de réussite : Soumettez l’incarnation ‘Kim Dokja’ qui refuse de
 
 Temps limite : 30 minutes
 
-Récompense : 6000 pièces
+Récompense : 6 000 pièces
 
 En cas d’échec : ―
 
@@ -220,27 +220,27 @@ Comme si je récitais une incantation, je prononçai les noms des constellations
 
 "Je demande la première étoile de la Grande Ourse."
 
-L’étoile Tanlang (貪狼).
+L’étoile Tanlang .
 
 "Je demande la deuxième étoile de la Grande Ourse."
 
-L’étoile Jumun (巨文).
+L’étoile Jumun .
 
 "Je demande la troisième étoile de la Grande Ourse."
 
-L’étoile Rokjon (祿存).
+L’étoile Rokjon (祿).
 
 "Je demande la quatrième étoile de la Grande Ourse."
 
-L’étoile Mungok (文曲).
+L’étoile Mungok .
 
 "Je demande la cinquième étoile de la Grande Ourse."
 
-L’étoile Yeomjeong (廉貞).
+L’étoile Yeomjeong (廉).
 
 "Je demande la sixième étoile de la Grande Ourse."
 
-L’étoile Mugok (武曲).
+L’étoile Mugok .
 
 [Le mouvement des étoiles commence.]
 
@@ -264,7 +264,7 @@ Mais je ne m’arrêtai pas. Il me fallait encore invoquer une constellation pou
 
 [Vous avez épuisé toutes les utilisations de ‘Ganpyeong’.]
 
-Je sortis le pot [Yongjon] que j’avais obtenu du Roi Tyrannique.
+Je sortis le pot [Yongjon] que j’avais obtenu du Roi Tyran.
 
 La récompense du donjon à 7 joueurs, [La Salle de Yongjon].
 
@@ -284,7 +284,7 @@ Et j’invoquai la dernière constellation manquante.
 
 "Je demande la septième étoile de la Grande Ourse."
 
-L’étoile Pagun (破軍).
+L’étoile Pagun .
 
 Sept étoiles brodées dans le vide.
 
@@ -459,3 +459,5 @@ Je ne pus m’empêcher de sourire malgré ma vision qui s’assombrissait. Si l
 Il n’y aura pas de ‘prochaine tentative’ pour moi.
 
 Dans ce monde, j’atteindrai la fin de l’histoire.
+
+< Épisode 15. Un Monde Sans Roi (2) - Fin>

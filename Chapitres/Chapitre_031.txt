@@ -1,6 +1,6 @@
 **Épisode 7. Propriétaire Immobilier (4)**
 
-Des victimes ont commencé à apparaître sur le quai de la ligne 3 environ dix minutes après la disparition de Bihyung.
+Des victimes ont commencé à apparaître sur le quai de la ligne 3 environ dix minutes après la disparition de Bihyeong.
 
 Actuellement, il n'y a qu'une seule 'pièce' disponible sur le quai de la ligne 3.
 
@@ -10,7 +10,7 @@ Comme il n'y a pas de puissants sur la ligne 3, les faibles ne reculent pas et d
 
 [Il reste 30 minutes avant le début du troisième scénario principal.]
 
-Alors que les environs devenaient un chaos total, je lisais tranquillement le 'Guide de Survie'.
+Alors que les environs devenaient un chaos total, je lisais tranquillement le *Guide de Survie*.
 
 Le scénario d'aujourd'hui se déroulera probablement comme je l'ai imaginé.
 
@@ -18,15 +18,15 @@ Pour survivre, il n'y a pas d'autre choix que de mémoriser chaque mot sans en m
 
 [Qu'est-ce que tu fais là, espèce de con !]
 
-Avec la communication Dokkaebi de Bihyung, les messages des constellations ont également commencé à arriver.
+Avec la communication Dokkaebi de Bihyeong, les messages des constellations ont également commencé à arriver.
 
 [La constellation 'Prisonnier du Bandeau d'Or' se demande ce que vous êtes en train de faire.]
 
 J'ai éteint mon smartphone par réflexe. En y réfléchissant, il y avait quelque chose que je n'avais pas encore envisagé.
 
-Pourquoi les constellations ne réagissent-elles pas quand elles me voient lire le 'Guide de Survie' ?
+Pourquoi les constellations ne réagissent-elles pas quand elles me voient lire le *Guide de Survie* ?
 
-En réalité, si on regarde l'œuvre originale du 'Guide de Survie', il y a une scène où les constellations, ayant découvert que Yu Junghyeok est un régresseur, remettent en question l'équité.
+En réalité, si on regarde l'œuvre originale du *Guide de Survie*, il y a une scène où les constellations, ayant découvert que Yu Junghyeok est un régresseur, remettent en question l'équité.
 
 Donc, si je possède ce texte, il est normal qu'il y ait eu des commentaires à ce sujet depuis longtemps.
 
@@ -34,7 +34,7 @@ Donc, si je possède ce texte, il est normal qu'il y ait eu des commentaires à 
 
 ... Un fichier texte vide ?
 
-J'ai rallumé mon smartphone. L'écran affichait le texte du 'Guide de Survie'.
+J'ai rallumé mon smartphone. L'écran affichait le texte du *Guide de Survie*.
 
 "Tu parles de ça ?"
 
@@ -376,7 +376,7 @@ Yu Sangah m'a appelé, mais je n'avais pas le temps de me retourner. Je courais 
 
 « ... Le troisième scénario principal contient plusieurs 'Zones Vertes' cachées. Elles s'activent sur des murs spécifiques à chaque fois et ne se révèlent qu'après le début du scénario. Une 'Zone Verte' collée à un mur... En y réfléchissant, ce sont seulement les humains qui ont accepté cela comme le concept de 'pièce'. »
 
-Dans le 'Guide de Survie', Yu Junghyeok, après de nombreuses régressions, a découvert plusieurs 'Zones Vertes' secrètes à Chungmuro.
+Dans le *Guide de Survie*, Yu Junghyeok, après de nombreuses régressions, a découvert plusieurs 'Zones Vertes' secrètes à Chungmuro.
 
 Et sur ce quai de la ligne 3, il n'y en a que deux.
 
@@ -430,7 +430,7 @@ Même si je convertis toutes mes pièces en stats, je ne suis pas sûr de pouvoi
 
 C'est alors que Lee Gilyeong a parlé.
 
-"Frère, vous savez..."
+"Hyung, vous savez..."
 
 "Ne parle pas maintenant. Je suis occupé."
 
@@ -477,3 +477,5 @@ Je l'ai remis sur mon dos et j'ai dit.
 Lee Gilyeong ne mourra pas.
 
 Du moins, pas aujourd'hui.
+
+< Épisode 7. Propriétaire Immobilier (4) - Fin>

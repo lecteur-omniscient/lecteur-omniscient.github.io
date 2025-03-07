@@ -84,7 +84,7 @@ Bien sûr, elle ne demandait pas si elle pouvait venir avec nous. C'était typiq
 
 Jeong Huiwon me donna un coup de poing amical en riant.
 
-[Le personnage 'Jeong Huiwon' vous a donné 1500 pièces.]
+[Le personnage 'Jeong Huiwon' vous a donné 1 500 pièces.]
 
 "C'est… ?"
 
@@ -100,7 +100,7 @@ Mais… en réalité, je me sentais un peu mal à l'aise de les accepter.
 
 Jeong Huiwon ne le savait pas, mais j'avais en réalité amassé plus de pièces qu'elle.
 
-"Je ne suis pas vous, Lecteur."
+"Je ne suis pas vous,Dokja."
 
 Elle me donna quelques coups de poing supplémentaires sur le bras, puis ajusta son sac à dos et se dirigea vers le tunnel.
 
@@ -134,7 +134,7 @@ Je fixai l'air en silence.
 
 [Pff, bon. Comment tu fais pour toujours savoir… Bon, tiens.]
 
-[Le Dokkaebi 'Bihyeong' vous a donné 4500 pièces.]
+[Le Dokkaebi 'Bihyeong' vous a donné 4 500 pièces.]
 
 Je m'en doutais.
 
@@ -156,7 +156,7 @@ C'était donc pour ça que je n'avais pas reçu de messages de parrainage hier.
 
 Après un événement aussi incroyable, j'avais trouvé étrange que mes gains soient si faibles.
 
-[Pièces possédées : 23050 pièces]
+[Pièces possédées : 23 050 pièces]
 
 Même après avoir investi une bonne partie des pièces que j'avais gagnées dans mes statistiques, j'avais encore amassé une somme considérable.
 
@@ -166,17 +166,17 @@ Comme je ne pouvais pas ouvrir la fenêtre des caractéristiques, je devais me s
 
 D'abord… la vitalité, c'est important.
 
-[J'ai investi 1200 pièces dans la vitalité.]
+[J'ai investi 1 200 pièces dans la vitalité.]
 
-[Vitalité Lv.12 -> Vitalité Lv.15]
+[Vitalité Nv. 12 -> Vitalité Nv. 15]
 
 [Votre endurance physique a augmenté !]
 
 Comme je n'avais pas de compétence passive d'attaque, j'ai aussi augmenté ma force.
 
-[J'ai investi 1600 pièces dans la force.]
+[J'ai investi 1 600 pièces dans la force.]
 
-[Force Lv.11 -> Force Lv.15]
+[Force Nv. 11 -> Force Nv. 15]
 
 [Une puissance immense émane de vos muscles !]
 
@@ -184,25 +184,25 @@ L'agilité, juste assez pour esquiver.
 
 [J'ai investi 400 pièces dans l'agilité.]
 
-[Agilité Lv.10 -> Agilité Lv.11]
+[Agilité Nv. 10 -> Agilité Nv. 11]
 
 [Vous pouvez maintenant bouger plus rapidement.]
 
 Je devais maintenir l'Aura de Pouvoir Blanche, donc il fallait que ma magie dépasse le niveau 10.
 
-[J'ai investi 1200 pièces dans la magie.]
+[J'ai investi 1 200 pièces dans la magie.]
 
-[Magie Lv.6 -> Magie Lv.10]
+[Magie Nv. 6 -> Magie Nv. 10]
 
 [Une énergie mystérieuse imprègne votre âme.]
 
 J'aurais pu investir plus, mais je m'en suis abstenu. Une fois à Chungmuro, j'aurais besoin de beaucoup de pièces.
 
-De plus, ce que j'avais déjà investi représentait 4400 pièces…
+De plus, ce que j'avais déjà investi représentait 4 400 pièces…
 
 C'est vrai ce qu'ils disent, c'est difficile de gagner des pièces, mais facile de les dépenser. Si mes statistiques de base avaient été meilleures, je n'aurais pas eu besoin de dépenser autant.
 
-Avoir une vitalité de base de 1… même le nombre de vues du Guide de Survie ou la vitalité de Lee Gilyeong devaient être plus élevés que ça.
+Avoir une vitalité de base de 1… même le nombre de vues du *Guide de Survie* ou la vitalité de Lee Gilyeong devaient être plus élevés que ça.
 
 [Ah, j'ai oublié de te dire… Tu as deux recommandations de scénario en plus. Tu es vraiment impressionnant. Si tu continues comme ça, tu pourrais bientôt monter de niveau de chaîne.]
 
@@ -336,7 +336,7 @@ Je regardai autour de moi et dis :
 
 Yu Sangah leva timidement la main à l'évocation des fournitures. Yu Sangah et Jeong Huiwon échangèrent un regard. Sans un mot, elles hochèrent la tête en même temps. Alors que je restais là, Jeong Huiwon demanda :
 
-"Quoi ? Lecteur, tu veux savoir aussi ?"
+"Quoi ?Dokja, tu veux savoir aussi ?"
 
 Yu Sangah devint rouge.
 
@@ -402,7 +402,7 @@ La statue représentait un moine ayant vécu pendant la période Joseon. Malgré
 
 Je vérifiai le nom inscrit verticalement sous la statue.
 
-惟政四溟大師像
+
 
 Statue du Maître Samyeong Yujeong
 
@@ -421,3 +421,5 @@ Sans hésiter, j'activai la "Lame de la Conviction" avec l'Aura de Pouvoir Blanc
 Puis, je frappai directement la statue du Maître Samyeong.
 
 [Une constellation en haillons est horrifiée par vos actions.]
+
+< Épisode 6. L'Heure du Jugement (3) - Fin>

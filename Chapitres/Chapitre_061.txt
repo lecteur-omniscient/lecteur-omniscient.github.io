@@ -1,4 +1,4 @@
-**Épisode 13. Guerre des Rois (2)**
+**Épisode 13. La Guerre des Rois (2)**
 
 La conscience s'élève doucement, et les sens reviennent progressivement à la réalité.
 
@@ -172,7 +172,7 @@ C'est alors que Yu Sangah a frappé dans ses mains.
 
 Pas un héros coréen ?
 
-Un temple de Guandi... Même moi, en tant que lecteur assidu du 'Guide de Survie', je n'avais jamais entendu parler d'un tel endroit.
+Un temple de Guandi... Même moi, en tant que lecteur assidu du *Guide de Survie*, je n'avais jamais entendu parler d'un tel endroit.
 
 Quoi qu'il en soit, nous avons décidé de suivre l'avis de Yu Sangah et de nous diriger vers le temple.
 
@@ -244,7 +244,7 @@ Ce n'est pas comparable à Jaecheondaeseong ou Uriel, mais si quelqu'un a obtenu
 
 Lee Gilyeong a tiré sur ma manche.
 
-"Frère."
+"Hyung."
 
 Les antennes d'un cafard bougeant frénétiquement.
 
@@ -326,7 +326,7 @@ Le fait que Lee Sungkook l'ait reconnue signifie que cette 'Min Jiwon' est une p
 
 ... L'un des sept rois de Séoul, le 'Roi de la Beauté et du Jeu', est une personne réelle ?
 
-C'est un peu étrange. Parce que dans le 'Guide de Survie', le personnage du 'Roi de la Beauté et du Jeu' s'appelait aussi 'Min Jiwon'.
+C'est un peu étrange. Parce que dans le *Guide de Survie*, le personnage du 'Roi de la Beauté et du Jeu' s'appelait aussi 'Min Jiwon'.
 
 Est-ce juste une coïncidence ?
 
@@ -354,7 +354,7 @@ Statistiques globales : [Endurance Niveau 18], [Force Niveau 18], [Agilité Nive
 
 Évaluation globale : Une constellation exceptionnelle a rencontré une incarnation exceptionnelle. Sa beauté remarquable brillera encore plus sous la protection de sa constellation. Tant que sa beauté ne s'estompe pas, son armée lui restera fidèle.
 
-Cette femme est bien le 'Roi de la Beauté et du Jeu' du 'Guide de Survie'.
+Cette femme est bien le 'Roi de la Beauté et du Jeu' du *Guide de Survie*.
 
 Le fait que [Profil du Personnage] se soit activé immédiatement suggère qu'elle n'est pas une personne réelle... Alors comment Lee Sungkook l'a-t-il reconnue ?
 
@@ -382,7 +382,7 @@ Cette femme est très utile dans la 'Guerre des Rois'.
 
 Majesté de Maegum.
 
-Dans tout le 'Guide de Survie', il n'y a qu'une seule personne avec un tel titre.
+Dans tout le *Guide de Survie*, il n'y a qu'une seule personne avec un tel titre.
 
 "À en juger par votre synchronisation élevée avec votre constellation, veuillez transmettre ce message à votre constellation. C'est un grand honneur de rencontrer en personne la dernière reine de Silla."
 
@@ -404,7 +404,7 @@ Min Jiwon a plissé les yeux.
 
 "Vous..."
 
-Selon le déroulement du 'Guide de Survie', les trois régions de Séoul — Seongdong-gu, Yongsan-gu et Yeongdeungpo-gu — sont actuellement en pleine lutte de pouvoir, comme à l'époque des Trois Royaumes de Corée.
+Selon le déroulement du *Guide de Survie*, les trois régions de Séoul — Seongdong-gu, Yongsan-gu et Yeongdeungpo-gu — sont actuellement en pleine lutte de pouvoir, comme à l'époque des Trois Royaumes de Corée.
 
 C'est à ce moment-là qu'un message inattendu est arrivé.
 
@@ -424,7 +424,7 @@ Condition de réussite : Les constellations de rang historique originaires de Si
 
 Temps limite : 38 heures
 
-Récompense : 2000 pièces
+Récompense : 2 000 pièces
 
 En cas d'échec : —
 
@@ -434,7 +434,7 @@ Alors que je regardais fixement la fenêtre du scénario, Min Jiwon, avec un sou
 
 "Ma constellation souhaite voir votre sincérité. Bien sûr, vous acceptez, n'est-ce pas ? Je ne vais pas en dire plus. Venez sous mes ordres."
 
-Sa façon de parler laissait entendre qu'elle ne comprenait pas pourquoi quelqu'un refuserait 2000 pièces.
+Sa façon de parler laissait entendre qu'elle ne comprenait pas pourquoi quelqu'un refuserait 2 000 pièces.
 
 J'ai soudain éclaté de rire.
 
@@ -444,12 +444,14 @@ Je les ai respectées en tant que constellations, et ces types me prennent pour 
 
 [La constellation, 'Mystérieux Conspirateur' se moque de la richesse des constellations de rang historique.]
 
-[Vous avez reçu 2000 pièces.]
+[Vous avez reçu 2 000 pièces.]
 
 [L'item 'Apocalypse — Régresseur Infini de classe SSSSS' a été vendu sur le marché.]
 
-[Vous avez obtenu 5000 pièces supplémentaires.]
+[Vous avez obtenu 5 000 pièces supplémentaires.]
 
 En entendant les messages qui me parviennent, je me demande bien quelle tête elle va faire.
 
-Elle me donne 2000 pièces et elle veut que je fasse quoi pour elle ?
+Elle me donne 2 000 pièces et elle veut que je fasse quoi pour elle ?
+
+< Épisode 13. La Guerre des Rois (2) - Fin>

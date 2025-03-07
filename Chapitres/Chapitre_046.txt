@@ -30,9 +30,9 @@ Mais...
 
 Essayer de viser Chungmuro avec seulement ça, c'est impossible.
 
-[Le personnage 'Gong Pildu' active le stigmate 'Zone Armée Nv.6' !]
+[Le personnage 'Gong Pildu' active le stigmate 'Zone Armée Nv. 6' !]
 
-[Le personnage 'Gong Pildu' active 'Propriété Privée Nv.6' !]
+[Le personnage 'Gong Pildu' active 'Propriété Privée Nv. 6' !]
 
 Gong Pildu n'a pas tardé à agir.
 
@@ -140,7 +140,7 @@ La possibilité la plus probable était les <Prophètes>.
 
 Ces types que j'avais rencontrés dans le donjon du théâtre, qui connaissaient des 'informations cachées' que les autres ignoraient.
 
-J'avais même vérifié soigneusement le texte du 'Guide de Survie', mais le nom des 'Prophètes' n'apparaissait nulle part.
+J'avais même vérifié soigneusement le texte du *Guide de Survie*, mais le nom des 'Prophètes' n'apparaissait nulle part.
 
 Alors, qui étaient-ils ?
 
@@ -278,7 +278,7 @@ Lee Jihye a sursauté en me voyant, comme si elle ne s'attendait pas à ce que j
 
 Ce type, en tant que protagoniste, a vraiment de la chance.
 
-Même moi, en tant que lecteur, je suis épuisé.
+Même moi, en tant qu. Dokja-ssi, je suis épuisé.
 
 "Et en bas ?"
 
@@ -403,3 +403,5 @@ Enfin, j'avais transmis tout ce que Yu Junghyeok devait savoir.
 J'ai pressé le pas pour quitter le théâtre.
 
 Pendant que Yu Junghyeok jouait le rôle du prince endormi, je devais récupérer les avantages qu'il aurait dû obtenir, et le temps manquait.
+
+< Épisode 10. Guerre Future (4) - Fin>

@@ -1,8 +1,8 @@
 **Épisode 14. Le Maître du Trône (2)**
 
-Les pages du 'Guide de Survie' tournèrent dans mon esprit.
+Les pages du *Guide de Survie* tournèrent dans mon esprit.
 
-Un grondement retentit, suivi d'une lumière éblouissante qui inonda mon esprit, et des lignes de texte lumineuses commencèrent à s'aligner. C'était le texte du 'Guide de Survie'.
+Un grondement retentit, suivi d'une lumière éblouissante qui inonda mon esprit, et des lignes de texte lumineuses commencèrent à s'aligner. C'était le texte du *Guide de Survie*.
 
 [Heuk...?]
 
@@ -160,7 +160,7 @@ Condition de réussite : Vaincre le 'Donjon des Reliques' avec un nombre appropr
 
 Temps limite : Aucun
 
-Récompense : 500~5000 pièces
+Récompense : 500~5 000 pièces
 
 En cas d'échec : Mort
 
@@ -172,7 +172,7 @@ Yu Sangah parla d'une voix tendue.
 
 "Je ne pourrai plus jamais profiter des activités culturelles maintenant. D'abord le cinéma, maintenant le musée…"
 
-"Frère, est-ce qu'on est là pour obtenir l'épée légendaire ou quelque chose comme ça ?"
+"Hyung, est-ce qu'on est là pour obtenir l'épée légendaire ou quelque chose comme ça ?"
 
 "Non, pas pour l'instant."
 
@@ -308,7 +308,7 @@ Yu Sangah regarda les *Sangpyeongtongbo* qu'elle avait reçus, l'air intrigué.
 
 "Dix ? Attendez, Kim Dokja, vous ne pensez pas… ?"
 
-"Nous allons entrer dans le donjon caché où l'on peut obtenir l'[Épée du Carnage en Quatre Mouvements]."
+"Nous allons entrer dans le \'Donjon Caché\' où l'on peut obtenir l'[Épée du Carnage en Quatre Mouvements]."
 
 Yu Sangah, surprise, demanda :
 
@@ -319,3 +319,5 @@ Je secouai lentement la tête.
 "Nous n'allons pas là-bas pour obtenir l'[Épée du Carnage en Quatre Mouvements]."
 
 Nous y allons pour chasser les rois qui veulent l'obtenir.
+
+< Épisode 14. Le Maître du Trône (2) - Fin>

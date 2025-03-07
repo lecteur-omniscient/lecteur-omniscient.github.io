@@ -1,4 +1,4 @@
-**Épisode 13. Guerre des Rois (4)**
+**Épisode 13. La Guerre des Rois (4)**
 
 Lee Sungkook, surpris par le message du système, murmura :
 
@@ -136,7 +136,7 @@ Il est clair que j'ai aussi des moments de peur.
 
 Pour être honnête, c'est souvent le cas.
 
-Même si j'ai lu le 'Guide de Survie', je suis aussi, techniquement, un simple employé de bureau.
+Même si j'ai lu le *Guide de Survie*, je suis aussi, techniquement, un simple employé de bureau.
 
 Je ne le montre pas, mais plusieurs fois par jour, je me demande si je vais survivre.
 
@@ -146,7 +146,7 @@ Parce que c'est inutile de trop y penser.
 
 C'est la même chose dans n'importe quel monde.
 
-Pour Kim Dokja qui travaillait chez Mino Soft, et pour Kim Dokja qui vit maintenant dans le monde du 'Guide de Survie'.
+Pour Kim Dokja qui travaillait chez Mino Soft, et pour Kim Dokja qui vit maintenant dans le monde du *Guide de Survie*.
 
 La mort viendra, que vous le vouliez ou non.
 
@@ -302,11 +302,11 @@ Constellation de soutien : Ultime Héros de Hwangsanbeol
 
 Caractéristiques exclusives : Acteur de second rôle (normal)
 
-Compétences exclusives : [Affûtage d'Armes Lv.4], [Jeu d'acteur Lv.1], [Détection des faibles Lv.1]
+Compétences exclusives : [Affûtage d'Armes Nv. 4], [Jeu d'acteur Nv. 1], [Détection des faibles Nv. 1]
 
-Stigmates : [Kendo de Baekje Lv.4], [Acharnement au Combat Lv.2], [Utilisation d'unités spéciales Lv.3]
+Stigmates : [Kendo de Baekje Nv. 4], [Acharnement au Combat Nv. 2], [Utilisation d'unités spéciales Nv. 3]
 
-Statistiques globales : [Endurance Lv.19], [Force Lv.19], [Agilité Lv.21], [Magie Lv.15]
+Statistiques globales : [Endurance Nv. 19], [Force Nv. 19], [Agilité Nv. 21], [Magie Nv. 15]
 
 Évaluation globale : Un cas qui montre bien que même un humain ordinaire peut grandir s'il rencontre une constellation exceptionnelle. Le taux de synchronisation avec la constellation est élevé, donc la puissance des stigmates est considérable. Attention requise.
 
@@ -464,7 +464,7 @@ Peut-être que nous pouvons gagner sans utiliser de pièces ?
 
 "Frappez !"
 
-[Le personnage 'Chu Wangin' active le stigmate 'Utilisation d'unités spéciales Lv.3' !]
+[Le personnage 'Chu Wangin' active le stigmate 'Utilisation d'unités spéciales Nv. 3' !]
 
 Les Hwarang, écrasés par la puissance des troupes de Baekje, tombaient sans résistance.
 
@@ -477,3 +477,5 @@ Je me tournai vers Min Jiwon, qui me regardait avec un visage désespéré, et d
 "Rejouons la bataille de Hwangsanbeol ici."
 
 Comme ceux qui savent le savent, Hwangsanbeol était à l'origine une bataille que Silla avait gagnée.
+
+< Épisode 13. La Guerre des Rois (4) - Fin>

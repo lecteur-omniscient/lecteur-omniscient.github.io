@@ -28,7 +28,7 @@ Si vous libérez correctement le sceau de l'idole, l'incarnation peut obtenir, a
 
 Cependant, la 'libération du sceau' prend du temps, et je n'étais pas sûr de pouvoir obtenir la compétence que je voulais.
 
-Je regardai le texte du Guide de Survie affiché sur mon smartphone.
+Je regardai le texte du *Guide de Survie* affiché sur mon smartphone.
 
 « "Mais la statue de Samyeong Daesa était scellée, comment as-tu obtenu la compétence ?"
 
@@ -40,9 +40,9 @@ Je regardai le texte du Guide de Survie affiché sur mon smartphone.
 
 "Hé ! Tout le monde, méfiez-vous de ce type. Il est sûrement maudit par une constellation." »
 
-La 'compétence' de Samyeong Daesa était essentielle pour franchir le dernier obstacle avant d'entrer à Chungmuro.
+La compétence de Samyeong Daesa était essentielle pour franchir le dernier obstacle avant d'entrer à Chungmuro.
 
-Et la méthode la plus sûre pour obtenir une 'compétence' était de détruire l'idole elle-même.
+Et la méthode la plus sûre pour obtenir une compétence était de détruire l'idole elle-même.
 
 Bien sûr, il y avait aussi la possibilité d'acheter quelque chose de similaire dans le 'Sac du Dokkaebi', mais... il vaut mieux économiser les pièces.
 
@@ -173,3 +173,5 @@ Je m'adressai à Jeong Huiwon, qui boude.
 "...... Essayez-les. Vous ne le regretterez pas."
 
 Jeong Huiwon hésita un moment, puis enfil
+
+< Épisode 6. L'Heure du Jugement (4) - Fin>

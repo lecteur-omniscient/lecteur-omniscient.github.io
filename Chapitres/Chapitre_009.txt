@@ -6,7 +6,7 @@ Je regardai droit dans les yeux de Lee Hyeonseong et Han Myeongoh, qui hésitaie
 
 « Euh, euh... »
 
-« Monsieur Lecteur, rien ne garantit que ce qui se trouve derrière cette porte soit un ennemi, n'est-ce pas ? »
+« MonsieurDokja, rien ne garantit que ce qui se trouve derrière cette porte soit un ennemi, n'est-ce pas ? »
 
 Lee Hyeonseong, le Maître de l'Acier, était faible au moment crucial. C'était pour cela qu'il ne pouvait pas être le leader du groupe.
 
@@ -38,7 +38,7 @@ La porte en acier semblait ne plus tenir qu'une minute.
 
 Même si c'était le protagoniste, au début de l'histoire, son niveau de force ne devait pas être suffisant pour briser une porte aussi épaisse. C'était franchement impressionnant.
 
-« Monsieur Lecteur ! Ici— »
+« MonsieurDokja ! Ici— »
 
 J'avais trouvé un mécanisme manuel intact.
 
@@ -54,11 +54,11 @@ Cependant, bien que le mécanisme tournait sans problème, la porte ne s'ouvrit 
 
 À moins d'être un enfant, l'espace était trop étroit pour qu'un adulte puisse passer. Han Myeongoh et Lee Hyeonseong s'efforcèrent de pousser chacun une porte, mais elles ne bougèrent pas d'un pouce.
 
-[Pièces possédées : 4700]
+[Pièces possédées : 4 700]
 
 L'une des utilisations des pièces était d'augmenter les statistiques globales.
 
-J'avais déjà dépensé 2700 pièces pour augmenter mon niveau d'endurance à 10.
+J'avais déjà dépensé 2 700 pièces pour augmenter mon niveau d'endurance à 10.
 
 Si j'utilisais les pièces restantes pour augmenter ma force, je pourrais peut-être résoudre la situation, mais dans une situation aussi imprévisible, il était risqué de gaspiller mes pièces si tôt.
 
@@ -82,11 +82,11 @@ Constellation de soutien : Maître de l'Acier
 
 Caractéristique exclusive : Soldat Indifférent à l'Injustice (Commun)
 
-Compétences exclusives : [Maîtrise de la Baïonnette Lv.2], [Art du Camouflage Lv.2], [Force de Persévérance Lv.2]
+Compétences exclusives : [Maîtrise de la Baïonnette Nv. 2], [Art du Camouflage Nv. 2], [Force de Persévérance Nv. 2]
 
-Stigmate : [Poussée des Grandes Montagnes Lv.1]
+Stigmate : [Poussée des Grandes Montagnes Nv. 1]
 
-Statistiques globales : [Endurance Lv.8], [Force Lv.8], [Agilité Lv.7], [Magie Lv.5]
+Statistiques globales : [Endurance Nv. 8], [Force Nv. 8], [Agilité Nv. 7], [Magie Nv. 5]
 
 Évaluation globale : Ses statistiques globales sont très solides. Malgré sa capacité à endurer l'injustice, il a été choisi par une constellation. Cela pourrait être une nouvelle opportunité pour lui.
 
@@ -168,7 +168,7 @@ En cas d'échec : ???
 
 +
 
-« Monsieur Lecteur, il y a quelque chose d'étrange. Il est écrit "pont détruit", mais le pont est encore... »
+« MonsieurDokja, il y a quelque chose d'étrange. Il est écrit "pont détruit", mais le pont est encore... »
 
 « Ne vous en préoccupez pas et courez ! Vite ! »
 
@@ -180,7 +180,7 @@ Le pont n'était pas encore détruit.
 
 Ce qui signifiait qu'il allait forcément se détruire.
 
-« Monsieur Lecteur, dépêchez-vous ! »
+« MonsieurDokja, dépêchez-vous ! »
 
 « J'arrive. »
 
@@ -246,7 +246,7 @@ Au moment où je réalisais cela, le rire du Dokkaebi résonna dans les airs.
 
 [Le sol environnant se remplit d'éther noir.]
 
-[Les démons (魔人) se réveillent !]
+[Les démons se réveillent !]
 
 Un grondement se fit entendre, et quelque chose nous poursuivait. Yu Sangah, pâle, murmura :
 
@@ -284,7 +284,7 @@ Lorsque la poussière se dissipa, je pus voir la scène autour de moi. Des poutr
 
 Le pont était coupé.
 
-« ... Monsieur Lecteur ! ... Vous allez bien ? »
+« ... MonsieurDokja ! ... Vous allez bien ? »
 
 Un peu plus loin, Yu Sangah soutenait Han Myeongoh, qui semblait avoir une jambe blessée à cause du tremblement de terre.
 
@@ -310,7 +310,7 @@ Description : Un pont de lumière créé par la bénédiction d'une constellatio
 
 +
 
-« Monsieur Lecteur. C'est... dans ma tête, c'est-à-dire, soudainement— »
+« MonsieurDokja. C'est... dans ma tête, c'est-à-dire, soudainement— »
 
 Je croisai le regard de Yu Sangah, qui parlait de manière confuse. Je compris à peu près la situation.
 
@@ -322,7 +322,7 @@ Un pouvoir que les constellations pouvaient utiliser pour intervenir dans un sc�
 
 Je ne savais pas quelle constellation c'était, mais quelqu'un avait choisi Yu Sangah comme incarnation et voulait qu'elle survive.
 
-L'apparition d'un 'Deus Ex Machina' était un phénomène rare, même dans l'ensemble du 'Guide de Survie'.
+L'apparition d'un 'Deus Ex Machina' était un phénomène rare, même dans l'ensemble du *Guide de Survie*.
 
 Et Yu Sangah était censée mourir.
 
@@ -338,7 +338,7 @@ Je fus un peu surpris.
 
 Je ne pouvais pas voir les informations de cette personne avec ma compétence ? Pourquoi ? Avait-elle une constellation spéciale ? Ou une barrière mentale ? Mais il était peu probable qu'elle en ait une si tôt... Attendez, est-ce que... ?
 
-« Monsieur Lecteur, qu'est-ce qu'on fait maintenant ? »
+« MonsieurDokja, qu'est-ce qu'on fait maintenant ? »
 
 La voix paniquée de Yu Sangah résonna. Je n'avais pas beaucoup de temps pour réfléchir.
 
@@ -355,3 +355,5 @@ Il n'y avait aucun moyen pour tout le monde de survivre.
 Le corps de Han Myeongoh, dont j'avais croisé le regard, tremblait légèrement.
 
 Finalement, quelqu'un devait mourir.
+
+< Épisode 2. Le Protagoniste (3) - Fin>

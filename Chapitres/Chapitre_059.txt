@@ -16,7 +16,7 @@ Je jetai un regard à Yu Junghyeok, qui observait la scène.
 
 [Compétence exclusive, *Point de Vue du Lecteur Omniscient* activée.]
 
-[Le personnage *Yu Junghyeok* utilise actuellement *Détecteur de Mensonge Nv.6*.]
+[Le personnage *Yu Junghyeok* utilise actuellement *Détecteur de Mensonge Nv. 6*.]
 
 Je m'en doutais. Ce type est méticuleux.
 
@@ -30,7 +30,7 @@ Je ne pus m'empêcher de rire en voyant son sourire arrogant.
 
 Vraiment ? Voyons voir.
 
-[Le personnage *Yu Junghyeok* active *Détecteur de Mensonge Nv.6*.]
+[Le personnage *Yu Junghyeok* active *Détecteur de Mensonge Nv. 6*.]
 
 [Le personnage Yu Junghyeok confirme que cette déclaration est vraie.]
 
@@ -106,7 +106,7 @@ Quatre, il possède un "texte" contenant des informations sur le futur.
 
 Cinq, le contenu de ce texte est "partiellement" vrai.
 
-Les événements qui se sont déroulés tout au long des 3149 chapitres du *Guide de Survie*.
+Les événements qui se sont déroulés tout au long des 3 149 chapitres du *Guide de Survie*.
 
 À ma connaissance, le *Guide de Survie* n'était pas populaire, donc il n'existait pas de version piratée. Mais si ce type est bien celui que je pense, alors il est logique qu'il possède un "texte" et qu'il connaisse autant d'informations sur le *Guide de Survie*.
 
@@ -156,7 +156,7 @@ Yu Junghyeok secoua la tête.
 
 "C'est similaire à une prophétie ! Tu verras si tu regardes mes caractéristiques ! Je suis même appelé le *Dernier* !"
 
-[Le personnage, *Yu Junghyeok* utilise *Œil du Sage Nv.8* !]
+[Le personnage, *Yu Junghyeok* utilise *Œil du Sage Nv. 8* !]
 
 Je lançai également une compétence.
 
@@ -461,3 +461,5 @@ Ils ne semblaient pas encore comprendre, alors je décidai d'expliquer gentiment
 "À partir de maintenant, nous allons créer et diffuser un texte de *Régresseur Infini de Classe SSSSS*."
 
 Quand il y a plusieurs ennemis gênants, la solution est de les faire se battre entre eux.
+
+< Épisode 12. Point de Vue à la Première Personne du Personnage Principal (5) - Fin>

@@ -2,11 +2,11 @@
 
 Les Dix Malfaisants.
 
-Bien que la liste ou le classement change souvent en fonction des régressions de Yu Junghyeok, ces dix individus sont les principaux antagonistes de ce monde décrit dans le 'Guide de Survie'.
+Bien que la liste ou le classement change souvent en fonction des régressions de Yu Junghyeok, ces dix individus sont les principaux antagonistes de ce monde décrit dans le *Guide de Survie*.
 
 Gong Pildu, le Seigneur Armé de Chungmuro, est l'un de ces Dix Malfaisants.
 
-Ainsi, quiconque a lu le 'Guide de Survie' jusqu'au bout (même si c'est seulement moi) ne peut pas ne pas connaître Gong Pildu.
+Ainsi, quiconque a lu le *Guide de Survie* jusqu'au bout (même si c'est seulement moi) ne peut pas ne pas connaître Gong Pildu.
 
 [Zone Verte 56/70]
 
@@ -88,11 +88,11 @@ Constellation de soutien : Maître de la Défense
 
 Caractéristiques exclusives : Propriétaire Immobilier (Rare), Grand Propriétaire Immobilier (Rare)
 
-Compétences exclusives : [Propriété Privée Lv.3], [Force de Persévérance Lv.1], [Calcul Coûts-Bénéfices Lv.2], [Art du Leadership Lv.2], [Agitation Lv.1], [Affûtage d'Armes Lv.1]
+Compétences exclusives : [Propriété Privée Nv. 3], [Force de Persévérance Nv. 1], [Calcul Coûts-Bénéfices Nv. 2], [Art du Leadership Nv. 2], [Agitation Nv. 1], [Affûtage d'Armes Nv. 1]
 
-Stigmate : [Zone Armée Lv.3]
+Stigmate : [Zone Armée Nv. 3]
 
-Statistiques globales : [Endurance Lv.9], [Force Lv.11], [Agilité Lv.10], [Magie Lv.19]
+Statistiques globales : [Endurance Nv. 9], [Force Nv. 11], [Agilité Nv. 10], [Magie Nv. 19]
 
 Évaluation globale : Gong Pildu est le représentant de l'Association des Propriétaires Immobiliers de Chungmuro. Sa compétence 'Propriété Privée', en synergie avec son stigmate 'Zone Armée', est extrêmement efficace dans les combats à grande échelle. Il est recommandé de ne pas en faire un ennemi.
 
@@ -186,7 +186,7 @@ Gong Pildu n'avait pas d'autre choix que d'accepter ma proposition.
 
 Parce qu'actuellement, Yu Junghyeok était la seule personne qui menaçait le pouvoir de Gong Pildu à Chungmuro.
 
-[Le personnage 'Gong Pildu' active 「Calcul Coûts-Bénéfices Lv.2」.]
+[Le personnage 'Gong Pildu' active 「Calcul Coûts-Bénéfices Nv. 2」.]
 
 "Pourquoi je n'aurais rien à perdre ?"
 
@@ -210,15 +210,15 @@ C'était pour une autre raison. Espèce de salopard. Je me retournai en souriant
 
 "C'était combien ? 100 pièces ?"
 
-"Non, toi et le gamin, ça fait 1000 pièces."
+"Non, toi et le gamin, ça fait 1 000 pièces."
 
 Une veine gonfla sur mon front.
 
-Ce type croit que 1000 pièces, c'est comme un billet de 1000 wons...
+Ce type croit que 1 000 pièces, c'est comme un billet de 1 000 wons...
 
 "C'est trop."
 
-Même un Dokkaebi ne m'a jamais extorqué autant de pièces, alors je ne vais pas en donner 1000 à un type comme Gong Pildu.
+Même un Dokkaebi ne m'a jamais extorqué autant de pièces, alors je ne vais pas en donner 1 000 à un type comme Gong Pildu.
 
 Gong Pildu rit.
 
@@ -228,7 +228,7 @@ Instinctivement, je repoussai les hommes autour de moi et courus vers l'endroit 
 
 Vraiment rassurant.
 
-"... Lecteur."
+"...Dokja."
 
 Mais même Lee Hyeonseong, dont les niveaux de force et d'endurance approchaient tous les deux de 14, avait une voix tendue.
 
@@ -348,11 +348,11 @@ Constellation de soutien : ???
 
 Caractéristiques exclusives : Régresseur <3ème cycle> (Mythique), Joueur Professionnel (Rare)
 
-Compétences exclusives : [Œil du Sage Lv.8], [Combat au Corps à Corps Lv.8], [Affûtage d'Armes Avancé Lv.5], [Énergie Défensive Lv.5], [Barrière Mentale Lv.5], [Contrôle des Foules Lv.5], [Déduction Lv.5], [Détecteur de Mensonge Lv.4]... (omis)...
+Compétences exclusives : [Œil du Sage Nv. 8], [Combat au Corps à Corps Nv. 8], [Affûtage d'Armes Avancé Nv. 5], [Énergie Défensive Nv. 5], [Barrière Mentale Nv. 5], [Contrôle des Foules Nv. 5], [Déduction Nv. 5], [Détecteur de Mensonge Nv. 4]... (omis)...
 
-Stigmate : [Régression Lv.3]
+Stigmate : [Régression Nv. 3]
 
-Statistiques globales : [Endurance Lv.24], [Force Lv.24], [Agilité Lv.25], [Magie Lv.23]
+Statistiques globales : [Endurance Nv. 24], [Force Nv. 24], [Agilité Nv. 25], [Magie Nv. 23]
 
 Évaluation globale : (L'évaluation globale de ce personnage est trop longue pour être chargée).
 
@@ -410,7 +410,7 @@ Yu Junghyeok nous regarda, moi et les personnes derrière moi, avec un regard im
 
 La réponse vint rapidement.
 
-[Le personnage 'Yu Junghyeok' active 'Œil du Sage Lv.8' !]
+[Le personnage 'Yu Junghyeok' active 'Œil du Sage Nv. 8' !]
 
 « J'ai laissé Lee Hyeonseong derrière, et tu n'as réussi à le faire évoluer que jusqu'à ce point ? »
 
@@ -429,3 +429,5 @@ Mais alors, alors qu'il observait le groupe depuis un moment, le regard de Yu Ju
 Pour la première fois, son regard exprimait de la perplexité.
 
 « ... Qu'est-ce que c'est que ça ? »
+
+< Épisode 7. Propriétaire Immobilier (2) - Fin>

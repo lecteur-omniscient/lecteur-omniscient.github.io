@@ -2,7 +2,7 @@
 
 Une boîte d'objets aléatoires en édition limitée.
 
-Selon les paramètres du 'Guide de Survie', cet objet était un article vendu en édition limitée lors d'un ancien 'scénario' dans le passé.
+Selon les paramètres du *Guide de Survie*, cet objet était un article vendu en édition limitée lors d'un ancien 'scénario' dans le passé.
 
 [Ah, non, pourquoi est-ce que ça se trouve ici ?]
 
@@ -10,9 +10,9 @@ Biryu, qui est apparu tardivement, a également poussé un cri de surprise.
 
 [Ça, ça aurait dû être retiré de la vente immédiatement !]
 
-Selon l'œuvre originale du 'Guide de Survie', les paramètres de cet objet étaient assez complexes.
+Selon l'œuvre originale du *Guide de Survie*, les paramètres de cet objet étaient assez complexes.
 
-Cet article, sorti bien avant le début du scénario du système planétaire 8612, avait été retiré de force par le bureau de gestion du Star Stream.
+Cet article, sorti bien avant le début du scénario du système planétaire 8 612, avait été retiré de force par le bureau de gestion du Star Stream.
 
 Et pour cause, le fait qu'il transforme un 'objet de bas niveau' en un 'objet de niveau supérieur' avait un impact si énorme qu'il menaçait l'équilibre du scénario.
 
@@ -22,7 +22,7 @@ Les constellations étaient furieuses face à cette politique de monétisation a
 
 [Les, les constellations. C'est juste que... Je ne sais vraiment pas pourquoi c'est là... Hi, hi, hi ! Fin de la diffusion !]
 
-[Le canal #BI-7623 est temporairement fermé.]
+[Le canal #BI-7 623 est temporairement fermé.]
 
 Alors que Biryu disparaissait en marmonnant des absurdités, les voix des constellations se sont également éteintes.
 
@@ -96,7 +96,7 @@ Ce n'est pas juste un objet de classe alphabétique, mais une relique stellaire 
 
 C'est vrai, c'est un objet incroyable.
 
-Dans le monde du 'Guide de Survie', les 'reliques stellaires' sont les seuls objets exclus du classement par grades. Ce n'est pas seulement parce qu'ils ont des performances incroyables, mais aussi parce qu'ils sont très spéciaux.
+Dans le monde du *Guide de Survie*, les 'reliques stellaires' sont les seuls objets exclus du classement par grades. Ce n'est pas seulement parce qu'ils ont des performances incroyables, mais aussi parce qu'ils sont très spéciaux.
 
 Toutes les reliques stellaires contiennent le pouvoir d'une constellation vivante.
 
@@ -122,7 +122,7 @@ J'ai jeté un coup d'œil à Han Myeongoh, mais il avait juste l'air stupide en 
 
 [Le propriétaire de la relique stellaire s'intéresse à vous.]
 
-D'après le message, il semble qu'il y ait une constellation quelque part. Je devrais vérifier dans le 'Guide de Survie' plus tard.
+D'après le message, il semble qu'il y ait une constellation quelque part. Je devrais vérifier dans le *Guide de Survie* plus tard.
 
 "Bon, retournons maintenant. Il y a beaucoup de taupes à l'extérieur, donc on peut juste prendre le foyer magique et rentrer."
 
@@ -282,7 +282,7 @@ Mais un fil pour s'échapper d'un labyrinthe...
 
 Ça... Je crois que je connais cette constellation.
 
-[Le canal #BI-7623 est de nouveau ouvert.]
+[Le canal #BI-7 623 est de nouveau ouvert.]
 
 Les messages indiquant l'entrée des constellations sont revenus.
 
@@ -322,7 +322,7 @@ La voix de Bihyeong n'était audible que par moi maintenant. C'était ce qu'on a
 
 'Attends une minute. Est-ce que c'est toi qui as conçu cet objet de pièces absurde ?'
 
-Même moi, un fervent lecteur du 'Guide de Survie', je ne connaissais pas ce fait.
+Même moi, un fervent lecteur du *Guide de Survie*, je ne connaissais pas ce fait.
 
 [Merde ! Si seulement je n'avais pas été aussi avide à l'époque...]
 
@@ -453,3 +453,5 @@ Ceux qui avaient des pièces obtenaient tout.
 [La constellation, 'Juge du Feu Quasi-Démonique' observe votre choix.]
 
 Et moi, j'étais la personne avec le plus de pièces dans cette station.
+
+< Épisode 6. L'Heure du Jugement (1) - Fin>

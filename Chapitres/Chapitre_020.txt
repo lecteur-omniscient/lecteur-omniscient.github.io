@@ -136,7 +136,7 @@ Ma réponse franche surprit Han Myeongoh. Il s’attendait probablement à ce qu
 
 Lee Hyeonseong, à côté de moi, semblait inquiet, mais j’avais mes raisons.
 
-Ainsi, notre groupe de survivants de la station 3807 fut reformé avec moi, Lee Hyeonseong, Lee Gilyeong, Yu Sangah et Han Myeongoh, soit cinq personnes.
+Ainsi, notre groupe de survivants de la station 3 807 fut reformé avec moi, Lee Hyeonseong, Lee Gilyeong, Yu Sangah et Han Myeongoh, soit cinq personnes.
 
 — Je peux venir aussi ?
 
@@ -296,7 +296,7 @@ Cependant, après avoir réussi à enlever la peau coriace, j’extrayai la colo
 
 — Pour faire du kendo, il faut une arme.
 
-Bien que ce ne soit pas aussi efficace que les épines d’un Stone Hog, la colonne vertébrale de la taupe terrestre, étant un seul os solide, était une arme plutôt utile en début de scénario.
+Bien que ce ne soit pas aussi efficace que les épines d’un Stonehog, la colonne vertébrale de la taupe terrestre, étant un seul os solide, était une arme plutôt utile en début de scénario.
 
 Après avoir coupé le cartilage reliant les pattes et façonné l’os, il prit la forme d’une épée. Je la tendis à Jeong Huiwon.
 
@@ -375,3 +375,5 @@ Et moi aussi, je saurai qui emmener parmi eux.
 Dès que je fis un pas de plus, les taupes terrestres bougèrent.
 
 Le combat commença.
+
+< Épisode 5. Gardien des Ténèbres (1) - Fin>

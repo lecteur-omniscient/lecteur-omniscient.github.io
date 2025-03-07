@@ -116,7 +116,7 @@ Le mot est parvenu à Yu Junghyeok au bon moment.
 
 "De quoi tu parles ?"
 
-[Le personnage 'Yu Junghyeok' utilise 'Détecteur de Mensonge Nv.6'.]
+[Le personnage 'Yu Junghyeok' utilise 'Détecteur de Mensonge Nv. 6'.]
 
 [Le personnage 'Yu Junghyeok' confirme que vos paroles sont fausses.]
 
@@ -158,7 +158,7 @@ Au moment où l'épée de Yu Junghyeok s'élève, une voix résonne dans les air
 
 [Hé, tout le monde, calmez-vous. Vous commencez déjà à vous battre ? Voyons voir, vous avez tous rempli les conditions.]
 
-Un dokkaebi de rang intermédiaire. Enfin, vous êtes là.
+Un Dokkaebi de rang intermédiaire. Enfin, vous êtes là.
 
 C'est seulement alors que Yu Junghyeok remarque le panneau flottant dans les airs.
 
@@ -188,13 +188,13 @@ Pourquoi je ne peux pas entrer là-dedans ?
 
 [Hahaha ! Oh là là ! Tu as été trop occupé à regarder le tableau d'ensemble pour remarquer quelque chose d'important !]
 
-Je lève les yeux vers le ciel en entendant ce rire et vois le visage moqueur du dokkaebi de rang intermédiaire. Je pensais qu'il avait peut-être manipulé quelque chose, mais un message inattendu apparaît.
+Je lève les yeux vers le ciel en entendant ce rire et vois le visage moqueur du Dokkaebi de rang intermédiaire. Je pensais qu'il avait peut-être manipulé quelque chose, mais un message inattendu apparaît.
 
 [Vous n'avez pas occupé la 'station cible' du quatrième scénario.]
 
 [Pour obtenir la 'Dernière Qualification de Roi', vous devez d'abord occuper la 'station cible'.]
 
-[La 'station cible' de votre groupe est 'Changsin Station'.]
+[La 'station cible' de votre groupe est 'station de Changsin'.]
 
 Ah… J'ai été tellement occupé par les rois que j'ai oublié ça.
 
@@ -206,7 +206,7 @@ Je n'avais pas encore fait ça.
 
 Si ça continue comme ça, tout ce que j'ai fait jusqu'à présent sera réduit à néant.
 
-Je me demande si je devrais courir jusqu'à Changsin Station maintenant.
+Je me demande si je devrais courir jusqu'à station de Changsin maintenant.
 
 Mais… merde.
 
@@ -228,11 +228,11 @@ Jeong Huiwon arrive en courant, tenant fermement la main d'une petite fille inco
 
 Jeong Huiwon n'aurait pas dû être ici.
 
-Après avoir sauvé une petite fille dans la région nord de Séoul, elle devait attendre à Changsin Station.
+Après avoir sauvé une petite fille dans la région nord de Séoul, elle devait attendre à station de Changsin.
 
 C'était la mission de Jeong Huiwon dans ce scénario.
 
-"Jeong Huiwon, pourquoi êtes-vous ici ? Je vous ai clairement dit d'attendre à Changsin Station…"
+"Jeong Huiwon, pourquoi êtes-vous ici ? Je vous ai clairement dit d'attendre à station de Changsin…"
 
 "Mais c'est insupportable… Combien de temps devais-je attendre ? De plus, elle n'a rien mangé depuis ce matin. Vous ne vous inquiétez pas pour votre petite sœur ?"
 
@@ -264,11 +264,11 @@ Un gargouillis se fait entendre dans le ventre de l'enfant. J'écoute ce son ave
 
 "Lecteur, où allez-vous ?"
 
-"Je vais occuper Changsin Station."
+"Je vais occuper station de Changsin."
 
 Je n'ai pas d'autre choix que d'essayer, même si c'est tard.
 
-J'aimerais avoir un parchemin de téléportation longue distance, mais le dokkaebi de rang intermédiaire surveille, donc je ne peux même pas ouvrir mon sac dokkaebi.
+J'aimerais avoir un parchemin de téléportation longue distance, mais le Dokkaebi de rang intermédiaire surveille, donc je ne peux même pas ouvrir mon sac Dokkaebi.
 
 Mais Jeong Huiwon, qui me regarde, ouvre la bouche.
 
@@ -292,7 +292,7 @@ Puis, je vois une petite encoche où quelque chose peut être inséré.
 
 …Je n'avais jamais pensé à ça. Est-ce que c'est vraiment possible ?
 
-Personne n'avait jamais fait ça dans aucun cycle du 'Guide de Survie'.
+Personne n'avait jamais fait ça dans aucun cycle du *Guide de Survie*.
 
 Jeong Huiwon dit avec audace :
 
@@ -300,7 +300,7 @@ Jeong Huiwon dit avec audace :
 
 Quel genre de personne sans éducation a pu penser à ça ?
 
-Jeong Huiwon a découpé le sol de 'Changsin Station' où se trouvait le 'drapeau à planter'.
+Jeong Huiwon a découpé le sol de 'station de Changsin' où se trouvait le 'drapeau à planter'.
 
 [La constellation 'Aventuriers de l'Œuf' est impressionnée par l'idée de Jeong Huiwon.]
 
@@ -314,9 +314,9 @@ J'ouvre la bouche pour dire quelque chose, puis la referme.
 
 Je hoche la tête et sors le drapeau.
 
-[Votre groupe a occupé 'Changsin Station'.]
+[Votre groupe a occupé 'station de Changsin'.]
 
-[Vous avez reçu 2000 pièces en récompense pour la 'bataille des drapeaux' !]
+[Vous avez reçu 2 000 pièces en récompense pour la 'bataille des drapeaux' !]
 
 Ça marche. Ça marche vraiment.
 
@@ -379,3 +379,5 @@ Et quand j'ouvre les yeux, je vois enfin le [Champ de Bataille des Rois].
 [À partir de maintenant, toutes les statistiques des rois sont fixées à 10/10/10/10/10.]
 
 [La 'Dernière Qualification de Roi' continue jusqu'à ce qu'il ne reste qu'une seule personne.]
+
+< Épisode 14. Le Maître du Trône (6) - Fin>

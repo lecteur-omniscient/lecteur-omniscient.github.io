@@ -110,7 +110,7 @@ Tu as oublié à quel point Yu Junghyeok était impitoyable.
 
 Alors, laisse-moi te le rappeler.
 
-[Compétence exclusive, « Aura de Pouvoir Blanche Nv.2 » activée !]
+[Compétence exclusive, « Aura de Pouvoir Blanche Nv. 2 » activée !]
 
 [« Lame de la Conviction » activée !]
 
@@ -360,9 +360,9 @@ Mais ce type, qu’est-ce qu’il regarde si intensément depuis tout à l’heu
 
 Lee Sungkook, à l’avant, regardait son smartphone depuis un moment.
 
-[Vous avez investi 5000 pièces en Agilité.]
+[Vous avez investi 5 000 pièces en Agilité.]
 
-[Agilité Nv.20 -> Agilité Nv.30]
+[Agilité Nv. 20 -> Agilité Nv. 30]
 
 [Une agilité incroyable envahit tout votre corps.]
 
@@ -383,3 +383,5 @@ Un sentiment de malaise m’envahit.
 Si mes yeux ne me trompaient pas... ce que je venais de voir était clairement l’écran d’un « chat de groupe ».
 
 ... Internet fonctionne ? Ici, maintenant ?
+
+< Épisode 10. Guerre Future (6) - Fin>

@@ -36,13 +36,13 @@ Le "Grand Dokkaebi" est intervenu pour ça ?
 
 [Tu ne sais pas ? Le "Jugement de Pertinence Narrative" est comme une enquête fiscale pour vous. Enfin... Tu vas en baver un peu pendant un moment.]
 
-Après que Bihyung ait disparu, une étincelle géante a jailli dans les airs, et un Dokkaebi de niveau intermédiaire en costume est apparu. Après nous avoir observés un moment, il a parlé d'une voix monotone.
+Après que Bihyeong ait disparu, une étincelle géante a jailli dans les airs, et un Dokkaebi de niveau intermédiaire en costume est apparu. Après nous avoir observés un moment, il a parlé d'une voix monotone.
 
 [...Désolé, tout le monde. Il y a eu quelques frictions, donc le versement des récompenses a été retardé. Bien que ce soit tardif, je vais maintenant vous donner vos récompenses.]
 
-[Vous avez obtenu 3000 pièces en récompense pour avoir terminé un scénario caché.]
+[Vous avez obtenu 3 000 pièces en récompense pour avoir terminé un scénario caché.]
 
-[Vous avez obtenu 15000 pièces en récompense pour avoir tué le premier dragon de niveau 5.]
+[Vous avez obtenu 15 000 pièces en récompense pour avoir tué le premier dragon de niveau 5.]
 
 [Vous avez reçu le "Talisman des Races Immunes" pour avoir vaincu une calamité mineure en premier.]
 
@@ -108,7 +108,7 @@ La distance entre la station Anguk et Chungmuro était plus longue que prévu, a
 
 Jeong Huiwon et Lee Hyeonseong marchaient devant, tandis que moi, Lee Sungkook et Jeong Minseob marchions derrière.
 
-Nous n'avons pas pu emporter tous les cadavres du dragon de feu, alors nous en avons mis environ la moitié sur le marché. L'autre moitié a également été mise sur le marché, mais à des prix exorbitants. Ce n'était pas pour les vendre, mais pour utiliser le marché comme un entrepôt. Bihyung a râlé, mais ce n'était pas mon problème. Jeong Minseob a ouvert la bouche.
+Nous n'avons pas pu emporter tous les cadavres du dragon de feu, alors nous en avons mis environ la moitié sur le marché. L'autre moitié a également été mise sur le marché, mais à des prix exorbitants. Ce n'était pas pour les vendre, mais pour utiliser le marché comme un entrepôt. Bihyeong a râlé, mais ce n'était pas mon problème. Jeong Minseob a ouvert la bouche.
 
 "Au fait, Président."
 
@@ -272,7 +272,7 @@ Un sourire hideux, des yeux qui me regardaient.
 
 C'était impossible.
 
-Les compétences qui permettent de survivre même après avoir été décapité sont extrêmement rares dans le <Guide de Survie>.
+Les compétences qui permettent de survivre même après avoir été décapité sont extrêmement rares dans le <*Guide de Survie*>.
 
 Même avec une compétence comme [Corps Immortel], il est impossible de rester intact après avoir été décapité.
 
@@ -302,7 +302,7 @@ Ce type ne connaît pas ma véritable identité, n'est-ce pas ?
 
 "Et toi, qui es-tu ?"
 
-D'après ce que je sais, il y a très peu de personnes dans tout le <Guide de Survie> qui peuvent utiliser la compétence [Avatar].
+D'après ce que je sais, il y a très peu de personnes dans tout le <*Guide de Survie*> qui peuvent utiliser la compétence [Avatar].
 
 Et les professions qui obtiennent une telle caractéristique sont généralement prédéterminées.
 
@@ -311,3 +311,5 @@ Principalement des professions liées à la création, où le stress excessif pr
 J'ai lentement baissé la tête, aligné mon regard avec le sien et demandé :
 
 "Es-tu... un 'auteur' ?"
+
+< Épisode 12. Point de Vue à la Première Personne du Personnage Principal (4) - Fin>

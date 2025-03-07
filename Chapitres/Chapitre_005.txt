@@ -44,7 +44,7 @@ Je l’avais trouvé.
 
 Mon doigt s’arrêta sur une scène du début de l’œuvre, où le protagoniste s’apprêtait à accomplir une "action" dans le wagon du train où il se trouvait.
 
-*Il regarda les gens rassemblés près de la porte arrière du wagon 3707. La molette du briquet qu’il tenait fermement était froide.*
+*Il regarda les gens rassemblés près de la porte arrière du wagon 3 707. La molette du briquet qu’il tenait fermement était froide.*
 
 *Cette fois, il ne ferait pas d’erreur. Pour atteindre son objectif, il n’hésiterait devant aucun moyen.*
 
@@ -58,11 +58,11 @@ Mon doigt s’arrêta sur une scène du début de l’œuvre, où le protagonist
 
 Un frisson me parcourut l’échine, et je dus relire ce passage plusieurs fois. La source de mon malaise fut vite révélée.
 
-"...C’était le 3707."
+"...C’était le 3 707."
 
 Je vérifiai instinctivement le numéro du wagon dans lequel je me trouvais.
 
-[3807].
+[3 807].
 
 Le wagon où j’étais actuellement était juste *derrière* celui du protagoniste du prologue.
 
@@ -72,7 +72,7 @@ Mes doigts tremblaient légèrement.
 
 Alors, quel était le destin des gens dans ce wagon ?
 
-*Il regarda à travers la vitre embuée le chaos qui régnait dans le wagon 3807. Là-bas, c’était déjà trop tard. Tant pis. De toute façon, seuls deux survivront dans ce wagon.*
+*Il regarda à travers la vitre embuée le chaos qui régnait dans le wagon 3 807. Là-bas, c’était déjà trop tard. Tant pis. De toute façon, seuls deux survivront dans ce wagon.*
 
 Seuls deux survivraient.
 
@@ -86,7 +86,7 @@ Cette femme allait probablement mourir.
 
 Et moi aussi.
 
-"Monsieur Lecteur, ne devrions-nous pas les arrêter ?"
+"MonsieurDokja, ne devrions-nous pas les arrêter ?"
 
 Yu Sangah pointa du doigt un endroit où quelque chose avait déjà commencé.
 
@@ -262,7 +262,7 @@ Je forçai Yu Sangah à s’asseoir, puis je pris une grande inspiration et me t
 
 En réalité, c’était un peu tôt pour agir. Ce n’était pas mon plan initial.
 
-"...Monsieur Lecteur ?"
+"...MonsieurDokja ?"
 
 Je ne répondis pas à son appel et regardai les gens. Ils étaient trop occupés à frapper la vieille dame pour remarquer quoi que ce soit.
 
@@ -395,3 +395,5 @@ Et en même temps, je lançai le filet de toutes mes forces. Directement vers le
 "Espèce de fou !"
 
 Les insectes libérés bondirent de toutes leurs forces vers la liberté.
+
+< Épisode 1. Début du service payant (4) - Fin>

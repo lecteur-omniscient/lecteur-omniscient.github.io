@@ -72,7 +72,7 @@ Surtout si Yu Junghyeok était dans la pire situation que j'imaginais.
 
 La mante géante que Lee Gilyeong avait relâchée s'envola dans les airs et disparut, et le paysage du ciel sombre commença à se désintégrer.
 
-[Vous avez atteint le premier 'Ending credit'.]
+[Vous avez atteint le premier 'Générique de Fin'.]
 
 [Acteurs : Kim Dokja, Jeong Huiwon, Lee Jihye, Lee Gilyeong]
 
@@ -122,7 +122,7 @@ Comme prévu, toutes les affiches du troisième étage étaient déchirées. Yu 
 
 "On va monter plus vite que prévu, non ?"
 
-Contrairement à la voix enjouée de Jeong Huiwon, je devenais de plus en plus anxieux à chaque étage. La conquête du 'Donjon du Théâtre' nécessitait une certaine dose de chance. Parce que parmi les affiches collées à chaque étage, il y en avait certaines que le 'Guide de Survie' ne couvrait pas. Yu Junghyeok n'avait pas non plus vaincu tous les films.
+Contrairement à la voix enjouée de Jeong Huiwon, je devenais de plus en plus anxieux à chaque étage. La conquête du 'Donjon du Théâtre' nécessitait une certaine dose de chance. Parce que parmi les affiches collées à chaque étage, il y en avait certaines que le *Guide de Survie* ne couvrait pas. Yu Junghyeok n'avait pas non plus vaincu tous les films.
 
 Au moment où nous entrâmes au quatrième étage, un message système retentit.
 
@@ -152,7 +152,7 @@ Jeong Huiwon inclina la tête.
 
 "Même si cet homme est une 'vraie personne', il va faire de mauvaises choses de toute façon ! Qu'est-ce qui ne va pas à tuer ce genre de personnes ?"
 
-Les paroles de Lee Jihye avaient peut-être raison. Cet homme était clairement le 'méchant' du scénario, et il ferait de mauvaises choses. Donc, il était acceptable de le tuer. Mais, ironiquement, c'était la logique que Yu Junghyeok utilisait souvent dans le 'Guide de Survie'.
+Les paroles de Lee Jihye avaient peut-être raison. Cet homme était clairement le 'méchant' du scénario, et il ferait de mauvaises choses. Donc, il était acceptable de le tuer. Mais, ironiquement, c'était la logique que Yu Junghyeok utilisait souvent dans le *Guide de Survie*.
 
 Au moment où j'allais ouvrir la bouche, Lee Jihye se leva d'un bond et sortit son épée.
 
@@ -174,7 +174,7 @@ Le propriétaire du théâtre avait reconnu cela comme une 'fin satisfaisante', 
 
 C'était la manière de survivre dans un monde en ruine.
 
-[Vous avez atteint le deuxième 'Ending credit'.]
+[Vous avez atteint le deuxième 'Générique de Fin'.]
 
 [Acteurs : Kim Dokja, Jeong Huiwon, Lee Jihye, Lee Gilyeong]
 
@@ -293,3 +293,5 @@ Alors, maintenant, les préparatifs sont terminés.
 Puisqu'il n'y avait pas encore de changement notable dans le donjon, Yu Junghyeok était certainement encore en vie. Au plus tôt, il serait au sixième étage, au plus tard au septième. Même dans le pire des cas, s'il combattait le boss du huitième étage...... Il était au moins encore en vie.
 
 Alors, allons jeter un coup d'œil à notre cher régresseur, non ?
+
+< Épisode 9. Le Point de Vue du Poisson-Lune Omniscient (3) - Fin>

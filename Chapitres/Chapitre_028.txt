@@ -10,13 +10,13 @@ En montant le long des voies de la ligne 3, nous avons remarqué des gens assis,
 
 [Le troisième scénario est en cours.]
 
-[Le canal #GIR-8761 est activé.]
+[Le canal #GIR-8 761 est activé.]
 
-[Le canal #BIR-3642 est activé.]
+[Le canal #BIR-3 642 est activé.]
 
 À partir de Chungmuro, l'échelle des scénarios s'agrandit, et les canaux des Dokkaebis se multiplient.
 
-À partir de maintenant, Bihyung va devoir se donner du mal.
+À partir de maintenant, Bihyeong va devoir se donner du mal.
 
 Quelques hommes d'âge mûr, nous ayant repérés, se sont approchés en nous faisant signe.
 
@@ -200,7 +200,7 @@ L'histoire commençait à devenir intéressante. Le garçon a hésité un moment
 
 L'Association des Propriétaires Immobiliers de Chungmuro.
 
-Un nom qui apparaît aussi dans le 'Guide de Survie'.
+Un nom qui apparaît aussi dans le *Guide de Survie*.
 
 "Qui sont-ils ?"
 
@@ -390,7 +390,7 @@ L'homme a caressé la tête de Lee Gilyeong avec un regard indéchiffrable.
 
 "Petit, tu ne comprends pas, hein ? Alors je vais t'expliquer."
 
-[Le stigmate 「Zone Armée Lv.3」 du personnage 'Gong Pildu' s'active !]
+[Le stigmate 「Zone Armée Nv. 3」 du personnage 'Gong Pildu' s'active !]
 
 Un bruit strident a retenti, et des tourelles ressemblant à des miniguns ont émergé du sol.
 
@@ -413,3 +413,5 @@ En voyant la main tendue de l'homme, j'ai souri.
 ... C'est intéressant, Yu Junghyeok.
 
 Tu as laissé ces types tranquilles, c'est ça ?
+
+< Épisode 7. Propriétaire Immobilier (1) - Fin>

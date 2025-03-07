@@ -46,11 +46,11 @@ Constellation de soutien : Ombre Derrière le Rideau
 
 Caractéristique exclusive : Noble Reclus (Héros)
 
-Compétences exclusives : [Internet Étendu Lv.5], [Manipulation des Commentaires Lv.3], [Attaque Clavier Lv.3], [Petit Appétit Lv.6], [Blocage des Ondes Sonores Lv.2]…
+Compétences exclusives : [Internet Étendu Nv. 5], [Manipulation des Commentaires Nv. 3], [Attaque Clavier Nv. 3], [Petit Appétit Nv. 6], [Blocage des Ondes Sonores Nv. 2]…
 
-Stigmate : [Absence d’Existence Lv.2]
+Stigmate : [Absence d’Existence Nv. 2]
 
-Statistiques globales : [Endurance Lv.10], [Force Lv.10], [Agilité Lv.19], [Magie Lv.26]
+Statistiques globales : [Endurance Nv. 10], [Force Nv. 10], [Agilité Nv. 19], [Magie Nv. 26]
 
 Évaluation globale : Il est l’apogée des reclus, un « Noble Reclus ». Grâce à sa compétence [Internet Étendu], il peut percer les réseaux des Dokkaebis et installer des lignes virtuelles sur des appareils spécifiques.
 
@@ -88,7 +88,7 @@ Soudain, les doigts du roi reclus commencèrent à bouger.
 
 — Les gars, vous avez entendu parler des <Prophètes> ? Je ne sais pas ce que c’est, mais ils prétendent connaître le secret de cette situation lol
 
-[Le personnage « Han Donghun » a activé [Manipulation des Commentaires Lv.3].]
+[Le personnage « Han Donghun » a activé [Manipulation des Commentaires Nv. 3].]
 
 Dès que le message d’activation apparut, des dizaines de commentaires s’agglutinèrent sous celui du garçon, comme s’ils étaient attirés par un aimant.
 
@@ -114,7 +114,7 @@ Les yeux creux de Han Donghun se tournèrent vers moi.
 
 Han Donghun n’était pas dans son état normal.
 
-Dans le « Guide de Survie », ce garçon était considéré comme l’un des Sept Rois de Séoul. Mais le voir dans un état aussi délabré… Bien qu’il ait toujours eu une personnalité asociale, ce n’était pas à ce point.
+Dans le « *Guide de Survie* », ce garçon était considéré comme l’un des Sept Rois de Séoul. Mais le voir dans un état aussi délabré… Bien qu’il ait toujours eu une personnalité asociale, ce n’était pas à ce point.
 
 Han Donghun se leva en titubant et s’assit sur une chaise près de la table ronde, puis commença à se ronger les ongles.
 
@@ -162,7 +162,7 @@ Il ouvrit rapidement son smartphone pour vérifier quelque chose, puis soupira.
 
 Utiliser une personne puissante comme pantin pour contrôler la station.
 
-C’était un scénario souvent utilisé dans le « Guide de Survie », mais le voir en réalité était étrange.
+C’était un scénario souvent utilisé dans le « *Guide de Survie* », mais le voir en réalité était étrange.
 
 « Si c’est toi le vrai pouvoir, pourquoi m’avoir amené ici ? »
 
@@ -270,11 +270,11 @@ La créativité humaine est vraiment incroyable.
 
 « Oui, Yu Junghyeok. »
 
-Tu pourrais être l’auteur du « Guide de Survie », mon gars.
+Tu pourrais être l’auteur du « *Guide de Survie* », mon gars.
 
 Des lecteurs venus de l’extérieur du roman pour aider un protagoniste qui meurt comme un poisson ?
 
-C’était encore plus fascinant que le « Guide de Survie » lui-même.
+C’était encore plus fascinant que le « *Guide de Survie* » lui-même.
 
 Mais bon.
 
@@ -379,3 +379,5 @@ Je vois.
 Ce type est le « neuvième »…
 
 … Attends, combien y en a-t-il en tout ?
+
+< Épisode 10. Guerre Future (7) - Fin>

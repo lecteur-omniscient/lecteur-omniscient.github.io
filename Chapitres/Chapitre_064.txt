@@ -24,7 +24,7 @@ Simultanément, les Hwarang sortirent leurs armes et répétèrent en chœur.
 
 Ce type-là ?
 
-[Tous les Hwarang de Silla reçoivent l’effet de ‘Cinq Préceptes Séculaires Lv.2’ !]
+[Tous les Hwarang de Silla reçoivent l’effet de ‘Cinq Préceptes Séculaires Nv. 2’ !]
 
 « Hahaha, vous pressez le pas ! »
 
@@ -34,7 +34,7 @@ Le chef des Hwarang chargea en brandissant sa lance.
 
 On dit que les incarnations suivent leur sponsor, et ce type en est la preuve.
 
-[Le personnage ‘Chu Wangin’ active le stigmate ‘Kendo de Baekje Lv.4’ !]
+[Le personnage ‘Chu Wangin’ active le stigmate ‘Kendo de Baekje Nv. 4’ !]
 
 « Gahhh ! »
 
@@ -46,7 +46,7 @@ Je criai vers Min Jiwon.
 
 « Reculer ! Vite ! »
 
-[Le personnage ‘Min Jiwon’ active ‘Commandement Militaire Lv.2’ !]
+[Le personnage ‘Min Jiwon’ active ‘Commandement Militaire Nv. 2’ !]
 
 [Les soldats ont perdu leur raison.]
 
@@ -192,9 +192,9 @@ Elle n’est pas considérée comme une reine incompétente pour rien.
 
 Je manipulai les deux disques qui composaient Ganpyeong.
 
-Ces deux disques sont appelés respectivement le disque céleste (天盤) et le disque terrestre (地盤), le disque supérieur étant le disque terrestre et le disque inférieur le disque céleste.
+Ces deux disques sont appelés respectivement le disque céleste et le disque terrestre , le disque supérieur étant le disque terrestre et le disque inférieur le disque céleste.
 
-Dans le ‘Guide de Survie’, Ganpyeong est simplement défini comme :
+Dans le *Guide de Survie*, Ganpyeong est simplement défini comme :
 
 [‘Ganpyeong’ est un artefact qui permet de localiser les constellations dans le ciel.]
 
@@ -228,7 +228,7 @@ Lee Sungkook, excité, demanda :
 
 « Il faut connaître le titre honorifique de la constellation. »
 
-Dans le monde du ‘Guide de Survie’, les titres honorifiques des constellations sont comme des coordonnées spatio-temporelles. Tout comme il y a un axe X et un axe Y dans un système de coordonnées, les constellations du Star Stream existent dans les mots de leurs titres honorifiques.
+Dans le monde du *Guide de Survie*, les titres honorifiques des constellations sont comme des coordonnées spatio-temporelles. Tout comme il y a un axe X et un axe Y dans un système de coordonnées, les constellations du Star Stream existent dans les mots de leurs titres honorifiques.
 
 « Ah... Alors... »
 
@@ -390,7 +390,7 @@ Un rire empli de ressentiment et de profond regret.
 
 « Hahaha ! Vous ne comprenez toujours pas ? C’est pour vous rencontrer à nouveau sur ce champ de bataille ! »
 
-[Le personnage ‘Chu Wangin’ active ‘Kendo de Baekje Lv.4’ !]
+[Le personnage ‘Chu Wangin’ active ‘Kendo de Baekje Nv. 4’ !]
 
 L’épée géante de Chu Wangin, imprégnée de puissance, se déplaça.
 
@@ -402,7 +402,7 @@ Mais je la déviai sans difficulté.
 
 C’était vrai. Gyebaek poussait trop loin.
 
-Même moi, en tant que lecteur du ‘Guide de Survie’, j’étais perplexe.
+Même moi, en tant que lecteur du *Guide de Survie*, j’étais perplexe.
 
 « Kim Yushin... On dirait que tu n’as rien entendu à propos de ce "monde". »
 
@@ -449,3 +449,5 @@ Bien que leurs noms aient disparu, les Hwarang qui avaient autrefois vécu sur c
 Grooooaar !
 
 Les disciples du Dragon Parfumé, l’élite de Kim Yushin, émergèrent des pages oubliées de l’histoire.
+
+< Épisode 13. La Guerre des Rois (5) - Fin>

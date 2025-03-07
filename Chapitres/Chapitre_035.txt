@@ -18,7 +18,7 @@ Alors que nous tombions au niveau -3, les gens écrasés sous les débris du sol
 
 Le plan avait réussi.
 
-La « Zone Verte » avait disparu, et les Propriétaires Immobiliers avaient perdu leur « refuge ». Dans la poussière, le visage furieux de Gong Pildu nous regardait. Au moment où il allait ouvrir la bouche, la voix de Bihyung résonna à mes oreilles.
+La « Zone Verte » avait disparu, et les Propriétaires Immobiliers avaient perdu leur « refuge ». Dans la poussière, le visage furieux de Gong Pildu nous regardait. Au moment où il allait ouvrir la bouche, la voix de Bihyeong résonna à mes oreilles.
 
 [Qu'est-ce que tu es en train de faire ! Aaaah !]
 
@@ -54,9 +54,9 @@ Personnage : Lee Hyeonseong
 
 Caractéristique : Celui qui a Rétabli la Justice (Rare)
 
-Stigmates : [Choc des Grandes Montagnes Lv.1], [Poussée des Grandes Montagnes Lv.2]
+Stigmates : [Choc des Grandes Montagnes Nv. 1], [Poussée des Grandes Montagnes Nv. 2]
 
-Compétences exclusives : [Maîtrise de la Baïonnette Lv.2], [Art du Camouflage Lv.2], [Force de Persévérance Lv.1], [Sens de la Justice Lv.2], [Affûtage d'Armes Lv.3]
+Compétences exclusives : [Maîtrise de la Baïonnette Nv. 2], [Art du Camouflage Nv. 2], [Force de Persévérance Nv. 1], [Sens de la Justice Nv. 2], [Affûtage d'Armes Nv. 3]
 
 +
 
@@ -84,7 +84,7 @@ Yu Sangah, Jeong Huiwon et Lee Gilyeong s'étaient chacun occupés de petites «
 
 [Hé ! Tu m'entends ? Qu'est-ce que tu vas faire maintenant ?]
 
-Pendant ce temps, Bihyung continuait à se plaindre via la « Communication Dokkaebi ».
+Pendant ce temps, Bihyeong continuait à se plaindre via la « Communication Dokkaebi ».
 
 — Qu'est-ce qui t'inquiète ?
 
@@ -94,7 +94,7 @@ Bien sûr que je le savais. Probablement que les constellations du canal où se 
 
 — De quel canal fait partie Gong Pildu ?
 
-[···C'est le canal de Biryu. BIR-3642.]
+[···C'est le canal de Biryu. BIR-3 642.]
 
 — Biryu, c'est le Dokkaebi qui est venu à ta place il y a quelque temps ?
 
@@ -130,7 +130,7 @@ Je réalisai que Jeong Huiwon ne connaissait pas Lee Jihye. Mais il n'y avait pa
 
 [Ah... Tu es foutu, mec.]
 
-Avec les mots de Bihyung, un message système retentit.
+Avec les mots de Bihyeong, un message système retentit.
 
 [Un scénario de prime a été déclenché !]
 
@@ -142,11 +142,11 @@ Classification : Sub
 
 Difficulté : C
 
-Condition de réussite : Les constellations du canal #BIR-3642 ont demandé l'assassinat d'une personne spécifique. Tuez « Kim Dokja » à la station Chungmuro.
+Condition de réussite : Les constellations du canal #BIR-3 642 ont demandé l'assassinat d'une personne spécifique. Tuez « Kim Dokja » à la station Chungmuro.
 
 Temps limite : 10 minutes
 
-Récompense : 2000 pièces
+Récompense : 2 000 pièces
 
 En cas d'échec : Aucune
 
@@ -158,7 +158,7 @@ C'est vraiment amusant.
 
 Maintenant, toutes les incarnations dans la station allaient se rassembler sur le quai de la ligne 3 pour me tuer. Jeong Huiwon, à côté de moi, demanda :
 
-— Si je te tue maintenant, je reçois 2000 pièces ?
+— Si je te tue maintenant, je reçois 2 000 pièces ?
 
 — Pourquoi, tu veux me tuer ?
 
@@ -166,13 +166,13 @@ Maintenant, toutes les incarnations dans la station allaient se rassembler sur l
 
 Cette femme savait-elle vraiment la valeur de 200 000 pièces ?
 
-— Lecteur, restez derrière moi.
+—Dokja, restez derrière moi.
 
 Lee Hyeonseong se plaça devant moi. Jeong Huiwon le protégea, et Yu Sangah et Lee Gilyeong se tinrent à mes côtés, bloquant le chemin. C'était comme si nous avions formé une formation défensive centrée sur moi. Jeong Huiwon sourit.
 
 — Maintenant, je vais te rendre la pareille.
 
-— Lecteur, nous allons tout faire pour vous protéger.
+—Dokja, nous allons tout faire pour vous protéger.
 
 Des personnes hostiles commencèrent à se rassembler autour de nous. Les membres en colère de l'Association des Propriétaires Immobiliers, ainsi que les locataires aveuglés par la prime. En regardant Lee Gilyeong serrer fermement son arme, je dis :
 
@@ -204,7 +204,7 @@ Condition de réussite : Toutes les « Zones Vertes » de la station ont été d
 
 Durée : 8 heures
 
-Récompense : 1000 pièces
+Récompense : 1 000 pièces
 
 En cas d'échec : —
 
@@ -314,7 +314,7 @@ Activation du Marque-page n°3.
 
 [La compréhension du personnage est faible, donc seulement une partie de ses compétences est activée.]
 
-[« Agitation Lv.2 » a été activé.]
+[« Agitation Nv. 2 » a été activé.]
 
 Soudain, ma langue sembla prendre vie et bouger d'elle-même. C'était donc ce que ressentait Cheon Inho.
 
@@ -402,9 +402,9 @@ En bas, la voix puissante de Gong Pildu retentit.
 
 — Tout le monde, écartez-vous !
 
-[Le personnage 'Gong Pildu' utilise la compétence 'Propriété Privée Lv.3' !]
+[Le personnage 'Gong Pildu' utilise la compétence 'Propriété Privée Nv. 3' !]
 
-[Le stigmate 'Zone Armée Lv.4' du personnage 'Gong Pildu' est activé !]
+[Le stigmate 'Zone Armée Nv. 4' du personnage 'Gong Pildu' est activé !]
 
 Avec un bruit mécanique, cinq tourelles émergèrent du sol. Les projectiles magiques rouge vif commencèrent à tirer en un instant.
 
@@ -469,3 +469,5 @@ En bas, Gong Pildu était presque réduit à néant.
 — Aaaah !
 
 Les cris de Gong Pildu résonnèrent parmi la horde sans fin de monstres.
+
+< Épisode 8. Urgence Défensive (3) - Fin>

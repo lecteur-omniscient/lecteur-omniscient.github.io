@@ -14,7 +14,7 @@ Vous savez, ce genre de situation où l'on sacrifie la chair pour préserver les
 
 [La compréhension des personnages étant faible, seule une partie de leurs compétences est activée.]
 
-[「Affûtage d'arme Lv.1」a été activé.]
+[「Affûtage d'arme Nv. 1」a été activé.]
 
 Mais nous ne l'avons pas fait. Plus précisément, nous n'en avions pas le luxe.
 
@@ -130,7 +130,7 @@ Bien sûr, c'était un mensonge.
 
 Le Dokkaebi Biryu, perplexe, balbutia.
 
-[Ma, mais si tu le tues, la récompense sera énorme ! Si tu le tues maintenant, tu seras le premier à tuer un démon de niveau 7, donc tu recevras sûrement plus de 7000 pièces ! Tu sais à quel point 7000 pièces, c'est beaucoup ?]
+[Ma, mais si tu le tues, la récompense sera énorme ! Si tu le tues maintenant, tu seras le premier à tuer un démon de niveau 7, donc tu recevras sûrement plus de 7 000 pièces ! Tu sais à quel point 7 000 pièces, c'est beaucoup ?]
 
 “Je ne le tuerai pas. Maintenant, éloigne-toi, je dois ouvrir la boîte de récompense.”
 
@@ -152,7 +152,7 @@ Le visage de Han Myeongoh, tenant l'épée problématique avec un sourire narquo
 
 [Vous avez accompli un exploit impossible.]
 
-[8000 pièces ont été obtenues.]
+[8 000 pièces ont été obtenues.]
 
 [Contributeurs : Kim Dokja, Han Myeongoh]
 
@@ -389,3 +389,5 @@ En fait, je ne sais pas ce qui se passera avec ces deux objets. Mais une chose e
 «“Un objet de haut niveau sortira à coup sûr !”»
 
 Peu après, une lumière éblouissante jaillit de la boîte fermée.
+
+< Épisode 5. Gardien des Ténèbres (4) - Fin>

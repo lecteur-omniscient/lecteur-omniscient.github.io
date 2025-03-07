@@ -1,4 +1,4 @@
-**Épisode 13. Guerre des Rois (3)**
+**Épisode 13. La Guerre des Rois (3)**
 
 [La constellation, 'Souverain des Dix Mille Éclairs', attend votre choix.]
 
@@ -290,11 +290,11 @@ Constellation de soutien : Administrateur de l'Ancienne Horlogerie
 
 Caractéristique exclusive : Hypnotiseur (Rare)
 
-Compétences exclusives : [Hypnose Lv.3], [Bluff Lv.4], [Affûtage d'Armes Lv.3]…
+Compétences exclusives : [Hypnose Nv. 3], [Bluff Nv. 4], [Affûtage d'Armes Nv. 3]…
 
-Stigmate : [Sommeil paisible Lv.1]
+Stigmate : [Sommeil paisible Nv. 1]
 
-Statistiques globales : [Endurance Lv.13], [Force Lv.13], [Agilité Lv.17], [Magie Lv.18]
+Statistiques globales : [Endurance Nv. 13], [Force Nv. 13], [Agilité Nv. 17], [Magie Nv. 18]
 
 Évaluation globale : En cours d'évaluation.
 
@@ -316,7 +316,7 @@ La caractéristique de Lee Sungkook, 'Neuvième Débarqué', avait disparu.
 
 Je retins mes mots pour éviter de semer la confusion.
 
-Dans le monde du 'Guide de Survie', une caractéristique ne disparaît que lorsque les conditions pour la posséder ne sont plus remplies.
+Dans le monde du *Guide de Survie*, une caractéristique ne disparaît que lorsque les conditions pour la posséder ne sont plus remplies.
 
 Tous les 'Débarqués' connaissent l'avenir de ce monde.
 
@@ -382,7 +382,7 @@ Ce rang n'existait même pas.
 
 Mais l'Épée du Carnage en Quatre Mouvements était une excellente épée, et même Yu Junghyeok l'avait utilisée au début du 3e tour.
 
-— Frère, si c'est un objet aussi puissant, ne devrions-nous pas l'obtenir en premier ?
+— Hyung, si c'est un objet aussi puissant, ne devrions-nous pas l'obtenir en premier ?
 
 — Pas besoin.
 
@@ -425,3 +425,5 @@ Un seul roi occuperait ce trône.
 [Le scénario principal a été mis à jour.]
 
 [Le scénario principal #4 — 'La Qualification du Roi' commence.]
+
+< Épisode 13. La Guerre des Rois (3) - Fin>

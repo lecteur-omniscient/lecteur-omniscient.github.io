@@ -74,7 +74,7 @@ Les membres de l'alliance essayèrent désespérément de relever Gong Pildu, ma
 
 "Et... éteins aussi cette tourelle, elle m'énerve."
 
-[La compétence ‘Zone Armée Nv.6’ du personnage ‘Gong Pildu’ est désactivée.]
+[La compétence ‘Zone Armée Nv. 6’ du personnage ‘Gong Pildu’ est désactivée.]
 
 "Espèce de sal... !"
 
@@ -162,7 +162,7 @@ Juste à ce moment, un message du système apparut.
 
 [Le sous-scénario est terminé.]
 
-[Vous avez reçu 1000 pièces en récompense.]
+[Vous avez reçu 1 000 pièces en récompense.]
 
 [Grâce à l'effet du drapeau blanc, vous êtes devenu le véritable ‘représentant’ de la station de Chungmuro.]
 
@@ -196,7 +196,7 @@ Les autres membres échangeaient des regards, l'air incertain.
 
 Même si c'était encore un groupe disparate, ce n'était pas un mauvais départ.
 
-Peu après, Bihyung apparut dans les airs.
+Peu après, Bihyeong apparut dans les airs.
 
 [Ohoho, un représentant a été choisi. Alors, passons au jeu principal !]
 
@@ -214,7 +214,7 @@ Conditions de réussite : (Le contenu est trop long, la fenêtre est masquée)
 
 Temps limite : 12 jours
 
-Récompense : 2000 pièces
+Récompense : 2 000 pièces
 
 En cas d'échec : ???
 
@@ -333,3 +333,5 @@ Un bruit de klaxon assourdissant résonna, et les phares d'un train illuminèren
 Le bruit d'un moteur de moto et une odeur âcre d'échappement.
 
 Quelque chose approchait de Chungmuro.
+
+< Épisode 10. Guerre Future (2) - Fin>

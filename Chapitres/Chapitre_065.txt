@@ -42,7 +42,7 @@ En termes de capacités physiques, Gyebaek surpassait Kim Yushin. En réalité, 
 
 Pour être précis, on pourrait dire que Kim Yushin avait évité le duel.
 
-[Le personnage 'Chu Wangin' active 'Acharnement au Combat Nv.2' !]
+[Le personnage 'Chu Wangin' active 'Acharnement au Combat Nv. 2' !]
 
 Dans l'histoire, la division spéciale de Gyebaek avait combattu l'armée de Kim Yushin, dix fois plus nombreuse, et avait remporté plusieurs victoires sur un champ de bataille impossible.
 
@@ -160,7 +160,7 @@ Puis la tête de l'incarnation vola silencieusement dans les airs.
 
 [Vous avez revécu la « Bataille de Hwangsanbeol ».]
 
-[En récompense, vous obtenez 1000 pièces.]
+[En récompense, vous obtenez 1 000 pièces.]
 
 En regardant autour de moi, l'armée de Baekje avait été complètement anéantie.
 
@@ -194,9 +194,9 @@ En tout cas, c'était une bonne chose que le résultat soit meilleur que prévu.
 
 J'avais pu tester les performances de [Ganpyeongui], et surtout, j'avais pu récupérer une partie des pièces et des objets que l'armée de Baekje possédait.
 
-[Vous avez obtenu 5400 pièces.]
+[Vous avez obtenu 5 400 pièces.]
 
-[Pièces possédées : 74950 pièces]
+[Pièces possédées : 74 950 pièces]
 
 Maintenant, même si la dernière phase du quatrième scénario arrive, je n'ai pas peur.
 
@@ -334,7 +334,7 @@ Une fois le quatrième scénario terminé, le chapitre de la <Sélection du Spon
 
 Kim Yushin voulait profiter de cette opportunité pour me faire promettre de le choisir.
 
-Si je n'avais pas lu le 'Guide de Survie', ce n'aurait pas été un mauvais choix.
+Si je n'avais pas lu le *Guide de Survie*, ce n'aurait pas été un mauvais choix.
 
 Kim Yushin est une constellation assez décente, et avec seulement [Rassemblement des Hwarang], on pourrait facilement traverser la moitié du scénario.
 
@@ -365,3 +365,5 @@ C'est mon corps.
 Qu'il s'agisse d'une constellation ou autre, je ne te le laisserai jamais.
 
 [Compétence exclusive, 'Quatrième Mur', activée !]
+
+< Épisode 14. Le Maître du Trône (1) - Fin>

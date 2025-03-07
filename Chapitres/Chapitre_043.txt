@@ -2,7 +2,7 @@
 
 [Le scénario principal #3 ― Défense d'urgence est terminé.]
 
-[Vous avez obtenu 1000 pièces en récompense.]
+[Vous avez obtenu 1 000 pièces en récompense.]
 
 Le scénario principal, que je pensais ne commencer qu'après le lever du soleil, a montré des signes de démarrage moins de 10 minutes après la fin du troisième scénario principal.
 
@@ -26,7 +26,7 @@ Je suis ensuite descendu avec Jeong Huiwon. Lee Gilyeong, qui avait compté les 
 
 L'endroit où se trouvait le donjon était redevenu un théâtre ordinaire, et les objets du donjon de récompense du cinquième étage s'étaient transformés en accessoires de scène normaux. Comme si tout ce qui s'était passé hier n'était qu'un rêve.
 
-C'est à ce moment-là que la voix de Bihyung s'est fait entendre.
+C'est à ce moment-là que la voix de Bihyeong s'est fait entendre.
 
 [... Tu sais ce que je vais dire, n'est-ce pas ?]
 
@@ -34,7 +34,7 @@ C'est à ce moment-là que la voix de Bihyung s'est fait entendre.
 
 [Ouf... J'ai failli avoir une crise cardiaque.]
 
-En entendant Bihyung grogner, je me suis senti un peu rassuré.
+En entendant Bihyeong grogner, je me suis senti un peu rassuré.
 
 Les constellations possèdent une puissance et des ressources considérables, mais elles ne sont pas omniscientes. Parce que tous les sons et images des scénarios passent obligatoirement par le "canal" des Dokkaebis. En d'autres termes...
 
@@ -86,9 +86,9 @@ Mais les constellations intelligentes devraient commencer à s'intéresser à mo
 
 [La constellation, 'Mystérieux Conspirateur', trouve votre existence intrigante.]
 
-[Vous avez reçu 2000 pièces en parrainage.]
+[Vous avez reçu 2 000 pièces en parrainage.]
 
-Bihyung a ajouté comme s'il avait oublié quelque chose.
+Bihyeong a ajouté comme s'il avait oublié quelque chose.
 
 [Il y avait trop de messages indirects tout à l'heure, alors je ne t'ai pas envoyé de notification séparée. Tu comprends ?]
 
@@ -96,7 +96,7 @@ Bihyung a ajouté comme s'il avait oublié quelque chose.
 
 [... Je suis ton manager ou quoi ?]
 
-L'expression légèrement agacée de Bihyung a disparu dans les airs.
+L'expression légèrement agacée de Bihyeong a disparu dans les airs.
 
 D'une certaine manière, ce type devient de plus en plus mignon avec le temps.
 
@@ -284,7 +284,7 @@ Un courant électrique a crépité dans les airs.
 
 [Le quatrième scénario principal commencera dans 5 minutes !]
 
-Avec le message du système, le Dokkaebi Bihyung est apparu.
+Avec le message du système, le Dokkaebi Bihyeong est apparu.
 
 [Hahaha, tout le monde va bien ?]
 
@@ -302,7 +302,7 @@ Les visages des gens se sont figés en entendant la voix espiègle.
 
 Les visages des gens se sont assombris encore plus en entendant qu'ils devraient collaborer avec d'autres stations.
 
-Chungmuro est déjà dans cet état, alors si d'autres stations s'en mêlent, ce sera un vrai chaos. Bihyung a ri.
+Chungmuro est déjà dans cet état, alors si d'autres stations s'en mêlent, ce sera un vrai chaos. Bihyeong a ri.
 
 [Mais pour réaliser ce scénario, vous devez d'abord accomplir une tâche préalable. Si trop de personnes s'impliquent, ce ne sera qu'un chaos, non ? Vous avez donc besoin de quelqu'un pour vous diriger. En d'autres termes, vous avez besoin d'un <Représentant> pour la station !]
 
@@ -310,7 +310,7 @@ Un représentant. Ça commence enfin.
 
 [Donc, le jeu que nous allons faire maintenant est une 'bataille préliminaire'. On peut aussi l'appeler un échauffement. Les règles du jeu... eh bien, vous verrez !]
 
-Bihyung, riant légèrement, a disparu, et une fenêtre de message est apparue devant tout le monde.
+Bihyeong, riant légèrement, a disparu, et une fenêtre de message est apparue devant tout le monde.
 
 [Un sous-scénario est arrivé !]
 
@@ -326,7 +326,7 @@ Condition de réussite : Prenez possession du 'drapeau blanc' placé au centre d
 
 Temps limite : 30 minutes
 
-Récompense : 1000 pièces, représentant de Chungmuro.
+Récompense : 1 000 pièces, représentant de Chungmuro.
 
 En cas d'échec : ―
 
@@ -357,3 +357,5 @@ J'ai sauté sur le dos de Gong Pildu qui s'effondrait et j'ai attrapé le 'drape
 [Vous êtes devenu le 'représentant' de la station de Chungmuro.]
 
 [Vous avez obtenu le droit de marcher sur la 'Voie du Roi'.]
+
+< Épisode 10. Guerre Future (1) - Fin>

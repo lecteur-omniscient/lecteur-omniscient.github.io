@@ -44,7 +44,7 @@ Je ne comprenais pas.
 
 Comment Yu Junghyeok, lors de sa troisième régression, pouvait-il connaître cet endroit ?
 
-Dans le 'Guide de Survie', Yu Junghyeok n'utilise les Zones Vertes cachées qu'à partir de sa quatrième régression, alors j'étais rassuré... Mais merde, il connaissait cet endroit depuis sa deuxième régression ? Alors pourquoi ne l'a-t-il pas utilisé lors de sa troisième régression dans l'œuvre originale ?
+Dans le *Guide de Survie*, Yu Junghyeok n'utilise les Zones Vertes cachées qu'à partir de sa quatrième régression, alors j'étais rassuré... Mais merde, il connaissait cet endroit depuis sa deuxième régression ? Alors pourquoi ne l'a-t-il pas utilisé lors de sa troisième régression dans l'œuvre originale ?
 
 *Grrrrr !*
 
@@ -60,7 +60,7 @@ C'était déjà une bonne chose. C'était clairement une déclaration faite pour
 
 Quand j'ai posé Lee Gilyeong, le symbole de la Zone Verte a changé. Maintenant, Lee Gilyeong était en sécurité.
 
-"Frère ! Attends ! Frère !"
+"Hyung ! Attends ! Hyung !"
 
 Lee Gilyeong s'est précipité vers moi, mais la main ferme de Yu Junghyeok l'a retenu. J'ai brandi mon épée vers les taupes qui chargeaient.
 
@@ -154,9 +154,9 @@ J'ai vu une spirale rouge sinistre dans son iris gauche. Les pages ont tourné r
 
 [La compétence exclusive, [Profil du Personnage], a été activée !]
 
-[Le personnage 'Anna Croft' utilise [Barrière Mentale Lv.6].]
+[Le personnage 'Anna Croft' utilise [Barrière Mentale Nv. 6].]
 
-[[Profil du Personnage] ignore [Barrière Mentale Lv.6].]
+[[Profil du Personnage] ignore [Barrière Mentale Nv. 6].]
 
 [Les informations sur ce personnage sont trop nombreuses. [Profil du Personnage] se transforme en [Résumé].]
 
@@ -168,11 +168,11 @@ Personnage : Anna Croft
 
 Caractéristiques : Prophète (Légendaire), Sauveur (Légendaire)
 
-Compétences exclusives : [Vision du Futur Lv.5], [Vision du Passé Lv.4], [Perspicacité Lv.8], [Clairvoyance Lv.4], [Maîtrise de la Magie Avancée Lv.4], [Barrière Mentale Lv.6], [Détecteur de Mensonge Lv.7], [Regard du Grand Démon Lv.1]...
+Compétences exclusives : [Vision du Futur Nv. 5], [Vision du Passé Nv. 4], [Perspicacité Nv. 8], [Clairvoyance Nv. 4], [Maîtrise de la Magie Avancée Nv. 4], [Barrière Mentale Nv. 6], [Détecteur de Mensonge Nv. 7], [Regard du Grand Démon Nv. 1]...
 
 +
 
-Une femme capable d'entrer dans la conscience des autres en ignorant les contraintes spatiales. Une femme qui voit l'avenir et essaie de modeler le monde à travers cet avenir. Dans le 'Guide de Survie', il n'y a qu'une seule femme avec une telle mentalité.
+Une femme capable d'entrer dans la conscience des autres en ignorant les contraintes spatiales. Une femme qui voit l'avenir et essaie de modeler le monde à travers cet avenir. Dans le *Guide de Survie*, il n'y a qu'une seule femme avec une telle mentalité.
 
 "Anna Croft."
 
@@ -184,7 +184,7 @@ J'ai répondu honnêtement.
 
 "Je suis un prophète."
 
-[Le personnage 'Anna Croft' a activé [Détecteur de Mensonge Lv.7].]
+[Le personnage 'Anna Croft' a activé [Détecteur de Mensonge Nv. 7].]
 
 [[Détecteur de Mensonge] a confirmé que votre déclaration est un mensonge.]
 
@@ -242,7 +242,7 @@ Je suis Kim Dokja.
 
 Le monde a été détruit.
 
-Le 'Guide de Survie' est devenu réalité.
+Le *Guide de Survie* est devenu réalité.
 
 Ici... c'est à l'intérieur de la [Prison des Illusions].
 
@@ -268,15 +268,15 @@ Est-ce que les Grolls rôdent encore pour me dévorer ?
 
 Si c'est le cas...
 
-... Frère.
+... Hyung.
 
 ... S'il te plaît.
 
-... Lecteur !
+...Dokja !
 
 Soudain, mon esprit s'est éclairci.
 
-[La compétence exclusive, [Exorcisme Lv.1], a été activée !]
+[La compétence exclusive, [Exorcisme Nv. 1], a été activée !]
 
 Oui, il est temps de rentrer.
 
@@ -290,7 +290,7 @@ Comme si un brouillard laiteux se dissipait, ma vision s'est éclaircie. La prem
 
 "... Le scénario ?"
 
-"C'est fini, Lecteur. On a réussi. On a réussi !"
+"C'est fini,Dokja. On a réussi. On a réussi !"
 
 ... Je vois. On a réussi.
 
@@ -350,7 +350,7 @@ Yu Junghyeok, les sourcils froncés, m'a jeté un regard rapide avant de partir.
 
 J'avais envie de lui répondre, mais je n'avais plus de force.
 
-"Frère Lecteur !"
+"HyungDokja !"
 
 Lee Gilyeong, qui m'avait vu me réveiller, a couru vers moi avec les yeux embués. Les pensées de Yu Junghyeok qui s'éloignait résonnaient dans ma tête.
 
@@ -382,7 +382,7 @@ Je me suis réveillé deux heures plus tard.
 
 En ouvrant les yeux avec irritation à cause de la voix bruyante, j'ai senti une sensation plus épaisse et plus dure sur ma joue qu'avant.
 
-"... Ah, Lecteur est réveillé."
+"... Ah,Dokja est réveillé."
 
 Des lèvres souriantes. Jeong Huiwon me regardait.
 
@@ -400,11 +400,11 @@ En tournant la tête, j'ai vu Lee Hyeonseong marmonner dans son sommeil juste au
 
 Ça sent l'oreiller militaire.
 
-"Frère Lecteur..."
+"HyungDokja..."
 
 En sentant un poids sur mon ventre, j'ai regardé en bas et vu Lee Gilyeong recroquevillé comme un chat, dormant contre moi.
 
-Alors que je me levais doucement, la voix de Bihyung a retenti.
+Alors que je me levais doucement, la voix de Bihyeong a retenti.
 
 [Haha, tu es réveillé ? Alors prends ça.]
 
@@ -440,7 +440,7 @@ Jeong Huiwon, qui bâillait, a demandé.
 
 "Non, aujourd'hui, ce n'est pas possible. C'est une méthode qui ne fonctionne qu'une seule fois."
 
-Bien sûr, si nous avons de la chance, nous pourrions trouver une Zone Verte générée aléatoirement. Mais malheureusement, le 'Guide de Survie' ne spécifie pas l'emplacement des Zones Vertes pour le quatrième jour.
+Bien sûr, si nous avons de la chance, nous pourrions trouver une Zone Verte générée aléatoirement. Mais malheureusement, le *Guide de Survie* ne spécifie pas l'emplacement des Zones Vertes pour le quatrième jour.
 
 "Alors..."
 
@@ -465,3 +465,5 @@ Ce n'était pas mon plan initial, mais maintenant que je sais que Yu Junghyeok a
 "Nous allons utiliser l'arme secrète que nous avons gardée en réserve."
 
 Il est temps de changer le propriétaire de Chungmuro.
+
+< Épisode 8. Urgence Défensive (1) - Fin>

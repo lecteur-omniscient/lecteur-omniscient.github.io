@@ -110,11 +110,11 @@ Constellation sponsor : Monarque des Petites Brutes
 
 Caractéristique exclusive : Chef de groupe (commun)
 
-Compétences exclusives : [Bagarre Lv.2], [Fanfaronnade Lv.2]
+Compétences exclusives : [Bagarre Nv. 2], [Fanfaronnade Nv. 2]
 
-Stigmate : [Intimider Lv.1]
+Stigmate : [Intimider Nv. 1]
 
-Capacités globales : [Endurance Lv.6], [Force Lv.7], [Agilité Lv.6], [Magie Lv.2]
+Capacités globales : [Endurance Nv. 6], [Force Nv. 7], [Agilité Nv. 6], [Magie Nv. 2]
 
 Évaluation globale : Un voyou ordinaire qui a eu la chance d'obtenir un sponsor. A tendance à surestimer ses capacités par rapport à sa véritable puissance de combat.
 
@@ -152,7 +152,7 @@ Parce qu'il n'a pas la compétence [Lutte].
 
 "Espèce de salaud !"
 
-La compétence principale de ce type est [Bagarre Lv.2].
+La compétence principale de ce type est [Bagarre Nv. 2].
 
 Sans combat rapproché, sa puissance de combat est insignifiante.
 
@@ -449,3 +449,5 @@ Les yeux de Cheon Inho, croisant mon regard, riaient profondément. Alors que je
 Cheon Inho ne le savait pas.
 
 À ce moment précis, son avenir venait d'être scellé.
+
+< Épisode 4. L'Hypocrisie est aussi une Vertu (2) - Fin>

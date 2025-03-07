@@ -8,7 +8,7 @@ Si cela avait été dans le *Guide de Survie*, il y aurait probablement eu une d
 
 — Hyeonseong ?
 
-— Ah, euh, j'ai juste somnolé un peu. Lecteur, vous avez bien dormi ?
+— Ah, euh, j'ai juste somnolé un peu.Dokja, vous avez bien dormi ?
 
 — Oui, moi ça va. Mais vous parliez dans votre sommeil. Vous disiez quelque chose sur un officier de service...
 
@@ -66,7 +66,7 @@ Je parlais comme si je ne voulais que le bien de Lee Hyeonseong. Yu Sangah, inno
 
 Contrairement à Yu Sangah, Jeong Huiwon avait l'air un peu sceptique.
 
-— Lecteur.
+—Dokja.
 
 — Oui.
 
@@ -152,7 +152,7 @@ Yu Sangah était vraiment gentille. Même dans une situation comme celle-ci, ell
 
 — Tout ira bien, ne vous inquiétez pas. Et... Gilyeong, tu as fait ce que je t'ai demandé ?
 
-— Oui, frère.
+— Oui, Dokja-hyung.
 
 Lee Gilyeong, qui attendait à côté, répondit. Une paire de cafards dressaient leurs antennes sur sa petite tête.
 
@@ -228,7 +228,7 @@ Lee Jihye tapota les tourniquets et fit un geste de la main comme pour dire "int
 
 Si Yu Junghyeok lui avait dit de garder cet endroit, son objectif était clair.
 
-Il profitait de la progression du scénario pour conquérir en secret le "Donjon Caché" de Chungmuro. Conquérir un donjon caché. Ça sonne bien. En fait, le protagoniste devenant plus fort, ce n'est pas mauvais pour moi.
+Il profitait de la progression du scénario pour conquérir en secret le "Donjon Caché" de Chungmuro. Conquérir un \'Donjon Caché\'. Ça sonne bien. En fait, le protagoniste devenant plus fort, ce n'est pas mauvais pour moi.
 
 Le problème, c'est que ce donjon est un endroit que Yu Junghyeok de la troisième régression ne pouvait pas conquérir jusqu'au bout.
 
@@ -339,3 +339,5 @@ Ce n'est pas pour rien qu'elle a été choisie par le Général Chungmugong.
 [Vous avez reçu 100 pièces supplémentaires.]
 
 Maintenant, tous les préparatifs étaient terminés.
+
+< Épisode 8. Urgence Défensive (1) - Fin>

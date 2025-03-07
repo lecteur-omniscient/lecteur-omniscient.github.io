@@ -114,7 +114,7 @@ Au loin, je vis le 'Maître du Théâtre' dont le visage s’était figé.
 
 Mais.
 
-[Le personnage 'Yu Junghyeok' utilise 'Retour Miraculeux Nv.2' !]
+[Le personnage 'Yu Junghyeok' utilise 'Retour Miraculeux Nv. 2' !]
 
 Nom de Dieu, Yu Junghyeok me poursuivait déjà.
 
@@ -168,7 +168,7 @@ La patte monstrueuse de la mante se dirigea vers le 'Maître du Théâtre'.
 
 Et Yu Junghyeok se plaça devant.
 
-[Le personnage 'Yu Junghyeok' utilise 'Énergie Défensive Nv.4' !]
+[Le personnage 'Yu Junghyeok' utilise 'Énergie Défensive Nv. 4' !]
 
 Booooooom !
 
@@ -204,7 +204,7 @@ Le 'Maître du Théâtre', qui m’avait repéré tardivement, cria quelque chos
 
 Le Maître du Théâtre Simulation.
 
-Selon les paramètres du 'Guide de Survie', ce boss nommé était un chef-d’œuvre créé avec soin par une constellation. Bien qu’il soit maintenant une version dégradée après tant de temps, et qu’il ne soit qu’un boss de scénario caché... il n’était pas facile de percer la 'barrière mentale' de Yu Junghyeok.
+Selon les paramètres du *Guide de Survie*, ce boss nommé était un chef-d’œuvre créé avec soin par une constellation. Bien qu’il soit maintenant une version dégradée après tant de temps, et qu’il ne soit qu’un boss de scénario caché... il n’était pas facile de percer la 'barrière mentale' de Yu Junghyeok.
 
 Un être béni par une constellation.
 
@@ -234,13 +234,13 @@ Cependant, au moment où il pénétra dans mon esprit, quelque chose d’inatten
 
 Un abîme noir de conscience.
 
-D’innombrables pensées affluèrent, et les pages du 'Guide de Survie' tremblèrent.
+D’innombrables pensées affluèrent, et les pages du *Guide de Survie* tremblèrent.
 
 — Qu... Qu’est-ce que c’est que ça... ?!
 
 D’innombrables textes émettaient une lumière faible et flottaient dans l’obscurité.
 
-C’étaient les histoires du 'Guide de Survie' que j’avais lues.
+C’étaient les histoires du *Guide de Survie* que j’avais lues.
 
 [La compétence exclusive, 'Quatrième Mur', s’active !]
 
@@ -262,15 +262,15 @@ Je regardai ma main, perplexe.
 
 [Vous avez vaincu le 'Maître du Théâtre Simulation' pour la première fois !]
 
-[Vous avez obtenu 9000 pièces en récompense !]
+[Vous avez obtenu 9 000 pièces en récompense !]
 
 [Les conditions de clôture du scénario caché sont remplies !]
 
-[Vous avez obtenu 4000 pièces en récompense !]
+[Vous avez obtenu 4 000 pièces en récompense !]
 
 Les messages suivants apparurent. En me retournant, je vis Yu Junghyeok, libéré des griffes du 'Maître du Théâtre', s’effondrer sur le sol. Heureusement, il n’était pas encore mort. Lee Gilyeong, qui avait utilisé [Perception Multisensorielle] à outrance, était dans le même état.
 
-“Frère...”
+“Hyung...”
 
 Je courus vers Lee Gilyeong et le pris dans mes bras. Lee Gilyeong, épuisé, haletait dans mes bras.
 
@@ -346,7 +346,7 @@ C’était ridicule. Prier pour des êtres qui allaient devenir les instigateurs
 
 Un moment plus tard, Lee Gilyeong ouvrit les yeux et me regarda.
 
-“Frère, tu ne fais pas de vœu ?”
+“Hyung, tu ne fais pas de vœu ?”
 
 Je regardai Lee Gilyeong un instant avant de répondre.
 
@@ -369,3 +369,5 @@ Je regardai le ciel en silence.
 Dans le ciel de Séoul, de petites fissures commençaient à apparaître.
 
 Quand le soleil serait au zénith, les Dokkaebis ouvriraient un nouvel enfer.
+
+< Épisode 9. Le Point de Vue du Poisson-Lune Omniscient (6) - Fin>

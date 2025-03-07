@@ -1,6 +1,6 @@
 **Épisode 5. Gardien des Ténèbres (3)**
 
-“Frère ! C’est….”
+“Hyung ! C’est….”
 
 Juste avant que Lee Gilyeong ne prononce un mot en découvrant le coffre au trésor, je lui ai fermé la bouche.
 
@@ -190,7 +190,7 @@ J’ai d’abord pensé que j’avais mal entendu. Mais je ne m’étais pas tro
 
 Étonnamment, le Gardien des Ténèbres a hoché la tête en entendant les mots de Yu Sangah.
 
-[Le personnage ‘Yu Sangah’ a activé la compétence ‘Interprétation Lv.3’.]
+[Le personnage ‘Yu Sangah’ a activé la compétence ‘Interprétation Nv. 3’.]
 
 …Mon Dieu, elle ne parle pas seulement espagnol. Puisque c’est comme ça, écoutons.
 
@@ -246,7 +246,7 @@ Le monstre a rugi de colère.
 
 La lance faite d’une taupe terrestre commençait à se briser au contact des tentacules du démon.
 
-Même les épines du Stone Hog, qui avaient blessé le dragon camouflé, se désintégraient dès qu’elles touchaient le corps du démon. C’était une conclusion logique.
+Même les épines du Stonehog, qui avaient blessé le dragon camouflé, se désintégraient dès qu’elles touchaient le corps du démon. C’était une conclusion logique.
 
 Yu Sangah, qui avait emmené Han Myeongoh plus loin, me regardait.
 
@@ -270,13 +270,13 @@ Mais comme toujours, les plans existent pour prévoir les imprévus.
 
 [Oui, oui. Tu le savais ?]
 
-Le Dokkaebi est apparu dans l’obscurité, accompagné d’un courant électrique brillant. Je ne connais pas son nom, mais il ressemble à un cousin de Bihyung.
+Le Dokkaebi est apparu dans l’obscurité, accompagné d’un courant électrique brillant. Je ne connais pas son nom, mais il ressemble à un cousin de Bihyeong.
 
 “J’ai un colis qui devrait être arrivé, j’aimerais que tu me le donnes rapidement.”
 
-[Hihit. Ce n’est pas de mon ressort. C’est l’affaire de Bihyung.]
+[Hihit. Ce n’est pas de mon ressort. C’est l’affaire de Bihyeong.]
 
-“Mais c’est toi qui fais le travail de Bihyung en ce moment, non ? Tu ne vois pas que les constellations s’impatientent ?”
+“Mais c’est toi qui fais le travail de Bihyeong en ce moment, non ? Tu ne vois pas que les constellations s’impatientent ?”
 
 [La constellation, ‘Prisonnier du Bandeau d'Or’, harcèle le Dokkaebi ‘Biryu’ !]
 
@@ -328,7 +328,7 @@ Une aura bleu-blanc a commencé à envelopper la lame brisée.
 
 [Aura de Pouvoir Blanche]
 
-Après la bataille contre le dragon, j’ai immédiatement acheté cette compétence à Bihyung. Bien qu’elle ait quelques défauts par rapport aux autres compétences de haut niveau, c’est la meilleure que je puisse obtenir pour le moment.
+Après la bataille contre le dragon, j’ai immédiatement acheté cette compétence à Bihyeong. Bien qu’elle ait quelques défauts par rapport aux autres compétences de haut niveau, c’est la meilleure que je puisse obtenir pour le moment.
 
 [‘Conviction Brisée’ réagit à votre Aura de Pouvoir !]
 
@@ -393,3 +393,5 @@ C’était donc ça. J’ai répondu avec désinvolture.
 “Il suffit de lire beaucoup de livres.”
 
 Je connais ce monde mieux que quiconque.
+
+< Épisode 5. Gardien des Ténèbres (3) - Fin>

@@ -102,11 +102,11 @@ Constellation de soutien : Maître de l'Acier
 
 Caractéristique exclusive : Soldat Indifférent à l'Injustice (Commun)
 
-Compétences exclusives : [Maîtrise de la Baïonnette Lv.2], [Art du Camouflage Lv.1], [Force de Persévérance Lv.1], [Sens de la Justice Lv.1], [Affûtage d'Armes Lv.2]
+Compétences exclusives : [Maîtrise de la Baïonnette Nv. 2], [Art du Camouflage Nv. 1], [Force de Persévérance Nv. 1], [Sens de la Justice Nv. 1], [Affûtage d'Armes Nv. 2]
 
-Stigmate : [Poussée des Grandes Montagnes Lv.1]
+Stigmate : [Poussée des Grandes Montagnes Nv. 1]
 
-Statistiques globales : [Endurance Lv.12], [Force Lv.9], [Agilité Lv.9], [Magie Lv.6]
+Statistiques globales : [Endurance Nv. 12], [Force Nv. 9], [Agilité Nv. 9], [Magie Nv. 6]
 
 Évaluation globale : L'opportunité d'une évolution de caractéristique approche lentement. Ce personnage vous fait confiance. Sa constellation de soutien vous surveille de près.
 
@@ -166,7 +166,7 @@ Quelques répertoires me vinrent à l'esprit. Certains répondaient effrontémen
 
 [Un petit nombre de constellations attendent votre réponse.]
 
-Mais, en tant que lecteur, je peux dire que la meilleure réponse est...
+Mais, en tant qu. Dokja-ssi, je peux dire que la meilleure réponse est...
 
 "Ugh, ughhh !"
 
@@ -214,7 +214,7 @@ Il ne restait que 5 % de batterie. C'était la charge que j'avais échangée con
 
 Peu de temps après, je trouvai la section que je cherchais.
 
-« ... Les taupes terrestres vivent dans les [Franges de l'Obscurité], une sorte de sous-espace émanant de l'[Arbre des Ténèbres], un arbre du monde démoniaque. Les taupes terrestres, qui respirent de l'éther noir au lieu d'oxygène, ne peuvent survivre qu'à proximité des [Franges de l'Obscurité]... »
+« ... Les taupes terrestres vivent dans les [Franges de l'Obscurité], une sorte de sous-espace émanant de l'[Arbre des Ténèbres], un arbre du royaume des démons. Les taupes terrestres, qui respirent de l'éther noir au lieu d'oxygène, ne peuvent survivre qu'à proximité des [Franges de l'Obscurité]... »
 
 C'était un fait que je connaissais déjà, mais cela valait la peine de le revoir.
 
@@ -387,3 +387,5 @@ Au moment où je fus sûr que nous étions au bon endroit, un message retentit �
 [Le sous-scénario a été mis à jour.]
 
 [Vous êtes entré dans le 'Trésor des Taupes Terrestres'.]
+
+< Épisode 5. Gardien des Ténèbres (2) - Fin>

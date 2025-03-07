@@ -92,7 +92,7 @@ La paroi du camouflage a tremblé, et une petite vague s'est formée à l'intér
 
 Le commandant semblait se déplacer quelque part. J'ai allumé mon smartphone pour calculer le temps.
 
-Selon le 'Guide de Survie', les Ichtyosaures commencent à sécréter de l'acide gastrique environ 3 heures après avoir ingéré leur proie.
+Selon le *Guide de Survie*, les Ichtyosaures commencent à sécréter de l'acide gastrique environ 3 heures après avoir ingéré leur proie.
 
 En d'autres termes, je n'avais plus beaucoup de temps.
 
@@ -148,11 +148,11 @@ Le ton du Dokkaebi était sincèrement admiratif.
 
 "Combien ?"
 
-[Payez 5100 pièces. Je vous laisserai la vie sauve.]
+[Payez 5 100 pièces. Je vous laisserai la vie sauve.]
 
 J'ai vérifié le nombre de pièces que je possédais.
 
-[Pièces possédées : 5100 pièces]
+[Pièces possédées : 5 100 pièces]
 
 J'ai laissé échapper un rire.
 
@@ -182,9 +182,9 @@ Il avait une raison de vouloir que je survive ici, ou du moins de mourir miséra
 
 Les sourcils droits du Dokkaebi ont tremblé. Il était temps d'arrêter de le provoquer et de passer aux choses sérieuses.
 
-"Bihyung, le Dokkaebi de bas niveau. Tu veux faire du streaming ?"
+"Bihyeong, le Dokkaebi de bas niveau. Tu veux faire du streaming ?"
 
-Si une expression pouvait se fissurer, c'est exactement à ça qu'elle ressemblerait. Pour la première fois, le visage de Bihyung, le Dokkaebi, s'est teinté de confusion.
+Si une expression pouvait se fissurer, c'est exactement à ça qu'elle ressemblerait. Pour la première fois, le visage de Bihyeong, le Dokkaebi, s'est teinté de confusion.
 
 [Hein, comment tu connais mon nom ?]
 
@@ -192,7 +192,7 @@ Si une expression pouvait se fissurer, c'est exactement à ça qu'elle ressemble
 
 [Qu... Qu'est-ce que tu es ? Comment un humain peut savoir ça...]
 
-Les cornes de Bihyung tremblaient.
+Les cornes de Bihyeong tremblaient.
 
 C'était compréhensible.
 
@@ -204,15 +204,15 @@ Mais je n'étais pas un humain ordinaire.
 
 [La constellation 'Mystérieux Conspirateur' est intriguée par votre plan.]
 
-Il valait mieux que les constellations n'entendent pas la suite. J'ai adressé un signe à Bihyung.
+Il valait mieux que les constellations n'entendent pas la suite. J'ai adressé un signe à Bihyeong.
 
 "On ferme le canal et on discute ?"
 
-Après un moment d'hésitation, Bihyung a fermé le canal.
+Après un moment d'hésitation, Bihyeong a fermé le canal.
 
-[Le canal #BI-7623 a été fermé.]
+[Le canal #BI-7 623 a été fermé.]
 
-Une fois les constellations parties, Bihyung a montré son vrai visage.
+Une fois les constellations parties, Bihyeong a montré son vrai visage.
 
 [Alors, expliquez-moi. Comment un simple humain comme vous peut connaître le Star Stream ?]
 
@@ -220,12 +220,14 @@ Une fois les constellations parties, Bihyung a montré son vrai visage.
 
 [Hein ?]
 
-"Bihyung, tu veux devenir le 'Roi des Dokkaebis' ?"
+"Bihyeong, tu veux devenir le 'Roi des Dokkaebis' ?"
 
 [Qu'est-ce que tu...]
 
 "Tu veux devenir le meilleur conteur, surpassant Dokkaebis comme Dokgak ou Gildal ?"
 
-L'expression de Bihyung changeait.
+L'expression de Bihyeong changeait.
 
-"Bihyung, le Dokkaebi, fais un contrat avec moi. Je ferai de toi le roi des Dokkaebis."
+"Bihyeong, le Dokkaebi, fais un contrat avec moi. Je ferai de toi le roi des Dokkaebis."
+
+< Épisode 3. Contrat (1) - Fin>

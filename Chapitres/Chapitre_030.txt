@@ -88,7 +88,7 @@ Je ne suis pas particulièrement humaniste. Je ne crois pas que tout le monde m�
 
 Je levai mon poing, rempli de rage, mais un message arriva.
 
-[Le personnage 'Yu Junghyeok' utilise 'Énergie Défensive Lv.5'.]
+[Le personnage 'Yu Junghyeok' utilise 'Énergie Défensive Nv. 5'.]
 
 Je baissai mon poing.
 
@@ -306,13 +306,13 @@ Jeong Huiwon fronça les sourcils.
 
 "C'est impossible dans ce scénario."
 
-À peine avais-je fini de parler que Bihyung apparut dans les airs.
+À peine avais-je fini de parler que Bihyeong apparut dans les airs.
 
 [Allez, il est temps de commencer le troisième scénario principal ! Aujourd'hui, il y a pas mal de nouveaux venus, donc ça devrait être encore plus amusant, non ? Hahaha !]
 
-Bihyung nous jeta un regard en parlant.
+Bihyeong nous jeta un regard en parlant.
 
-Il y a trois Dokkaebis responsables du scénario de Chungmuro, mais comme Bihyung est le représentant, il a probablement été chargé de cette tâche. Son canal est le plus petit des trois, donc c'est logique.
+Il y a trois Dokkaebis responsables du scénario de Chungmuro, mais comme Bihyeong est le représentant, il a probablement été chargé de cette tâche. Son canal est le plus petit des trois, donc c'est logique.
 
 Et le troisième scénario était sur le point de commencer.
 
@@ -328,7 +328,7 @@ Condition de réussite : Occupez une 'Zone Verte' dans la station et survivez au
 
 Durée : 8 heures
 
-Récompense : 1000 pièces
+Récompense : 1 000 pièces
 
 En cas d'échec : —
 
@@ -340,7 +340,7 @@ Lee Hyeonseong ouvrit grand les yeux.
 
 [Les règles sont simples. Occupez une 'Zone Verte' avant les autres. Bien sûr, vous pouvez aussi prendre celle des autres. Mais dépêchez-vous. Si vous n'occupez pas de 'Zone Verte' après le début du scénario, il vous arrivera quelque chose de terrible. Haha, alors donnez tout !]
 
-Les visages des membres du groupe se figèrent en entendant les paroles de Bihyung. Pendant ce temps, les cris des gens continuaient.
+Les visages des membres du groupe se figèrent en entendant les paroles de Bihyeong. Pendant ce temps, les cris des gens continuaient.
 
 Bam ! Bam ! Bam !
 
@@ -372,13 +372,13 @@ Personne ne demanda si ça allait.
 
 Ils avaient tous l'air de me faire confiance. Ce fut Lee Gilyeong qui parla en dernier.
 
-"Frère... Et si on ne trouve pas ?"
+"Hyung... Et si on ne trouve pas ?"
 
 "Si nous n'avons pas trouvé de 'pièce' 20 minutes avant le début du scénario, nous nous retrouverons ici."
 
 "D'accord. Alors, on y va !"
 
-Les membres du groupe se dispersèrent rapidement. Jeong Huiwon et Lee Gilyeong partirent au sous-sol 2, Yu Sangah et Lee Hyeonseong au sous-sol 3. Je regardai un moment les membres du groupe s'éloigner, puis allumai mon smartphone. Dès que j'ouvris le 'Guide de Survie', une phrase apparut.
+Les membres du groupe se dispersèrent rapidement. Jeong Huiwon et Lee Gilyeong partirent au sous-sol 2, Yu Sangah et Lee Hyeonseong au sous-sol 3. Je regardai un moment les membres du groupe s'éloigner, puis allumai mon smartphone. Dès que j'ouvris le *Guide de Survie*, une phrase apparut.
 
 « Il n'y a plus de 'pièces' disponibles à Chungmuro. »
 
@@ -395,3 +395,5 @@ Tous les gens ici ne sont pas des 'méchants'. Il y a des gens comme Gong Pildu 
 Yu Sangah ou Lee Gilyeong pourraient-ils vraiment leur faire face ?
 
 Je vais bientôt le savoir.
+
+< Épisode 7. Propriétaire Immobilier (3) - Fin>

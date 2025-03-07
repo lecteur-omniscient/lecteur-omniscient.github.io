@@ -154,15 +154,15 @@ Comme pour libérer la frustration de ne pas avoir pu utiliser mes pièces jusqu
 
 [4 000 pièces investies en 'force'.]
 
-[Force Nv.10 -> Force Nv.20]
+[Force Nv. 10 -> Force Nv. 20]
 
 [5 000 pièces investies en 'force'.]
 
-[Force Nv.20 -> Force Nv.30]
+[Force Nv. 20 -> Force Nv. 30]
 
 [6 000 pièces investies en 'force'.]
 
-[Force Nv.30 -> Force Nv.40]
+[Force Nv. 30 -> Force Nv. 40]
 
 .
 
@@ -170,11 +170,11 @@ Comme pour libérer la frustration de ne pas avoir pu utiliser mes pièces jusqu
 
 [11 000 pièces investies en 'force'.]
 
-[Force Nv.80 -> Force Nv.90]
+[Force Nv. 80 -> Force Nv. 90]
 
 [12 000 pièces investies en 'force'.]
 
-[Force Nv.90 -> Force Nv.100]
+[Force Nv. 90 -> Force Nv. 100]
 
 [72 000 pièces dépensées au total.]
 
@@ -188,7 +188,7 @@ Je contrôlai la puissance de mon poing. Un coup avec une force de 100 était d�
 
 Je sentis l'espace autour de mon poing se déformer légèrement.
 
-Selon le 'Guide de Survie', toutes les stats dépassant trois chiffres acquièrent une puissance destructrice d'un autre niveau.
+Selon le *Guide de Survie*, toutes les stats dépassant trois chiffres acquièrent une puissance destructrice d'un autre niveau.
 
 Comment ça se sent ?
 
@@ -346,7 +346,7 @@ Je détestais vraiment ces constellations.
 
 "Tu mens vraiment bien. C'est parce que tu es un Dokkaebi ? Tu peux mentir comme ça sans que le Bureau de Gestion ne dise rien ?"
 
-Le Dokkaebi de rang intermédiaire, qui avait perdu le contrôle de son expression pendant un instant, se ressaisit. Bihyung, de l'autre côté, me regardait avec un air désespéré. Il devait penser que j'avais finalement perdu la tête.
+Le Dokkaebi de rang intermédiaire, qui avait perdu le contrôle de son expression pendant un instant, se ressaisit. Bihyeong, de l'autre côté, me regardait avec un air désespéré. Il devait penser que j'avais finalement perdu la tête.
 
 [Assez de ces discours fatigants. Nous devons terminer le scénario. Allez, asseyez-vous sur le trône. Si vous continuez à dire des bêtises, je pourrais détruire le 'Trône Absolu'.]
 
@@ -359,3 +359,5 @@ Je regardai le Dokkaebi, puis les gens abasourdis autour de moi, et pris lenteme
 "Je ne monterai pas sur ce 'Trône Absolu'."
 
 Un silence terrifiant envahit Gwanghwamun.
+
+< Épisode 15. Un Monde Sans Roi (1) - Fin>

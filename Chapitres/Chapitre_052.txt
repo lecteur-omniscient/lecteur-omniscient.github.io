@@ -124,11 +124,11 @@ Constellation de soutien : Gladiateur Maudit
 
 Caractéristiques exclusives : Gladiateur Furieux (Rare), 1089e Débarqué (Commun)
 
-Compétences exclusives : [Affûtage de l'Art de l'Épée Lv.2], [Coup Puissant Lv.2], [Berserk Lv.3], [Renforcement de la Mémoire Lv.5]...
+Compétences exclusives : [Affûtage de l'Art de l'Épée Nv. 2], [Coup Puissant Nv. 2], [Berserk Nv. 3], [Renforcement de la Mémoire Nv. 5]...
 
-Stigmate : [Vengeance Lv.1]
+Stigmate : [Vengeance Nv. 1]
 
-Statistiques globales : [Endurance Lv.18], [Force Lv.16], [Agilité Lv.12], [Magie Lv.10]
+Statistiques globales : [Endurance Nv. 18], [Force Nv. 16], [Agilité Nv. 12], [Magie Nv. 10]
 
 Évaluation globale : Une incarnation possédant des statistiques et des caractéristiques assez impressionnantes. Le soutien de la constellation est un peu décevant, mais ses capacités en tant que guerrier sont remarquables. Si seulement sa Force de Persévérance avait été un peu plus profonde, il aurait pu devenir l'un des 12 Apôtres. Quel dommage.
 
@@ -158,7 +158,7 @@ J'ai pris leurs smartphones et me suis connecté au groupe de discussion.
 
 Ah... Mais avec ça, je ne peux pas accéder à Internet. Je l'ai coupé hier...
 
-[Le personnage 'Han Donghun' a utilisé [Internet Étendu Lv.5].]
+[Le personnage 'Han Donghun' a utilisé [Internet Étendu Nv. 5].]
 
 [L'accès à Internet est désormais disponible sur cet appareil.]
 
@@ -250,7 +250,7 @@ Les chiffres devant leurs pseudonymes devaient correspondre à leur ordre de dé
 
 -----
 
-Les souvenirs de l'époque où je lisais le 'Guide de Survie' me sont revenus.
+Les souvenirs de l'époque où je lisais le *Guide de Survie* me sont revenus.
 
 Ces types devaient être comme moi, ceux qui lisaient ce roman à l'époque.
 
@@ -320,7 +320,7 @@ Oh ?
 
 "Dans les révélations, c'était mentionné comme un 'flashback'... Mais j'ai toujours voulu vous rencontrer pour en entendre parler."
 
-Effectivement, le 'Guide de Survie' commence à la troisième itération de Régression de Yu Junghyeok, donc tout ce qui concerne la deuxième itération est traité en flashback.
+Effectivement, le *Guide de Survie* commence à la troisième itération de Régression de Yu Junghyeok, donc tout ce qui concerne la deuxième itération est traité en flashback.
 
 Il en sait beaucoup s'il connaît Asmodée.
 
@@ -346,7 +346,7 @@ Les expressions de certains <Prophètes> se sont assombries.
 
 C'est compréhensible.
 
-Le 'Guide de Survie' étant une boucle infinie, ceux qui découvrent que Yu Junghyeok est encore dans les premières itérations doivent être déçus.
+Le *Guide de Survie* étant une boucle infinie, ceux qui découvrent que Yu Junghyeok est encore dans les premières itérations doivent être déçus.
 
 Ces idiots, les premières itérations ont leur propre charme... Mais ils n'ont même pas lu jusqu'au bout.
 
@@ -458,7 +458,7 @@ C'est un piège.
 
 "Maintenant."
 
-Depuis que le 'Guide de Survie' est devenu réalité et que j'ai rencontré Yu Junghyeok pour la première fois, c'était la première fois que je sentais une sueur froide dans mon dos.
+Depuis que le *Guide de Survie* est devenu réalité et que j'ai rencontré Yu Junghyeok pour la première fois, c'était la première fois que je sentais une sueur froide dans mon dos.
 
 Ils veulent utiliser ça comme une <Arme> ?
 
@@ -487,3 +487,5 @@ J'ai crié à Jeong Huiwon et Lee Hyeonseong qui s'approchaient :
 C'est pour ça qu'il ne faut pas faire confiance à ceux qui n'ont pas lu jusqu'au bout.
 
 À cause de ces idiots de débarqués précoces, on risque tous de mourir aujourd'hui.
+
+< Épisode 11. La Nuit des Prophètes (3) - Fin>

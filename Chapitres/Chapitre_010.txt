@@ -8,7 +8,7 @@ Par réflexe, je me baissai, et un poing ensanglanté fendit l’air à l’endr
 
 En tombant, je sentis quelque chose s’accrocher à mon pied lancé en réflexe, et je sentis que quelque chose avait été projeté au loin. Je n’avais pas besoin de me retourner pour savoir de qui il s’agissait.
 
-Un monstre de niveau 9, un démon humain (魔人).
+Un monstre de niveau 9, un démon humain .
 
 Une mutation humaine infectée par l’éther noir.
 
@@ -90,7 +90,7 @@ Je devais le comprendre littéralement.
 
 ‘Profil du Personnage’ est une compétence qui permet de lire les informations des personnages.
 
-Yu Sangah et Han Myeongoh n’apparaissaient pas dans le ‘Guide de Survie’ original. Des personnages qui seraient morts si je ne les avais pas sauvés. Il était donc naturel que je ne puisse pas vérifier leurs informations via ‘Profil du Personnage’.
+Yu Sangah et Han Myeongoh n’apparaissaient pas dans le *Guide de Survie* original. Des personnages qui seraient morts si je ne les avais pas sauvés. Il était donc naturel que je ne puisse pas vérifier leurs informations via ‘Profil du Personnage’.
 
 « Grrooaaak ! Grrooaaak ! Grrooaaak ! »
 
@@ -168,7 +168,7 @@ J’entendis le bruit des ichtyosaures se déchaînant sous les piliers, chercha
 
 [Quelques constellations vous ont parrainé avec 200 pièces.]
 
-Les pièces s’accumulaient régulièrement. J’avais maintenant 5000 pièces. Pour le début, c’était une somme considérable.
+Les pièces s’accumulaient régulièrement. J’avais maintenant 5 000 pièces. Pour le début, c’était une somme considérable.
 
 [Wow, vous tenez plutôt bien. Allez, allez ! Y a-t-il des constellations qui veulent accorder leur bénédiction à ce pauvre ami ?]
 
@@ -212,11 +212,11 @@ Merde, si seulement j’avais une compétence de combat, ça n’aurait pas ét�
 
 3. Emplacement vide
 
-Marque-page. J’avais lu 3000 fois le ‘Guide de Survie’, mais je n’avais jamais vu une compétence portant ce nom. Cependant, même si je ne l’avais jamais vue, je savais intuitivement comment l’utiliser.
+Marque-page. J’avais lu 3 000 fois le *Guide de Survie*, mais je n’avais jamais vu une compétence portant ce nom. Cependant, même si je ne l’avais jamais vue, je savais intuitivement comment l’utiliser.
 
 « Activation du Marque-page numéro 1. »
 
-Avec un léger cliquetis, les pages d’un livre commencèrent à tourner dans mon esprit. C’étaient les scènes du ‘Guide de Survie’ laissées par le personnage Kim Namwun.
+Avec un léger cliquetis, les pages d’un livre commencèrent à tourner dans mon esprit. C’étaient les scènes du *Guide de Survie* laissées par le personnage Kim Namwun.
 
 « Hahahahahah ! Je déborde de puissance ! »
 
@@ -236,7 +236,7 @@ Les souvenirs de Kim Namwun m’envahirent, et les muscles et les nerfs de tout 
 
 [La compréhension du personnage est faible, donc seulement une partie des compétences du personnage est activée.]
 
-[« Noircissement Lv.1 » activé.]
+[« Noircissement Nv. 1 » activé.]
 
 Kim Namwun, respirant bruyamment, chargea vers moi. L’énergie noire enveloppant tout son corps semblait prête à exploser, me menaçant.
 
@@ -244,7 +244,7 @@ Je poussai avec toutes mes forces sur mes talons et courus à la rencontre de Ki
 
 Si j’avais au moins la même technique, je ne perdrais certainement pas.
 
-À ce moment-là, j’étais vraiment Kim Namwun. Le tueur fou qui avait dominé le monde du ‘Guide de Survie’ avec le protagoniste.
+À ce moment-là, j’étais vraiment Kim Namwun. Le tueur fou qui avait dominé le monde du *Guide de Survie* avec le protagoniste.
 
 Dans une situation où Noircissement était correctement activé, personne ne pouvait facilement prédire l’issue du combat, le Démon Fantasque du champ de bataille.
 
@@ -258,7 +258,7 @@ S’il avait encore des yeux, il m’aurait certainement regardé.
 
 « Grr, meurs. Euh. Meurs. Euh. »
 
-Un jeune homme qui avait désespéré du monde et rêvé de déviance depuis longtemps. Pourtant, si le ‘Guide de Survie’ n’avait pas commencé, il aurait peut-être passé l’examen d’entrée à l’université et vécu une vie de campus.
+Un jeune homme qui avait désespéré du monde et rêvé de déviance depuis longtemps. Pourtant, si le *Guide de Survie* n’avait pas commencé, il aurait peut-être passé l’examen d’entrée à l’université et vécu une vie de campus.
 
 « … Je. Ne. Veux. Pas. Mourir… »
 
@@ -340,7 +340,7 @@ Personnage : Yu Junghyeok
 
 Caractéristiques : Régresseur <3ème tour> (Mythique), Joueur Professionnel (Rare)
 
-Compétences exclusives : [Œil du Sage Lv.8], [Combat au Corps à Corps Lv.8], [Affûtage d'Armes Lv.8], [Barrière Mentale Lv.5], [Contrôle des Foules Lv.5], [Déduction Lv.5], [Détecteur de Mensonge Lv.4]…
+Compétences exclusives : [Œil du Sage Nv. 8], [Combat au Corps à Corps Nv. 8], [Affûtage d'Armes Nv. 8], [Barrière Mentale Nv. 5], [Contrôle des Foules Nv. 5], [Déduction Nv. 5], [Détecteur de Mensonge Nv. 4]…
 
 La liste des compétences exclusives semblait interminable. À la fin de cette liste, une main robuste apparut et saisit ma gorge.
 
@@ -351,3 +351,5 @@ La première méthode pour survivre dans un monde en ruine. La personne qui en �
 Le Régresseur Yu Junghyeok.
 
 La grande tragédie de ce monde commence avec cette personne.
+
+< Épisode 2. Le Protagoniste (4) - Fin>

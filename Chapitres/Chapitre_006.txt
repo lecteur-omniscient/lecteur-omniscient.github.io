@@ -52,12 +52,12 @@ Je ne savais pas exactement quelle était ma particularité, mais en voyant cett
 
 <Informations sur le personnage>
 
-Nom : Kim Namwun  
-Âge : 19 ans  
-Constellation de soutien : Aucune (actuellement, deux constellations s’intéressent à cette personne)  
-Particularité exclusive : Syndrome de l’adolescent (commun)  
-Compétences exclusives : [Adaptation anormale Nv.3], [Combat au couteau Nv.1], [Noircissement Nv.1]  
-Statistiques globales : [Endurance Nv.3], [Force Nv.4], [Agilité Nv.6], [Magie Nv.4]  
+Nom : Kim Namwun 
+Âge : 19 ans 
+Constellation de soutien : Aucune (actuellement, deux constellations s’intéressent à cette personne) 
+Particularité exclusive : Syndrome de l’adolescent (commun) 
+Compétences exclusives : [Adaptation anormale Nv. 3], [Combat au couteau Nv. 1], [Noircissement Nv. 1] 
+Statistiques globales : [Endurance Nv. 3], [Force Nv. 4], [Agilité Nv. 6], [Magie Nv. 4] 
 Évaluation globale : Un adolescent atteint du syndrome de l’adolescent, ayant subi un Noircissement suite à un événement particulier. Il est recommandé de ne pas s’impliquer avec lui.
 
 Dans le *Guide de Survie*, la plupart des adolescents atteints de ce syndrome se suicidaient, incapables de supporter le cauchemar devenu réalité. Mais Kim Namwun était différent.
@@ -72,7 +72,7 @@ Il avait attendu si longtemps la fin du monde qu’il s’était adapté à cett
 
 Ce jeune homme me proposait maintenant une alliance.
 
-[Le personnage *Kim Namwun* vous montre de la sympathie.]  
+[Le personnage *Kim Namwun* vous montre de la sympathie.] 
 [Votre compréhension du personnage *Kim Namwun* a augmenté.]
 
 Si je m’alliais avec Kim Namwun maintenant, ma survie serait assurée, du moins pour l’instant.
@@ -143,7 +143,7 @@ Je calculai le timing dans ma tête et baissai la tête. Avant même qu’il ait
 
 Même si je l’avais esquivé sciemment, une sensation de chaleur brûlante me traversa le crâne. Ce n’était pas un coup ordinaire.
 
-[Noircissement Nv.1]
+[Noircissement Nv. 1]
 
 Une aura sombre émanait de tout le corps de Kim Namwun.
 
@@ -161,14 +161,14 @@ Mon épaule, touchée par son coup, se contracta violemment. Si je continuais à
 
 Alors que je calculais le temps dans ma tête, un message me parvint.
 
-[Votre compréhension du personnage *Kim Namwun* a augmenté.]  
-[Les conditions d’utilisation de la compétence exclusive *Point de Vue du Lecteur Omniscient* Nv.1 sont presque remplies.]
+[Votre compréhension du personnage *Kim Namwun* a augmenté.] 
+[Les conditions d’utilisation de la compétence exclusive *Point de Vue du Lecteur Omniscient* Nv. 1 sont presque remplies.]
 
 *Point de Vue du Lecteur Omniscient ?*
 
 C’était quoi, encore ça ?
 
-[Les conditions d’utilisation de la compétence exclusive *Point de Vue du Lecteur Omniscient* Nv.1 sont remplies !]
+[Les conditions d’utilisation de la compétence exclusive *Point de Vue du Lecteur Omniscient* Nv. 1 sont remplies !]
 
 Avec un bruit sourd, le poing de Kim Namwun frappa le sol.
 
@@ -186,7 +186,7 @@ Des coups suffisamment puissants pour briser des os s’abattaient continuelleme
 
 Tout cela grâce à ma deuxième compétence.
 
-[Compétence exclusive, *Point de Vue du Lecteur Omniscient* Nv.1 activée !]
+[Compétence exclusive, *Point de Vue du Lecteur Omniscient* Nv. 1 activée !]
 
 Au moment où la compétence s’activa, je pouvais lire les intentions de Kim Namwun comme si je lisais dans ses pensées, et ainsi anticiper ses attaques. Par exemple, comme ceci :
 
@@ -266,10 +266,10 @@ Un liquide visqueux éclata, recouvrant ma main d’une sensation gluante, et un
 
 .......
 
-[Vous avez tué un être vivant.]  
-[Vous avez obtenu une récompense supplémentaire de 100 pièces.]  
-[Vous avez tué un être vivant.]  
-[Vous avez obtenu une récompense supplémentaire de 100 pièces.]  
+[Vous avez tué un être vivant.] 
+[Vous avez obtenu une récompense supplémentaire de 100 pièces.] 
+[Vous avez tué un être vivant.] 
+[Vous avez obtenu une récompense supplémentaire de 100 pièces.] 
 .......
 
 Des messages incessants résonnèrent à mes oreilles.
@@ -300,9 +300,9 @@ J’ignorai les explications qui résonnaient à mes oreilles. De toute façon, 
 
 En prononçant ces mots, je murmurai quelque chose dans ma tête.
 
-[J’investis 2700 pièces dans *Endurance*.]  
-[Endurance Nv.1 → Endurance Nv.10]  
-[Votre niveau d’endurance a considérablement augmenté !]  
+[J’investis 2 700 pièces dans *Endurance*.] 
+[Endurance Nv. 1 → Endurance Nv. 10] 
+[Votre niveau d’endurance a considérablement augmenté !] 
 [La durabilité de votre corps a considérablement augmenté !]
 
 Le couteau MacGyver de Kim Namwun s’enfonça dans la région de mon cœur.
@@ -401,12 +401,12 @@ Pourquoi, en voyant cette scène, pouvais-je rester aussi calme ?
 
 Comme si je lisais un roman.
 
-[Vous avez massacré un total de 124 êtres vivants.]  
-[Liste des massacres : 1 sauterelle, 123 œufs de sauterelles.]  
-[Comme vous avez tué des êtres vivants sans résistance, les pièces obtenues sont réduites de moitié.]  
-[Vous avez obtenu un total de 6200 pièces.]  
-[Les pièces utilisées pour augmenter vos statistiques sont automatiquement déduites.]  
-[Vous avez obtenu un total de 3500 pièces.]  
+[Vous avez massacré un total de 124 êtres vivants.] 
+[Liste des massacres : 1 sauterelle, 123 œufs de sauterelles.] 
+[Comme vous avez tué des êtres vivants sans résistance, les pièces obtenues sont réduites de moitié.] 
+[Vous avez obtenu un total de 6 200 pièces.] 
+[Les pièces utilisées pour augmenter vos statistiques sont automatiquement déduites.] 
+[Vous avez obtenu un total de 3 500 pièces.] 
 [En raison de votre massacre excessif, vous avez obtenu le titre de *Massacreur de masse*.]
 
 Mon visage se reflétait dans les vitres noires du métro.
@@ -437,11 +437,13 @@ Les ponts du fleuve Han effondrés.
 
 Le fleuve Han teinté de rouge par les cadavres de soldats, et des créatures écrasant les chars K1 comme des jouets entre les bâtiments effondrés.
 
-[Scénario principal #1 – Preuve de valeur terminé.]  
-[Vous avez obtenu 300 pièces en récompense de base.]  
-[100 pièces ont été déduites pour les frais d’utilisation du canal.]  
+[Scénario principal #1 – Preuve de valeur terminé.] 
+[Vous avez obtenu 300 pièces en récompense de base.] 
+[100 pièces ont été déduites pour les frais d’utilisation du canal.] 
 [Le calcul des récompenses supplémentaires commence.]
 
 Un monde s’effondrait, et un nouveau monde naissait.
 
 Et j’étais le seul lecteur à connaître la fin de ce monde.
+
+< Épisode 1. Début du service payant (5) - Fin>

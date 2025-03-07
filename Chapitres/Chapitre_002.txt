@@ -246,11 +246,11 @@ C’est à ce moment-là qu’une notification apparut en haut de mon écran.
 
 [Vous avez reçu 1 nouveau message.]
 
-L’expéditeur était l’auteur de “Guide de Survie”.
+L’expéditeur était l’auteur de “*Guide de Survie*”.
 
 J’ouvris immédiatement le message.
 
-―Cher lecteur, le service payant commence à 19h aujourd’hui. Ceci vous aidera. Bonne chance.
+―Che. Dokja-ssi, le service payant commence à 19h aujourd’hui. Ceci vous aidera. Bonne chance.
 
 [1 fichier joint]
 
@@ -270,7 +270,7 @@ Il avait dit que le service payant commencerait à 19h, donc il restait exacteme
 
 J’ouvris la liste de mes œuvres préférées dans l’application.
 
-Même si je suis le seul lecteur, je devrais au moins laisser un commentaire de félicitations pour encourager l’auteur.
+Même si je suis le seu. Dokja-ssi, je devrais au moins laisser un commentaire de félicitations pour encourager l’auteur.
 
 Mais...
 
@@ -278,7 +278,7 @@ Mais...
 
 J’essayai plusieurs fois de taper “ruine” dans la barre de recherche, mais le résultat était le même.
 
-Le forum de “Guide de Survie” avait disparu sans laisser de trace.
+Le forum de “*Guide de Survie*” avait disparu sans laisser de trace.
 
 C’était étrange. Est-ce que les forums étaient supprimés sans préavis lors du passage au service payant ?
 
@@ -338,8 +338,10 @@ Un tic, et j’eus l’impression que le monde s’arrêtait.
 
 Puis une voix retentit.
 
-[Le service gratuit du système planétaire 8612 est terminé.]
+[Le service gratuit du système planétaire 8 612 est terminé.]
 
 [Le scénario principal commence.]
 
 C’était le moment où le genre de ma vie changea.
+
+< Épisode 1. Début du service payant (1) - Fin>

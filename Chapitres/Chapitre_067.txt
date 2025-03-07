@@ -12,7 +12,7 @@ Bien sûr, avec des significations différentes.
 
 Yu Sangah regarda Lee Gilyeong avec des yeux étonnés. Ce qui était intéressant, c'est que Lee Gilyeong la regarda avec un air déçu.
 
-"Frère, laissez-moi m'occuper de la fin."
+"Hyung, laissez-moi m'occuper de la fin."
 
 Même ce gamin... Il a déjà compris que je ne tue pas directement les gens.
 
@@ -42,7 +42,7 @@ Jusqu'à présent, le drapeau avait été un bon appât pour attirer les rois m�
 
 Sur le champ de bataille où l'on capture les rois, il n'y a rien de bon à ce qu'on découvre que je suis un roi.
 
-La voix d'un dokkaebi de rang intermédiaire résonna dans les airs.
+La voix d'un Dokkaebi de rang intermédiaire résonna dans les airs.
 
 [Houhou, vous vous en sortez bien ! Tant de personnes accomplissent le 'Scénario Caché', cela enlève tout son sens au mot 'caché', non ?]
 
@@ -60,7 +60,7 @@ Probablement l'un des Sept Rois.
 
 Je regardai mon groupe et dis :
 
-"Dépêchons-nous. Le 'bientôt' des dokkaebis est plus long qu'on ne le pense."
+"Dépêchons-nous. Le 'bientôt' des Dokkaebis est plus long qu'on ne le pense."
 
 Je plaçai une à une les pièces que j'avais collectées dans les trous de l'entrée du hall.
 
@@ -156,7 +156,7 @@ Les poignets tenant des armes blanches furent transpercés.
 
 Les membres tranchés volèrent de manière irréaliste dans les airs. Je m'approchai derrière les hommes qui hurlaient de douleur et appuyai tranquillement sur leurs points de pression.
 
-[Compétence exclusive, 'Pression des Points Vitaux Nv.1' activée.]
+[Compétence exclusive, 'Pression des Points Vitaux Nv. 1' activée.]
 
 Trancher les membres et appuyer sur les points de pression, c'était une action cruelle, mais ici, c'est nécessaire.
 
@@ -216,7 +216,7 @@ Les Sept Rois de Séoul que nous allons bientôt rencontrer ont pour la plupart 
 
 Nous avons tranquillement collecté les objets que la foule possédait.
 
-[2300 pièces ont été obtenues.]
+[2 300 pièces ont été obtenues.]
 
 [L'objet 'Le Miroir de la médecine orientale ― Volume des Maladies Mineures (Partie Supérieure)' a été obtenu.]
 
@@ -302,7 +302,7 @@ Mais c'est ce genre de personne qui est un 'vrai' serviteur loyal.
 
 Je me souviens vaguement.
 
-Ce n'était pas dans le troisième tour, mais il y avait eu plusieurs fois dans le 'Guide de Survie' où une 'Alliance Anti-Tyran' avait été formée.
+Ce n'était pas dans le troisième tour, mais il y avait eu plusieurs fois dans le *Guide de Survie* où une 'Alliance Anti-Tyran' avait été formée.
 
 C'est probablement parce que l'avenir a changé.
 
@@ -331,3 +331,5 @@ Un homme au crâne rasé, avec un bandeau sur un œil.
 Et dans sa main, un bâton brun...
 
 Attendez. Ce type, ce ne serait pas... ?
+
+< Épisode 14. Le Maître du Trône (3) - Fin>

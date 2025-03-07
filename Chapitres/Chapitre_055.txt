@@ -12,7 +12,7 @@ Encore une fois, c’est grâce au [Quatrième Mur].
 
 Chaque fois que cette compétence m’aide à surmonter une épreuve, je ressens toujours un sentiment étrange.
 
-Le « Guide de Survie » est devenu réalité, et je vis désormais à l’intérieur de celui-ci.
+Le « *Guide de Survie* » est devenu réalité, et je vis désormais à l’intérieur de celui-ci.
 
 Alors... ce « mur » que je ressens à chaque fois, qu’est-ce que c’est ?
 
@@ -50,7 +50,7 @@ Et puis, je voyais une « scène ».
 
 « Gong Pildu, le Dix Malfaisant, observait les gens qui erraient sur le quai en pinçant les lèvres. Il se demandait s’il ne devrait pas s’enfuir maintenant. Mais il savait mieux que quiconque qu’il n’avait pas le courage de le faire.
 
-“Hum... Frère Lecteur.”
+“Hum... HyungDokja.”
 
 Sentant un poids léger sur son genou, Gong Pildu baissa les yeux. Un garçon d’environ dix ans dormait, la tête posée sur sa cuisse.
 
@@ -483,3 +483,5 @@ Je sentis ma conscience quitter le corps de Yu Junghyeok et retourner lentement 
 [La caractéristique « Roi de la Non-Violence », retardée, est réactivée.]
 
 [Votre corps ressuscite de la mort.]
+
+< Épisode 12. Point de Vue à la Première Personne du Personnage Principal (1) - Fin>

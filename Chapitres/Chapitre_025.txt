@@ -8,7 +8,7 @@ Cheon Inho, nous ayant repérés, nous adressa un sourire. Un pressentiment sini
 
 "Au fait, Dokja, vous avez beaucoup de pièces, n'est-ce pas ? Combien déjà ? Je crois que vous étiez le plus riche parmi nous, non ?"
 
-[Le personnage 'Cheon Inho' active la compétence 'Manipulation Lv.2' !]
+[Le personnage 'Cheon Inho' active la compétence 'Manipulation Nv. 2' !]
 
 La foule se tourna précipitamment vers moi.
 
@@ -118,7 +118,7 @@ Nom : Han Minsang
 
 Trait unique : Voyou (Commun)
 
-Statistiques globales : [Endurance Lv.8], [Force Lv.8], [Agilité Lv.8], [Magie Lv.2]
+Statistiques globales : [Endurance Nv. 8], [Force Nv. 8], [Agilité Nv. 8], [Magie Nv. 2]
 
 +
 
@@ -367,3 +367,5 @@ Alors que tout le monde était plongé dans une profonde exaltation, je pensai s
 J'avais obtenu tout ce que je devais obtenir à la station Geumho.
 
 La prochaine étape était Chungmuro.
+
+< Épisode 6. L'Heure du Jugement (2) - Fin>
