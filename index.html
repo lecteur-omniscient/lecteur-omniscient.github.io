@@ -142,6 +142,12 @@
         const fontSelector = document.getElementById('font-selector');
         const fontSizeSelector = document.getElementById('font-size');
         const darkModeToggle = document.getElementById('dark-mode-toggle');
+	const chapterContent_bottom = document.getElementById('chapter-content-bottom');
+        const prevChapterBtn_bottom = document.getElementById('prev-chapter-bottom');
+        const nextChapterBtn_bottom = document.getElementById('next-chapter-bottom');
+        const fontSelector_bottom = document.getElementById('font-selector-bottom');
+        const fontSizeSelector_bottom = document.getElementById('font-size-bottom');
+        const darkModeToggle_bottom = document.getElementById('dark-mode-toggle-bottom');
 
         // Process text to add bold formatting
         function processText(text) {
@@ -201,28 +207,47 @@
             document.body.classList.toggle('dark-mode');
         });
 
+	prevChapterBtn_bottom.addEventListener('click', () => loadChapter(currentChapterIndex - 1));
+        nextChapterBtn_bottom.addEventListener('click', () => loadChapter(currentChapterIndex + 1));
+
+        // Font family selector
+        fontSelector_bottom.addEventListener('change', (e) => {
+            document.body.className = document.body.className.replace(/font-\w+/, '');
+            document.body.classList.add(e.target.value);
+        });
+
+        // Font size selector
+        fontSizeSelector_bottom.addEventListener('change', (e) => {
+            document.body.style.fontSize = e.target.value;
+        });
+
+        // Dark mode toggle
+        darkModeToggle_bottom.addEventListener('click', () => {
+            document.body.classList.toggle('dark-mode');
+        });
+
         // Initial load
         initReader();
     </script>
     <div id="reader-controls">
         <div>
-            <button id="prev-chapter">⬅️ Chapitre Précédent</button>
-            <button id="next-chapter">Chapitre Suivant ➡️</button>
+            <button id="prev-chapter-bottom">⬅️ Chapitre Précédent</button>
+            <button id="next-chapter-bottom">Chapitre Suivant ➡️</button>
         </div>
         <div>
-            <select id="font-selector">
+            <select id="font-selector-bottom">
                 <option value="font-arial">Arial</option>
                 <option value="font-times">Times New Roman</option>
                 <option value="font-courier">Courier</option>
                 <option value="font-georgia">Georgia</option>
             </select>
-            <select id="font-size">
+            <select id="font-size-bottom">
                 <option value="16px">Normal</option>
                 <option value="14px">Petit</option>
                 <option value="20px">Grand</option>
                 <option value="24px">Très Grand</option>
             </select>
-            <button id="dark-mode-toggle">🌓 Mode Sombre</button>
+            <button id="dark-mode-toggle-bottom">🌓 Mode Sombre</button>
         </div>
     </div>
 </body>
