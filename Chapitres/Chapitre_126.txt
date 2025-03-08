@@ -2,7 +2,7 @@
 
 En voyant les tirs d’artillerie déferler, je fus un peu surpris.
 
-[Zone Armée] n’était plus, mais [Forteresse Armée].
+'Zone Armée' n’était plus, mais [Forteresse Armée].
 
 Apparemment, le niveau du stigmate de Gong Pildu avait dépassé le niveau 10, atteignant ainsi un stade supérieur.
 
@@ -371,5 +371,7 @@ La clé de ce scénario était cette femme.
 Du moins en ce qui concerne [Pays de la Paix], Asuka Ren connaissait ce monde mieux que moi, qui avais lu le *Guide de Survie*.
 
 “Rejoignez le groupe coréen. Nous avons besoin de votre aide.”
+
+< Épisode 24. Ce qui peut être changé (6) - Fin>
 
 < Épisode 24. Ce qui peut être changé (6) - Fin>

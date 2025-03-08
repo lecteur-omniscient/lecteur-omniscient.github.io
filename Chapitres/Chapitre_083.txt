@@ -8,7 +8,7 @@ Impressionnant.
 
 ... Est-ce vraiment la Yu Sangah que je connais ?
 
-Il n'y a pas beaucoup de compétences de masse capables de montrer une telle puissance face à une multitude d'ennemis. À ce stade, seules des compétences comme [Zone Armée] de Gong Pildu, le Seigneur Armé, ou [Avatar] de Han Suyeong peuvent rivaliser. Pourtant, Yu Sangah montrait une telle puissance sans même posséder de compétences de masse.
+Il n'y a pas beaucoup de compétences de masse capables de montrer une telle puissance face à une multitude d'ennemis. À ce stade, seules des compétences comme 'Zone Armée' de Gong Pildu, le Seigneur Armé, ou [Avatar] de Han Suyeong peuvent rivaliser. Pourtant, Yu Sangah montrait une telle puissance sans même posséder de compétences de masse.
 
 Comment est-elle devenue si forte ?
 
@@ -46,7 +46,7 @@ Han Suyeong a activé son [Avatar] comme si elle attendait ce moment.
 
 Pendant que des dizaines d'Avatars couraient pour perturber la vision du groupe de Dokhee, j'ai réussi à rejoindre Yu Sangah en sécurité.
 
-"Lecteur ? Comment es-tu arrivé ici... ?"
+"Dokja ? Comment es-tu arrivé ici... ?"
 
 "On en parlera une fois en sécurité."
 
@@ -72,7 +72,7 @@ C'est seulement alors que j'ai regardé Yu Sangah.
 
 "Yu Sangah, ça va ?"
 
-"Oui, ça va. Et toi,Dokja ?"
+"Oui, ça va. Et toi, Dokja ?"
 
 "Je vais bien aussi."
 
@@ -88,7 +88,7 @@ Mais je ne savais pas par où commencer.
 
 Pendant ce temps, Yu Sangah, après avoir jeté un coup d'œil à Han Suyeong et à Yu Junghyeok porté par l'Avatar de Han Suyeong, m'a souri d'un air énigmatique.
 
-"On dirait que tu as vécu beaucoup de choses,Dokja."
+"On dirait que tu as vécu beaucoup de choses, Dokja."
 
 C'était le moment d'un bref échange d'informations.
 
@@ -118,7 +118,7 @@ Je l'ai réconfortée en disant :
 
 "Gong Pildu va probablement bien. Ne t'inquiète pas."
 
-Comme j'ai un contrat avec [Maître de la Défense], je saurai immédiatement si Gong Pildu meurt. Selon les termes du contrat, je subirais une pénalité. Mais comme il n'y a eu aucune réaction jusqu'à présent, cela signifie que Gong Pildu est toujours en vie quelque part.
+Comme j'ai un contrat avec 'Maître de la Défense', je saurai immédiatement si Gong Pildu meurt. Selon les termes du contrat, je subirais une pénalité. Mais comme il n'y a eu aucune réaction jusqu'à présent, cela signifie que Gong Pildu est toujours en vie quelque part.
 
 Comme Dokhee, Gong Pildu est également un membre des 'Dix Malfaisants'.
 
@@ -206,7 +206,7 @@ J'ai immédiatement regardé par la fenêtre.
 
 Dans le ciel sombre, la silhouette d'un Dokkaebi flottait.
 
-[Les participants à ce scénario sont vraiment pressés. Il reste encore une semaine avant le début du scénario principal, mais certains ont déjà commencé à réveiller des désastres. Vous devez vraiment être curieux de savoir ce qui va se passer ensuite, hein ?]
+[Les participants à ce scénario sont vraiment pressés. Il reste encore une semaine avant le début du scénario principal, mais certains ont déjà commencé à réveiller des fléaux. Vous devez vraiment être curieux de savoir ce qui va se passer ensuite, hein ?]
 
 Ce n'était pas Bihyeong qui parlait, mais on pouvait voir sa silhouette.
 
@@ -222,29 +222,29 @@ Vraiment, ce n'est pas une bonne tournure des événements.
 
 Dans une situation comme celle-ci, l'arrivée d'un scénario ne peut signifier qu'une seule chose.
 
-[Sous-scénario — 'Empêcher le Désastre' est arrivé.]
+[Sous-scénario — 'Empêcher le Fléau' est arrivé.]
 
 L'éclosion du désastre est imminente.
 
 +
 
-<Sous-scénario — Empêcher le Désastre>
+<Sous-scénario — Empêcher le Fléau>
 
 Classification : Sous-scénario
 
 Difficulté : S-
 
-Condition de réussite : Une force inconnue s'est établie à Gangdong-gu et tente de faire éclore l'un des 'Désastres'. Détruisez-les et empêchez le 'Désastre' d'arriver.
+Condition de réussite : Une force inconnue s'est établie à Gangdong-gu et tente de faire éclore l'un des 'Fléaux'. Détruisez-les et empêchez le 'Fléau' d'arriver.
 
 Temps limite : 2 heures
 
 Récompense : 22 000 pièces
 
-En cas d'échec : Apparition prématurée du 'Désastre des Questions'.
+En cas d'échec : Apparition prématurée du 'Fléau des Questions'.
 
 +
 
-Puisque nous avons reçu le scénario 'Empêcher le Désastre', le groupe de Dokhee a probablement reçu le scénario 'Protéger le Désastre'.
+Puisque nous avons reçu le scénario 'Empêcher le Fléau', le groupe de Dokhee a probablement reçu le scénario 'Protéger le Fléau'.
 
 Ces putains de Dokkaebi veulent intégrer même cette situation imprévue dans un scénario.
 
@@ -260,7 +260,7 @@ Le groupe de Dokhee avait établi son camp dans la région de Cheonho-dong, à G
 
 Plus précisément, dans une zone densément peuplée d'églises et de cathédrales.
 
-Si leur objectif était de faire éclore le désastre prématurément, choisir une zone religieuse comme camp était une excellente idée.
+Si leur objectif était de faire éclore le fléau prématurément, choisir une zone religieuse comme camp était une excellente idée.
 
 Les prières des personnes désespérées créeraient un environnement propice à l'éclosion de la 'Météorite du Désastre'.
 
@@ -278,7 +278,7 @@ Nous n'avons pas de temps à perdre, donc nous devons prendre le chemin le plus 
 
 Yu Junghyeok, qui ne pouvait pas aider pour le moment, est resté sur le toit d'un bâtiment haut en utilisant l'Avatar de Han Suyeong. Officiellement, il était là pour 'surveiller la situation'. Yu Junghyeok n'a pas protesté. Il a simplement donné un conseil.
 
-— Si possible, éliminez-les avant l'éclosion. Sans [Voie du Vent], il est presque impossible de réprimer le 'Désastre des Questions' au début.
+— Si possible, éliminez-les avant l'éclosion. Sans [Voie du Vent], il est presque impossible de réprimer le 'Fléau des Questions' au début.
 
 Bien sûr, je veux aussi faire ça si possible.
 
@@ -310,13 +310,13 @@ Malgré les échanges pleins de tension, la coordination entre les deux était p
 
 Grâce à cela, j'ai pu facilement éviter les réseaux de surveillance du groupe de Dokhee et pénétrer au cœur du camp.
 
-Trouver la Météorite du Désastre n'a pas été difficile.
+Trouver la 'Météorite du Désastre' n'a pas été difficile.
 
 Une météorite massive de plus de 8 mètres de haut.
 
 *Grooooooan...*
 
-Elle émettait une aura sinistre, comme si elle disait : "Je suis le désastre."
+Elle émettait une aura sinistre, comme si elle disait : "Je suis le fléau qui va s'abattre sur votre monde."
 
 Clairement, on sentait qu'il y avait quelque chose de bien plus puissant que lors de l'incident du Dragon de Feu.
 
@@ -336,7 +336,7 @@ C'était une pression différente de celle de Gong Pildu.
 
 Je vois.
 
-Avec la puissance de la [Météorite du Désastre], c'est normal, non ?
+Avec la puissance de la 'Météorite du Désastre', c'est normal, non ?
 
 "... Qui es-tu ?"
 

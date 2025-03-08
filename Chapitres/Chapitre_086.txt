@@ -26,7 +26,7 @@ Le ton moqueur de sa voix fit se crisper l'expression de Lycaon.
 
 La voix de Lycaon commençait à s'échauffer.
 
-"Tu as oublié le sacrifice des guerriers de Chronos ? Le moment où les cinq espèces dominantes ont été exterminées ? Nous devons arrêter le désastre ici. Nous devons coopérer avec les créatures de ce monde pour protéger la planète terraformée et reconstruire la civilisation de Chronos dans ce monde ! C'est notre mission sacrée !"
+"Tu as oublié le sacrifice des guerriers de Chronos ? Le moment où les cinq espèces dominantes ont été exterminées ? Nous devons arrêter le fléau ici. Nous devons coopérer avec les créatures de ce monde pour protéger la planète terraformée et reconstruire la civilisation de Chronos dans ce monde ! C'est notre mission sacrée !"
 
 La reconstruction de la civilisation de Chronos.
 
@@ -38,11 +38,11 @@ Antinus ne riait plus.
 
 Lycaon me jeta un regard furtif.
 
-"Mon hôte est celui qui a éliminé un désastre mineur avant même que le désastre ne commence. La preuve en est qu'il possède le talisman de notre race. Peut-être qu'il peut empêcher la destruction."
+"Mon hôte est celui qui a éliminé un fléau mineur avant même que le fléau ne commence. La preuve en est qu'il possède le talisman de notre race. Peut-être qu'il peut empêcher la destruction."
 
-"Un désastre mineur comme celui-là, nous aurions pu l'arrêter nous-mêmes s'il n'était qu'une version dégradée."
+"Un fléau mineur comme celui-là, nous aurions pu l'arrêter nous-mêmes s'il n'était qu'une version dégradée."
 
-"La Terre n'en est qu'au cinquième scénario ! Aucune planète n'a jamais éliminé un désastre mineur avant même que le cinquième ne commence. Réfléchis bien, Antinus ! Il y a encore de l'espoir pour cette planète !"
+"La Terre n'en est qu'au cinquième scénario ! Aucune planète n'a jamais éliminé un fléau mineur avant même que le cinquième ne commence. Réfléchis bien, Antinus ! Il y a encore de l'espoir pour cette planète !"
 
 Les yeux multiples d'Antinus clignotèrent lentement.
 
@@ -50,7 +50,7 @@ Un bourdonnement d'insecte, comme si elle avait du flegme dans la gorge.
 
 Dans son cri, il y avait une haine tenace.
 
-"Arrête de faire l'hypocrite. Tu es venu ici pour arrêter le désastre ? Si tu voulais vraiment les aider, pourquoi n'as-tu pas protesté quand la destination du désastre a été fixée sur la Terre ?"
+"Arrête de faire l'hypocrite. Tu es venu ici pour arrêter le fléau ? Si tu voulais vraiment les aider, pourquoi n'as-tu pas protesté quand la destination du fléau a été fixée sur la Terre ?"
 
 "C'est..."
 
@@ -192,7 +192,7 @@ Antinus déploya ses ailes à moitié détruites pour tenter de ralentir sa chut
 
 Avant même que la voix de Yu Junghyeok ne résonne, je courais déjà vers Antinus.
 
-[La 'Lame de la Conviction' s'active !]
+[La [Lame de la Conviction] s'active !]
 
 *Tzzzzzzzz!*
 
@@ -200,13 +200,13 @@ Il y avait un risque d'être emporté par la tempête de cohérence narrative, m
 
 "Mon monde, ma race, mes enfants !"
 
-Elle se dirigeait précisément vers la direction de la [Météorite du Désastre].
+Elle se dirigeait précisément vers la direction de la 'Météorite du Désastre'.
 
 "Je vais faire payer ceux qui ont détruit mon monde !"
 
-Toute sa magie fut projetée vers la [Météorite du Désastre].
+Toute sa magie fut projetée vers la 'Météorite du Désastre'.
 
-Lycaon, horrifié, courut pour absorber la magie, et je balançai la 'Lame de la Conviction', enveloppée d'attributs de feu, pour trancher la tête d'Antinus en chute.
+Lycaon, horrifié, courut pour absorber la magie, et je balançai la [Lame de la Conviction], enveloppée d'attributs de feu, pour trancher la tête d'Antinus en chute.
 
 La bouche de l'insecte, figée dans un rictus.
 
@@ -218,7 +218,7 @@ Quand je tournai la tête, Lycaon me regardait, le visage pâle.
 
 Puis le son disparut.
 
-Une lumière explosa de la [Météorite du Désastre], et une énorme explosion m'engloutit. Un des fragments de la météorite me frappa violemment la tête. Le monde sembla trembler comme si j'avais une commotion cérébrale. Je vis Lycaon, enveloppé par l'explosion, être projeté.
+Une lumière explosa de la 'Météorite du Désastre', et une énorme explosion m'engloutit. Un des fragments de la météorite me frappa violemment la tête. Le monde sembla trembler comme si j'avais une commotion cérébrale. Je vis Lycaon, enveloppé par l'explosion, être projeté.
 
 Les 'guides' ne peuvent normalement pas résister à la puissance d'un désastre.
 
@@ -276,7 +276,7 @@ Je me frayai un chemin à travers les débris et courus dehors.
 
 *Kugugugugu.*
 
-La [Météorite du Désastre], mesurant 8 mètres, était divisée en deux.
+La 'Météorite du Désastre', mesurant 8 mètres, était divisée en deux.
 
 Quelque chose avait éclos à l'intérieur.
 

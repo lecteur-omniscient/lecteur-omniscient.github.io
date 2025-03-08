@@ -72,8 +72,8 @@ Il avait attendu si longtemps la fin du monde qu’il s’était adapté à cett
 
 Ce jeune homme me proposait maintenant une alliance.
 
-[Le personnage *Kim Namwun* vous montre de la sympathie.] 
-[Votre compréhension du personnage *Kim Namwun* a augmenté.]
+[Le personnage 'Kim Namwun' vous montre de la sympathie.] 
+[Votre compréhension du personnage 'Kim Namwun' a augmenté.]
 
 Si je m’alliais avec Kim Namwun maintenant, ma survie serait assurée, du moins pour l’instant.
 
@@ -105,7 +105,7 @@ Je sentis son aura meurtrière tout près. Le personnage qui n’existait que da
 
 Kim Namwun était vraiment exactement comme je l’avais imaginé.
 
-[La sympathie du personnage *Kim Namwun* envers vous a légèrement diminué.]
+[La sympathie du personnage 'Kim Namwun' envers vous a légèrement diminué.]
 
 « Qu’est-ce que tu regardes ? Dégage ! »
 
@@ -133,7 +133,7 @@ En le voyant de si près, des souvenirs me revinrent.
 
 Combien de fois avais-je été exaspéré par ce type en lisant le *Guide de Survie* ?
 
-[Le personnage *Kim Namwun* vous méprise.]
+[Le personnage 'Kim Namwun' vous méprise.]
 
 « J’ai dit de bouger. »
 
@@ -161,14 +161,14 @@ Mon épaule, touchée par son coup, se contracta violemment. Si je continuais à
 
 Alors que je calculais le temps dans ma tête, un message me parvint.
 
-[Votre compréhension du personnage *Kim Namwun* a augmenté.] 
-[Les conditions d’utilisation de la compétence exclusive *Point de Vue du Lecteur Omniscient* Nv. 1 sont presque remplies.]
+[Votre compréhension du personnage 'Kim Namwun' a augmenté.] 
+[Les conditions d’utilisation de la compétence exclusive 'Point de Vue du Lecteur Omniscient' Nv. 1 sont presque remplies.]
 
 *Point de Vue du Lecteur Omniscient ?*
 
 C’était quoi, encore ça ?
 
-[Les conditions d’utilisation de la compétence exclusive *Point de Vue du Lecteur Omniscient* Nv. 1 sont remplies !]
+[Les conditions d’utilisation de la compétence exclusive 'Point de Vue du Lecteur Omniscient' Nv. 1 sont remplies !]
 
 Avec un bruit sourd, le poing de Kim Namwun frappa le sol.
 

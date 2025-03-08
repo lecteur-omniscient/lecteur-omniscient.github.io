@@ -406,7 +406,7 @@ Comme s'ils ne s'y attendaient pas, mes compagnons avaient tous l'air stupéfait
 
 Je me suis levé en secouant ma vision trouble.
 
-"Lecteur, comment... Non, plutôt, ça va ?"
+"Dokja, comment... Non, plutôt, ça va ?"
 
 Min Jiwon a regardé avec inquiétude l'ecchymose bleue autour de mon œil gauche.
 
@@ -426,7 +426,7 @@ Merde, ce type est vraiment trop fort.
 
 Comme nous étions tous réunis, Lee Gilyeong avait l'air excité.
 
-"Lecteur, c'est bien qu'on se batte tous ensemble cette fois."
+"Dokja, c'est bien qu'on se batte tous ensemble cette fois."
 
 "Oui."
 
@@ -439,5 +439,7 @@ Le vrai problème, c'était le message qui résonnait bruyamment dans ma tête d
 [Vous êtes actuellement l'incarnation la plus puissante de Séoul.]
 
 ... Alors, qu'est-ce que je vais faire ?
+
+< Épisode 28. La Victime Ultime (2) - Fin>
 
 < Épisode 28. La Victime Ultime (2) - Fin>

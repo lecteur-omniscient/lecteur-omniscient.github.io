@@ -4,7 +4,7 @@ Enfin, l'heure convenue était arrivée.
 
 Je me suis rassemblé avec le groupe sur le quai de la ligne 3. Chacun vérifiait ses armes. Il semblait que Lee Hyeonseong avait bien fait son travail.
 
-— Comme vous l'avez demandé,Dokja, j'ai tout distribué.
+— Comme vous l'avez demandé, Dokja, j'ai tout distribué.
 
 Comme les armes que nous utilisions jusqu'à présent étaient assez usées, j'avais demandé à Lee Hyeonseong de fabriquer de nouvelles armes. Le matériau utilisé était la corne du [Groll], une créature souterraine de rang 8 que nous avions capturée lors de la bataille acharnée de la nuit dernière. Des épées et des lances fabriquées à partir des cornes du [Groll]. Cela ne durera pas longtemps, mais c'est une solution temporaire acceptable.
 
@@ -12,7 +12,7 @@ Jeong Huiwon sourit, visiblement satisfaite.
 
 — C'est beaucoup plus léger et solide, non ?
 
-— Ah...Dokja, Hyeonseong. Merci beaucoup.
+— Ah... Dokja, Hyeonseong. Merci beaucoup.
 
 Yu Sangah inclina également la tête. Comme il était impossible de fabriquer des armes contondantes avec les cornes du [Groll], seul Lee Gilyeong tenait encore son arme faite à partir d'un cafard. Lee Gilyeong regardait le sol en silence. Le gamin avait l'air renfrogné... Je caressai la tête de Lee Gilyeong et dis :
 
@@ -26,7 +26,7 @@ Les têtes du groupe bougèrent lentement.
 
 Lee Hyeonseong parla d'une voix incertaine.
 
-—Dokja, je ne sais pas si ça va marcher.
+— Dokja, je ne sais pas si ça va marcher.
 
 ... Tu es au cœur de ce plan, tu ne devrais pas dire des choses comme ça. Je répondis d'une voix plus ferme.
 
@@ -50,7 +50,7 @@ C'était une remarque faite en passant, mais Lee Hyeonseong semblait plus ému q
 
 [La compréhension du personnage 'Lee Hyeonseong' augmente considérablement.]
 
-— Quand je parle avec vous,Dokja, j'ai parfois un sentiment étrange.
+— Quand je parle avec vous, Dokja, j'ai parfois un sentiment étrange.
 
 — Hein ? Quel genre de... ?
 
@@ -174,13 +174,13 @@ Avec une force incroyable, Lee Hyeonseong se précipita et commença à courir, 
 
 Des tourelles commencèrent à se dresser partout dans la Propriété Privée. Les tourelles chargées de projectiles magiques rouge vif se préparaient à tirer. Il y avait cinq mini-tourelles au total. Il semblait que le niveau de la Zone Armée avait encore augmenté.
 
-—Dokja !
+— Dokja !
 
 Je dépassai Lee Hyeonseong et pris son bouclier d'acier en même temps. Dès que la sensation solide du bouclier toucha ma main, un choc violent me repoussa.
 
 *Boom ! Crash ! Bang !*
 
-C'était comme si j'avais été frappé par un canon. Une douleur parcourut mon bras tenant le bouclier. La Zone Armée de niveau 19 était vraiment puissante. Mais maintenant, je pouvais tenir.
+C'était comme si j'avais été frappé par un canon. Une douleur parcourut mon bras tenant le bouclier. La Zone Armée de niveau 4 était vraiment puissante. Mais maintenant, je pouvais tenir.
 
 [L'effet de correction de l'objet 'Conviction Inébranlable' a fait passer votre niveau d'endurance à 20.]
 
@@ -238,7 +238,7 @@ Je regardai la scène avec une certaine émotion. L'évolution des caractéristi
 
 La raison pour laquelle Lee Hyeonseong, le 'Chevalier d'Acier', était l'un des meilleurs personnages secondaires. C'était...
 
-[Une nouvelle stigmate est déverrouillée grâce à l'évolution des caractéristiques.]
+[Un nouveau stigmate est déverrouillée grâce à l'évolution des caractéristiques.]
 
 Au moins pour ce "coup", Lee Hyeonseong était l'un des plus puissants du *Guide de Survie*.
 

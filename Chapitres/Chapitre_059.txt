@@ -16,7 +16,7 @@ Je jetai un regard à Yu Junghyeok, qui observait la scène.
 
 [Compétence exclusive, *Point de Vue du Lecteur Omniscient* activée.]
 
-[Le personnage *Yu Junghyeok* utilise actuellement *Détecteur de Mensonge Nv. 6*.]
+[Le personnage 'Yu Junghyeok' utilise actuellement *Détecteur de Mensonge Nv. 6*.]
 
 Je m'en doutais. Ce type est méticuleux.
 
@@ -30,7 +30,7 @@ Je ne pus m'empêcher de rire en voyant son sourire arrogant.
 
 Vraiment ? Voyons voir.
 
-[Le personnage *Yu Junghyeok* active *Détecteur de Mensonge Nv. 6*.]
+[Le personnage 'Yu Junghyeok' active *Détecteur de Mensonge Nv. 6*.]
 
 [Le personnage Yu Junghyeok confirme que cette déclaration est vraie.]
 
@@ -80,7 +80,7 @@ Si c'était Yu Junghyeok, il devait être en train de jauger la situation, alors
 
 "Et bien plus que toi."
 
-[Le personnage *Yu Junghyeok* confirme que votre déclaration est vraie.]
+[Le personnage 'Yu Junghyeok' confirme que votre déclaration est vraie.]
 
 L'expression du Premier Apôtre se figea.
 

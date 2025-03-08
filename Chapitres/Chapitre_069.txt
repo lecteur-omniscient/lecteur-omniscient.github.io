@@ -200,7 +200,7 @@ Les gens murmurèrent avec agitation.
 
 « Il y a encore des rois dehors ? »
 
-[Pour votre information, il y a actuellement 12 rois à l’intérieur de ce \'Donjon Caché\'.]
+[Pour votre information, il y a actuellement 12 rois à l’intérieur de ce 'Donjon Caché'.]
 
 Moi aussi, je fus un peu surpris. Je ne m’attendais pas à ce qu’il y ait autant de "rois" dans ce donjon.
 
@@ -290,7 +290,7 @@ Et en plus, il était un [Faux Roi].
 
 Étonnamment, ça lui allait bien.
 
-«Dokja. Qu’est-ce qu’on fait ? »
+« Dokja. Qu’est-ce qu’on fait ? »
 
 « Pour l’instant, ça va. »
 

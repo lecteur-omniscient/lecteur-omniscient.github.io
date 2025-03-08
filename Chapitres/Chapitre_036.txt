@@ -10,7 +10,7 @@ Une heure s'était écoulée depuis le début du combat, et Gong Pildu continuai
 
 [Le personnage 'Gong Pildu' a acquis la compétence 'Mur Protecteur'.]
 
-Plus il utilisait [Zone Armée] à plein régime, plus vite ses compétences montaient en niveau. Apparemment, la constellation derrière Gong Pildu était également pressée, car elle continuait à le soutenir en fonction de sa croissance. S'il survivait ici, Gong Pildu pourrait connaître une croissance phénoménale.
+Plus il utilisait 'Zone Armée' à plein régime, plus vite ses compétences montaient en niveau. Apparemment, la constellation derrière Gong Pildu était également pressée, car elle continuait à le soutenir en fonction de sa croissance. S'il survivait ici, Gong Pildu pourrait connaître une croissance phénoménale.
 
 À condition, bien sûr, qu'il survive.
 
@@ -218,9 +218,9 @@ Gong Pildu était une excellente carte à jouer si on pouvait le contrôler. Mê
 
 Yu Sangah dit :
 
-—Dokja, cette personne va mourir.
+— Dokja, cette personne va mourir.
 
-Gong Pildu se mordait les lèvres jusqu'au sang. Il ne restait plus que deux tourelles dans sa [Zone Armée].
+Gong Pildu se mordait les lèvres jusqu'au sang. Il ne restait plus que deux tourelles dans sa 'Zone Armée'.
 
 Il était presque temps de terminer ce combat.
 
@@ -318,7 +318,7 @@ Pauvre type, il ne comprenait même pas sa situation.
 
 En voyant Gong Pildu obéir docilement, les yeux de Yu Sangah s'arrondirent.
 
-— L-Lecteur ? Pourquoi il fait ça tout d'un coup... ?
+— L-Dokja ? Pourquoi il fait ça tout d'un coup... ?
 
 — J'ai juste transformé le "maître" en "serviteur".
 
@@ -360,7 +360,7 @@ L'image de Biryu commença à s'estomper.
 
 En voyant un canal s'effondrer si misérablement, Bihyeong dit d'une voix tremblante :
 
-[Lecteur...]
+[Dokja...]
 
 — Quoi ?
 
@@ -434,7 +434,7 @@ Comment je savais ? Je suis probablement la deuxième plus grande autorité sur 
 
 Je vérifiai l'heure et dis :
 
-— Ce type est entré dans le \'Donjon Caché\' près de la sortie 1, non ?
+— Ce type est entré dans le 'Donjon Caché' près de la sortie 1, non ?
 
 — Hein ?
 
@@ -444,12 +444,12 @@ Je vérifiai l'heure et dis :
 
 Lee Jihye avait l'air complètement perdue.
 
-D'après mes souvenirs, Yu Junghyeok avait tenté de conquérir le \'Donjon Caché\' de Chungmuro huit fois. Deux fois, il avait échoué, et six fois, il avait réussi. Le problème, c'est que les deux échecs étaient concentrés au début de ses régressions. Les 8e et 11e régressions.
+D'après mes souvenirs, Yu Junghyeok avait tenté de conquérir le 'Donjon Caché' de Chungmuro huit fois. Deux fois, il avait échoué, et six fois, il avait réussi. Le problème, c'est que les deux échecs étaient concentrés au début de ses régressions. Les 8e et 11e régressions.
 
 Et lors de la 8e régression, Yu Junghyeok était mort dans le donjon caché de Chungmuro.
 
 — Si on ne fait rien, Yu Junghyeok va mourir aujourd'hui.
 
-Si mes prévisions étaient correctes, notre fichu régressé devait être en train de suivre la 'Route du Poisson-Lune' en ce moment.
+Si mes prévisions étaient correctes, notre fichu régresseur devait être en train de suivre la 'Route du Poisson-Lune' en ce moment.
 
 < Épisode 8. Urgence Défensive (4) - Fin>

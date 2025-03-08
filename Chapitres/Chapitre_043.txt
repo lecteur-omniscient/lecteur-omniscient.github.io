@@ -102,7 +102,7 @@ D'une certaine manière, ce type devient de plus en plus mignon avec le temps.
 
 Une chose est réglée, et l'autre...
 
-"Lecteur, ce n'est pas trop difficile ? Je vais porter Gilyeong."
+"Dokja, ce n'est pas trop difficile ? Je vais porter Gilyeong."
 
 "Ah, je vous remercie."
 
@@ -124,7 +124,7 @@ Je m'en doutais.
 
 Jeong Huiwon est allée droit au but.
 
-"Lecteur, quelle est votre véritable identité ?"
+"Dokja, quelle est votre véritable identité ?"
 
 "... Vous avez entendu quelque chose ?"
 
@@ -188,7 +188,7 @@ Au moins des personnes de confiance qui ne me trahiraient pas facilement.
 
 Jeong Huiwon, que j'avais éveillée et dont je pouvais lire les pensées, était la personne la plus adaptée pour cela. Jeong Huiwon, qui avait l'air un peu abasourdie, a remué les lèvres.
 
-"Lecteur, vous ne m'avez jamais considérée comme une collègue jusqu'à présent ?"
+"Dokja, vous ne m'avez jamais considérée comme une collègue jusqu'à présent ?"
 
 "C'est plutôt le contraire. Ce n'est pas parce que je vous considère comme une collègue que vous en devenez une."
 
@@ -274,7 +274,7 @@ Les traces de la bataille acharnée de la nuit dernière étaient encore visible
 
 "Gong Pildu."
 
-Huit mini-tourelles sont sorties de la [Zone Armée] de Gong Pildu, les yeux furieux. Les membres de l'alliance, regagnant leur arrogance autour de Gong Pildu, me regardaient. Ils ne se souviennent même pas de la faveur que je leur ai faite, les humains sont vraiment ingrats.
+Huit mini-tourelles sont sorties de la 'Zone Armée' de Gong Pildu, les yeux furieux. Les membres de l'alliance, regagnant leur arrogance autour de Gong Pildu, me regardaient. Ils ne se souviennent même pas de la faveur que je leur ai faite, les humains sont vraiment ingrats.
 
 "Ce salaud, tout de suite... !"
 
@@ -334,7 +334,7 @@ En cas d'échec : ―
 
 +
 
-Avant même que la fenêtre de message ne s'affiche complètement, Gong Pildu, qui avait déjà désactivé sa [Zone Armée], courait vers le drapeau placé au centre du quai. Ce type a vraiment un instinct incroyable.
+Avant même que la fenêtre de message ne s'affiche complètement, Gong Pildu, qui avait déjà désactivé sa 'Zone Armée', courait vers le drapeau placé au centre du quai. Ce type a vraiment un instinct incroyable.
 
 "Tout le monde, dégagez !"
 

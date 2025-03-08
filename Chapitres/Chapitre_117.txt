@@ -84,7 +84,7 @@ Constellation : Expert en Double Jeu
 
 [Une constellation prônant la neutralité en diplomatie révèle son titre honorifique.]
 
-[La constellation, '"'Guide de Survie* aurait changé.
+[La constellation, '"*Guide de Survie* aurait changé.
 
 « Selon les informations divulguées par les Dokkaebi de rang inférieur ce matin, ce scénario sélectionnera des volontaires. »
 
@@ -299,5 +299,7 @@ Quelques rois pâlirent et gémissèrent.
 Alors, le Roi Suprême Yu Junghyeok ouvrit la bouche.
 
 « Je vais annoncer les participants au prochain scénario. »
+
+< Épisode 23. Monde Abandonné (2) - Fin>
 
 < Épisode 23. Monde Abandonné (2) - Fin>

@@ -36,9 +36,9 @@ Si je n’avais pas obtenu [Le Miroir de la Médecine Orientale], je serais éga
 
 Mais cette fois, elle n’avait pas de chance.
 
-[La constellation, *Compilateur Royal de la Médecine Traditionnelle*, vous observe avec un air de regret.]
+[La constellation, '*', vous observe avec un air de regret.]
 
-[La constellation, *Compilateur Royal de la Médecine Traditionnelle*, espère que vous ferez preuve de clémence.]
+[La constellation, '*', espère que vous ferez preuve de clémence.]
 
 [Vous avez reçu 300 pièces en soutien.]
 
@@ -48,9 +48,9 @@ En d’autres termes, le fait que Lee Seolhwa m’attaque n’était pas non plu
 
 Cela dit, espérer de la clémence pour seulement 300 pièces...
 
-[La constellation, *Serviteur de la Paix*, espère que vous ferez preuve de clémence.]
+[La constellation, '*', espère que vous ferez preuve de clémence.]
 
-[La constellation, *Général Chauve de la Paix*, espère que vous ferez preuve de clémence.]
+[La constellation, '*', espère que vous ferez preuve de clémence.]
 
 [Vous avez reçu 300 pièces en soutien.]
 
@@ -88,7 +88,7 @@ Le problème était que cette existence puissante considérait les humains comme
 
 Et pas n’importe quels ennemis, mais des ennemis jurés.
 
-Je jetai un coup d’œil à la [Météorite du Désastre] qui vibrait par intermittence.
+Je jetai un coup d’œil à la 'Météorite du Désastre' qui vibrait par intermittence.
 
 “Je suis désolé pour la destruction de ton monde. Mais est-il nécessaire de détruire ce monde aussi ? Tu veux reproduire la même tragédie ici ?”
 
@@ -144,7 +144,7 @@ Le fait que quelques aiguilles aient suffi à faire sortir les parasites du corp
 
 [L’essence mystique de la médecine traditionnelle montre son efficacité !]
 
-[La constellation, *Compilateur Royal de la Médecine Traditionnelle*, vous regarde avec satisfaction.]
+[La constellation, '*', vous regarde avec satisfaction.]
 
 Je me levai, laissant Lee Seolhwa épuisée et haletante.
 
@@ -154,7 +154,7 @@ Un liquide jaunâtre s’écoulait lentement de son corps, là où le poison noi
 
 Les constellations devaient être satisfaites à ce stade.
 
-[La constellation, *Compilateur Royal de la Médecine Traditionnelle*, vous remercie pour votre acte de bonté.]
+[La constellation, '*', vous remercie pour votre acte de bonté.]
 
 [Vous avez reçu 500 pièces en soutien.]
 
@@ -206,7 +206,7 @@ Elles avaient vaincu toutes ces personnes à elles deux ?
 
 Même si la *Reine des Poisons* était hors jeu, elles avaient balayé les forces principales du *Groupe des Poisons* à elles deux... La stratégie que j’avais initialement prévue devenait presque inutile.
 
-Avec un tel ensemble, elles pourraient rivaliser avec la combinaison de Lee Jihye [Flotte Fantôme] et Gong Pildu [Zone Armée].
+Avec un tel ensemble, elles pourraient rivaliser avec la combinaison de Lee Jihye [Flotte Fantôme] et Gong Pildu 'Zone Armée'.
 
 “Attendez, ne vous approchez pas.”
 
@@ -266,7 +266,7 @@ Cette créature était un adversaire aussi redoutable que Lycaon, qui était sor
 
 Mais ce n’était pas une bataille sans espoir.
 
-Le fait qu’un *Guide* provoque un tel chaos avant même la fin du cinquième scénario était une violation flagrante des règles du scénario. De plus, elle ne se contentait pas de tuer quelques personnes, mais essayait de faire éclore un désastre prématurément, ce qui signifiait qu’elle avait abandonné sa *Cohérence Narrative*.
+Le fait qu’un *Guide* provoque un tel chaos avant même la fin du cinquième scénario était une violation flagrante des règles du scénario. De plus, elle ne se contentait pas de tuer quelques personnes, mais essayait de faire éclore un fléau prématurément, ce qui signifiait qu’elle avait abandonné sa *Cohérence Narrative*.
 
 *Crack, crack―*
 
