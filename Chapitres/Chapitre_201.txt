@@ -48,13 +48,13 @@ Le propriétaire me jeta un regard furtif avant de poursuivre,
 
 "... Vous avez fini ?"
 
-Alors que la tension montait, Jang Hayoung intervint rapidement.
+Alors que la tension montait, Jang Hayeong intervint rapidement.
 
 "Allons, Eileen. Monsieur le propriétaire. Arrêtez de vous disputer et réfléchissons à ce que nous devons faire. Si le [Protecteur] est venu de lui-même, c'est une bonne nouvelle pour nous, non ?"
 
-Je ne pus m'empêcher d'admirer sa capacité à désamorcer la situation. Jang Hayoung était l'une des personnes les plus perspicaces du *Guide de Survie*. Bien qu'il soit souvent qualifié de "gros gueulard" à cause de ses pulsions incontrôlables, il était en réalité un médiateur exceptionnel, capable de comprendre les sentiments des autres mieux que quiconque.
+Je ne pus m'empêcher d'admirer sa capacité à désamorcer la situation. Jang Hayeong était l'une des personnes les plus perspicaces du *Guide de Survie*. Bien qu'il soit souvent qualifié de "gros gueulard" à cause de ses pulsions incontrôlables, il était en réalité un médiateur exceptionnel, capable de comprendre les sentiments des autres mieux que quiconque.
 
-Jang Hayoung tapota l'épaule du propriétaire qui toussotait et dit :
+Jang Hayeong tapota l'épaule du propriétaire qui toussotait et dit :
 
 "En tout cas, moi aussi, j'ai été surpris, patron. Je pensais que vous étiez juste un bon cuisinier. Vous auriez pu nous donner un indice, non ?"
 
@@ -62,11 +62,11 @@ Jang Hayoung tapota l'épaule du propriétaire qui toussotait et dit :
 
 "Malheureusement, je n'ai pas pu y goûter. Quelqu'un a tout mangé."
 
-Alors que Jang Hayoung me lançait un regard en plissant les yeux, le propriétaire éclata de rire. C'est Eileen qui jeta à nouveau de l'eau froide sur l'ambiance qui commençait à s'améliorer.
+Alors que Jang Hayeong me lançait un regard en plissant les yeux, le propriétaire éclata de rire. C'est Eileen qui jeta à nouveau de l'eau froide sur l'ambiance qui commençait à s'améliorer.
 
 "Je dis ça parce que vous semblez déjà être devenus des alliés... mais vous savez, n'est-ce pas ? Le 'jeu' a déjà commencé."
 
-Si Jang Hayoung était un médiateur exceptionnel, Eileen était une stratège chevronnée. Même si elle n'atteignait pas le niveau du 'Dragon Couché', elle savait pointer les points que le 'Révolutionnaire' devait absolument suspecter.
+Si Jang Hayeong était un médiateur exceptionnel, Eileen était une stratège chevronnée. Même si elle n'atteignait pas le niveau du 'Dragon Couché', elle savait pointer les points que le 'Révolutionnaire' devait absolument suspecter.
 
 "Je le sais."
 
@@ -132,11 +132,11 @@ Cette conclusion soudaine fit sursauter Eileen, qui s'exclama :
 
 "D'ailleurs, comment savez-vous ça... ?"
 
-"Et de la même manière que je suis sûr que 'Aslan' s'appelle en réalité Jang Hayoung et qu'il vient de la 'Terre'."
+"Et de la même manière que je suis sûr que 'Aslan' s'appelle en réalité Jang Hayeong et qu'il vient de la 'Terre'."
 
 "Hé ! Ne révèle pas mes secrets !"
 
-En voyant l'expression indignée de Jang Hayoung, Eileen changea de visage.
+En voyant l'expression indignée de Jang Hayeong, Eileen changea de visage.
 
 "Vous... Vous pouvez voir les informations des caractéristiques ?"
 
@@ -362,7 +362,7 @@ Le Duc est encore trop confiant. Il ne pense sûrement pas que la 'Révolution' 
 
 "Eileen ! La nuit arrive !"
 
-Jang Hayoung, qui attendait dehors, cria, et je sortis avec Eileen. Je devais être la cible pour éviter des troubles inutiles.
+Jang Hayeong, qui attendait dehors, cria, et je sortis avec Eileen. Je devais être la cible pour éviter des troubles inutiles.
 
 "C'est le Révolutionnaire !"
 
@@ -404,6 +404,6 @@ Les [Exécuteurs] brandirent leurs faux, chacune visant une cible différente.
 
 [N'est pas le Révolutionnaire.]
 
-La faux de l'un des [Exécuteurs] se dirigea droit vers le cou de Jang Hayoung, qui se trouvait à proximité.
+La faux de l'un des [Exécuteurs] se dirigea droit vers le cou de Jang Hayeong, qui se trouvait à proximité.
 
 < Épisode 38. Faux Révolutionnaire (3) - Fin>

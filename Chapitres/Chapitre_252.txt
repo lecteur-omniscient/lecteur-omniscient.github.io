@@ -1,4 +1,4 @@
-**Épisode 47. Bataille de Sélection du Roi Démon (6)**
+**Épisode 47. Tournoi de Sélection du Roi Démon (6)**
 
 [Vous êtes entré dans une zone de scénario caché.]
 
@@ -40,7 +40,7 @@ Peut-être que le scénario du <Star Stream> s'était embrouillé à cause de l'
 
 "Qu'est-ce que c'est que ça, le 'Jeu de Kim Dokja' ? Un scénario de participation libre ?"
 
-Jang Hayoung, qui s'était réveillé à l'arrière, s'étira en murmurant.
+Jang Hayeong, qui s'était réveillé à l'arrière, s'étira en murmurant.
 
 [La sélection du 'vrai Kim Dokja' de l'usine est en cours.]
 
@@ -50,7 +50,7 @@ Si je ne faisais pas attention, je risquais de perdre mon nom. Je me tournai ver
 
 "Pourquoi je ferais une chose pareille ?"
 
-"Et toi, Jang Hayoung ?"
+"Et toi, Jang Hayeong ?"
 
 "Je ne veux pas devenir Kim Dokja."
 
@@ -392,11 +392,11 @@ Si je m'avançais maintenant, je serais déchiqueté comme les autres imposteurs
 
 "Merde, c'est quoi ça ? Tout le monde dit qu'il est Kim Dokja ?"
 
-Jang Hayoung, qui m'avait suivi sans que je m'en aperçoive, grognait derrière moi.
+Jang Hayeong, qui m'avait suivi sans que je m'en aperçoive, grognait derrière moi.
 
-Je me tournai vers Jang Hayoung.
+Je me tournai vers Jang Hayeong.
 
-"Jang Hayoung."
+"Jang Hayeong."
 
 Surprise d'entendre son nom, elle recula légèrement avant de demander.
 
@@ -412,4 +412,4 @@ Je souris et ouvris grand les bras.
 
 "Utilise-la sur moi maintenant."
 
-< Épisode 47. Bataille de Sélection du Roi Démon (6) - Fin>
+< Épisode 47. Tournoi de Sélection du Roi Démon (6) - Fin>

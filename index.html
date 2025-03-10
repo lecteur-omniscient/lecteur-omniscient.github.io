@@ -156,11 +156,9 @@
         </div>
     </div>
 
-    <!-- Chapter Selection -->
     <div class="chapter-selection">
-        <label for="chapter-selector">Aller au chapitre:</label>
+        <label for="chapter-selector">🚀 Aller au chapitre:</label>
         <select id="chapter-selector"></select>
-        <button id="go-to-chapter">Charger</button>
     </div>
 
     <div id="chapter-content"></div>
@@ -191,7 +189,7 @@
         async function getTextFiles() {
             // Generate file names based on the known naming convention 'Chapitre_XXX.txt'
             let chapters = [];
-            for (let i = 1; i <= 254; i++) {
+            for (let i = 1; i <= 551; i++) {
                 let fileName = `./Chapitres/Chapitre_${String(i).padStart(3, '0')}.txt`;
                 // Check if the file exists (optional)
                 chapters.push(fileName);
@@ -216,12 +214,15 @@
         const fontSizeSelector_bottom = document.getElementById('font-size-bottom');
         const darkModeToggle_bottom = document.getElementById('dark-mode-toggle-bottom');
         const chapterSelector = document.getElementById('chapter-selector');
-        const goToChapterBtn = document.getElementById('go-to-chapter');
+        // Removed goToChapterBtn reference
 
-        // Process text to add bold formatting
+        // Process text to add bold formatting while preserving angle brackets
         function processText(text) {
-            // Convert text to HTML, preserving line breaks and adding bold
-            text = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+            // First, escape angle brackets to prevent them from being treated as HTML tags
+            text = text.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+            
+            // Then apply formatting for bold and italic
+            text = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
             return text.replace(/\*(.*?)\*/g, '<i>$1</i>');
         }
 
@@ -281,12 +282,12 @@
         // Update chapter option text with title
         function updateChapterOption(index, title) {
             const option = chapterSelector.querySelector(`option[value="${index}"]`);
-	    if (option) {
-    		// Extract text between ** markers (bold text)
-    		const trueTitleMatch = title.match(/\*\*([^\*]+)\*\*/);
-    		const trueTitle = trueTitleMatch ? trueTitleMatch[1] : title;
-    		option.textContent = `${trueTitle}`;
-	    }
+            if (option) {
+                // Extract text between ** markers (bold text)
+                const trueTitleMatch = title.match(/\*\*([^\*]+)\*\*/);
+                const trueTitle = trueTitleMatch ? trueTitleMatch[1] : title;
+                option.textContent = `${trueTitle}`;
+            }
         }
 
         // Populate chapter selector initially with placeholder titles
@@ -393,19 +394,14 @@
             document.body.classList.toggle('dark-mode');
         });
 
-        // Chapter selector
-        goToChapterBtn.addEventListener('click', () => {
-            const selectedIndex = parseInt(chapterSelector.value);
-            loadChapter(selectedIndex);
-        });
-
-        // Add event listener for direct selection change
+        // Chapter selector direct selection without button
         chapterSelector.addEventListener('change', () => {
             const selectedIndex = parseInt(chapterSelector.value);
             loadChapter(selectedIndex);
         });
 
         // Initial load
+        document.body.classList.toggle('dark-mode');
         initReader();
     </script>
 </body>
