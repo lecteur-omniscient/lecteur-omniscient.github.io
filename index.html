@@ -152,13 +152,15 @@
                 <option value="20px">Grand</option>
                 <option value="24px">Très Grand</option>
             </select>
-            <button id="dark-mode-toggle">🌓 Mode Sombre</button>
+            <button id="dark-mode-toggle">🌓 Mode Clair</button>
         </div>
     </div>
 
+    <!-- Chapter Selection -->
     <div class="chapter-selection">
         <label for="chapter-selector">🚀 Aller au chapitre:</label>
         <select id="chapter-selector"></select>
+        <!-- Removed the "Charger" button -->
     </div>
 
     <div id="chapter-content"></div>
@@ -181,7 +183,7 @@
                 <option value="20px">Grand</option>
                 <option value="24px">Très Grand</option>
             </select>
-            <button id="dark-mode-toggle-bottom">🌓 Mode Sombre</button>
+            <button id="dark-mode-toggle-bottom">🌓 Mode Clair</button>
         </div>
     </div>
 
@@ -189,7 +191,7 @@
         async function getTextFiles() {
             // Generate file names based on the known naming convention 'Chapitre_XXX.txt'
             let chapters = [];
-            for (let i = 1; i <= 551; i++) {
+            for (let i = 0; i <= 551; i++) {
                 let fileName = `./Chapitres/Chapitre_${String(i).padStart(3, '0')}.txt`;
                 // Check if the file exists (optional)
                 chapters.push(fileName);
@@ -200,6 +202,7 @@
         let chapters = [];
         let chapterTitles = {}; // Object to store chapter titles
         let currentChapterIndex = 0;
+        let isDarkMode = true; // Track dark mode state
 
         // DOM Elements
         const chapterContent = document.getElementById('chapter-content');
@@ -214,18 +217,41 @@
         const fontSizeSelector_bottom = document.getElementById('font-size-bottom');
         const darkModeToggle_bottom = document.getElementById('dark-mode-toggle-bottom');
         const chapterSelector = document.getElementById('chapter-selector');
-        // Removed goToChapterBtn reference
 
         // Process text to add bold formatting while preserving angle brackets
         function processText(text) {
-            // First, escape angle brackets to prevent them from being treated as HTML tags
+            // Create a temporary div to safely parse and modify HTML content
+            const tempDiv = document.createElement('div');
+            
+            // Preserve <a> tags by replacing them temporarily
+            let linkCounter = 0;
+            const linkPlaceholders = [];
+            
+            // Replace <a> tags with placeholders
+            text = text.replace(/<a\s+([^>]*)>(.*?)<\/a>/gi, (match, attributes, content) => {
+                const placeholder = `__LINK_PLACEHOLDER_${linkCounter}__`;
+                linkPlaceholders.push({
+                    placeholder: placeholder,
+                    html: match
+                });
+                linkCounter++;
+                return placeholder;
+            });
+            
+            // Now escape all remaining angle brackets
             text = text.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+            
+            // Restore the <a> tags
+            linkPlaceholders.forEach(item => {
+                text = text.replace(item.placeholder, item.html);
+            });
             
             // Then apply formatting for bold and italic
             text = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
-            return text.replace(/\*(.*?)\*/g, '<i>$1</i>');
+            text = text.replace(/\*(.*?)\*/g, '<i>$1</i>');
+            
+            return text;
         }
-
         // Extract chapter title from content (first line)
         function extractTitle(text) {
             const firstLine = text.trim().split('\n')[0];
@@ -312,6 +338,17 @@
             });
         }
 
+        // Toggle dark mode and update button text
+        function toggleDarkMode() {
+            document.body.classList.toggle('dark-mode');
+            isDarkMode = document.body.classList.contains('dark-mode');
+            
+            // Update button text based on current mode
+            const buttonText = isDarkMode ? '🌓 Mode Clair' : '🌓 Mode Sombre';
+            darkModeToggle.textContent = buttonText;
+            darkModeToggle_bottom.textContent = buttonText;
+        }
+
         // Fetch all chapter titles in background (first 20 initially)
         async function fetchChapterTitles(start, count) {
             const promises = [];
@@ -369,9 +406,7 @@
         });
 
         // Dark mode toggle
-        darkModeToggle.addEventListener('click', () => {
-            document.body.classList.toggle('dark-mode');
-        });
+        darkModeToggle.addEventListener('click', toggleDarkMode);
 
         prevChapterBtn_bottom.addEventListener('click', () => loadChapter(currentChapterIndex - 1));
         nextChapterBtn_bottom.addEventListener('click', () => loadChapter(currentChapterIndex + 1));
@@ -390,9 +425,7 @@
         });
 
         // Dark mode toggle
-        darkModeToggle_bottom.addEventListener('click', () => {
-            document.body.classList.toggle('dark-mode');
-        });
+        darkModeToggle_bottom.addEventListener('click', toggleDarkMode);
 
         // Chapter selector direct selection without button
         chapterSelector.addEventListener('change', () => {
@@ -400,8 +433,8 @@
             loadChapter(selectedIndex);
         });
 
+        toggleDarkMode();
         // Initial load
-        document.body.classList.toggle('dark-mode');
         initReader();
     </script>
 </body>

@@ -1,0 +1,19 @@
+**Notes de Traduction**
+
+*Bienvenue à toi,*
+
+Tu trouveras ici une traduction réalisée par un·e fan du Point de Vue du Lecteur Omniscient (aussi connu sous le nom de Lecteur Omniscient, ou par son nom anglais Omnscient Reader's Viewpoint). Cette traduction est donc non-officielle (il n'existe pas de traduction officielle du webroman en français). Je vous invite donc très fortement à soutenir les auteur·ices de ce webroman en achetant l'oeuvre originale sur <a href="https://novel.munpia.com/104753" target="__blank">Munpia</a> ou <a href="https://m.series.naver.com/novel/detail.series?productNo=3400123" target="__blank">Naver</a>. Cette traduction a été réalisée depuis la version originale en coréen, de manière semi-automatisée à l'aide de modèles d'Intelligence Artificielle (et de mon travail manuel). Je répertorie sur cette page des explications sur ce travail et mes choix de traduction. Si vous souhaitez démarrer d'où le Webtoon est rendu actuellement, rendez-vous au début de l'épisode 41. 
+Toute remarque ou demande de modification du texte peut être réalisée sur le dépôt GitHub de ce projet (oui, l'ensemble des fichiers traduits sont disponibles en open source et gratuitement) ou par mail : point-de-vue-du-lecteur-omniscient@protonmail.com.
+Bonne lecture !
+
+**Pourquoi faire une traduction ?**
+Le Point de Vue du Lecteur Omniscient est un webroman coréen, dont la version e-book, a été traduite officiellement (à ma connaissance) en mandarin et en thaï, et non-officiellement par des fans en anglais et espagnol (mais sans doutes d'autres langues aussi). Seul un début de traduction en français semble avoir été réalisé par un·e fan sur Wattpad, mais ce contenu n'est plus disponible (et il n'étais pas fini a priori).
+L'e-book est actuellement en cours d'adaptation sous forme de manwha, disponible sur l'application Webtoon. Le manwha possède une traduction officielle dans de nombreuses langues dont l'anglais et le français.
+Cependant, au rythme de parution actuel, le manwha devrait finir l'adaptation après 2030. Or, il me semble important de partager au public francophone, notamment pour les personnes ne pouvant pas lire la version en anglais.
+Certains changements (expliqués plus bas) diffèrent de la traduction officielle en français du manwha pour plusieurs raisons, mais je n'ai absolument aucune intention de remettre en cause la traduction réalisée.
+
+**Comment a été faite la traduction ?**
+[En cours de rédaction]
+
+[La constellation 'Ingénieur·e de la Grande Traduction' vous remercie pour votre attention.]
+[La constellation 'Ingénieur·e de la Grande Traduction' vous souhaite une agréable lecture.]
