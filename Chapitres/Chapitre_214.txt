@@ -40,7 +40,7 @@ Je posai doucement ma main sur la tête de Biyu.
 
 [Une constellation, dont le titre n’a pas été révélé, dévoile son titre.]
 
-[La constellation, '*', regarde les incarnations avec mécontentement.]
+[La constellation, 'Serpent Nouveau Riche', regarde les incarnations avec mécontentement.]
 
 Je fronçai les sourcils en entendant le message qui suivit.
 
@@ -48,23 +48,23 @@ Je fronçai les sourcils en entendant le message qui suivit.
 
 Si c’était *Serpent Nouveau Riche*, je me souvenais l’avoir lu dans le *Guide de Survie*.
 
-[La constellation, '*', trouve le déroulement du scénario ennuyeux.]
+[La constellation, 'Serpent Nouveau Riche', trouve le déroulement du scénario ennuyeux.]
 
-[La constellation, '*', est mécontente du développement maladroit des Dokkaebi.]
+[La constellation, 'Serpent Nouveau Riche', est mécontente du développement maladroit des Dokkaebi.]
 
 *Serpent Nouveau Riche*.
 
 Un être dont le passe-temps est de s’introduire dans des canaux sponsorisés par des constellations plus faibles et moins riches, pour ruiner leurs scénarios.
 
-[La constellation, '*', réclame de l’excitation.]
+[La constellation, 'Serpent Nouveau Riche', réclame de l’excitation.]
 
 Je me souvenais vaguement avoir lu dans le *Guide de Survie* que plusieurs canaux avaient été ruinés à cause de ce type, perdant leurs sponsors. Ce n’était qu’une mention en passant, mais je n’aurais jamais imaginé le rencontrer ici.
 
-[La constellation, '*', ne souhaite pas la survie des *esclaves récupérés* !]
+[La constellation, 'Serpent Nouveau Riche', ne souhaite pas la survie des *esclaves récupérés* !]
 
-[La constellation, '*', déclare que tous ceux qui ont collaboré avec l’ennemi doivent être tués !]
+[La constellation, 'Serpent Nouveau Riche', déclare que tous ceux qui ont collaboré avec l’ennemi doivent être tués !]
 
-[La constellation, '*', promet de sponsoriser les citoyens qui tuent les *esclaves récupérés* avec des pièces.]
+[La constellation, 'Serpent Nouveau Riche', promet de sponsoriser les citoyens qui tuent les *esclaves récupérés* avec des pièces.]
 
 À ces messages, les citoyens commencèrent à regarder autour d’eux.
 
@@ -90,9 +90,9 @@ Marc attrapa un citoyen qui s’approchait d’un esclave devenu fou.
 
 Un citoyen, aveuglé par les pièces, repoussa Marc et sortit une épée.
 
-[La constellation, '*', est excitée par le conflit qui s’intensifie.]
+[La constellation, 'Serpent Nouveau Riche', est excitée par le conflit qui s’intensifie.]
 
-[La constellation, '*', promet de sponsoriser l’incarnation qui tue le plus d’*esclaves récupérés* avec 3 000 pièces.]
+[La constellation, 'Serpent Nouveau Riche', promet de sponsoriser l’incarnation qui tue le plus d’*esclaves récupérés* avec 3 000 pièces.]
 
 3 000 pièces.
 
@@ -108,11 +108,11 @@ L’équilibre des voix bascula rapidement. Le nombre de citoyens sortant des ar
 
 « Écartez-vous, patron ! Si vous ne bougez pas tout de suite... »
 
-[La constellation, '*', prend plaisir au conflit entre les citoyens.]
+[La constellation, 'Serpent Nouveau Riche', prend plaisir au conflit entre les citoyens.]
 
 Alors que Marc, poussé par la dispute, tombait à la renverse, un autre message suivit.
 
-[La constellation, '*', promet de sponsoriser les incarnations qui tuent d’autres *citoyens* avec 300 pièces par personne.]
+[La constellation, 'Serpent Nouveau Riche', promet de sponsoriser les incarnations qui tuent d’autres *citoyens* avec 300 pièces par personne.]
 
 Les citoyens eurent un regard vide pendant un instant.
 
@@ -136,7 +136,7 @@ Les citoyens, tenant leurs armes, se regardaient avec hésitation.
 
 En quelques mots d’une constellation, les liens qui unissaient les citoyens sous le nom de *révolution* commençaient à s’effriter.
 
-[La constellation, '*', est ravie de la réaction des incarnations.]
+[La constellation, 'Serpent Nouveau Riche', est ravie de la réaction des incarnations.]
 
 Pour la première fois depuis longtemps, la haine que j’avais oubliée envers les constellations refit surface.
 
@@ -248,11 +248,11 @@ Aucun d’eux ne parlait, mais pour moi, c’était une réponse.
 
 Cependant, tout le monde n’était pas d’accord avec mes paroles.
 
-[La constellation, '*', vous observe avec hostilité.]
+[La constellation, 'Serpent Nouveau Riche', vous observe avec hostilité.]
 
-[La constellation, '*', exprime une forte colère envers vous.]
+[La constellation, 'Serpent Nouveau Riche', exprime une forte colère envers vous.]
 
-[La constellation, '*', a demandé un *scénario de prime* !]
+[La constellation, 'Serpent Nouveau Riche', a demandé un *scénario de prime* !]
 
 Un scénario de prime.
 
@@ -280,9 +280,9 @@ Mais de petites étincelles commencèrent à parcourir le petit corps de Biyu.
 
 En un instant, je compris ce qui se passait.
 
-[La constellation, '*', a demandé un *scénario de prime* !]
+[La constellation, 'Serpent Nouveau Riche', a demandé un *scénario de prime* !]
 
-[La constellation, '*', a demandé un *scénario de prime* !]
+[La constellation, 'Serpent Nouveau Riche', a demandé un *scénario de prime* !]
 
 Biyu luttait maintenant contre son instinct.
 
@@ -302,13 +302,13 @@ Je tendis la main et l’attirai doucement.
 
 « Les sponsors de ce canal ne sont pas *un seul*. »
 
-[La constellation, '*', refuse d’activer le *scénario de prime*.]
+[La constellation, 'Roi Démon du Salut', refuse d’activer le *scénario de prime*.]
 
 Les étincelles qui dansaient dans les airs se dispersèrent instantanément au bout de mes doigts.
 
 [La demande de *scénario de prime* est refusée.]
 
-[La constellation, '*', est choquée.]
+[La constellation, 'Serpent Nouveau Riche', est choquée.]
 
 Je levai les yeux vers le ciel.
 

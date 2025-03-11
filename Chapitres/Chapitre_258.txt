@@ -34,19 +34,19 @@ Certaines constellations, comme moi, deviennent des constellations en accumulant
 
 Les créatures devant moi étaient précisément de ce genre.
 
-[La constellation, '*', vous fixe avec hostilité.]
+[La constellation, 'Serpent Nouveau Riche', vous fixe avec hostilité.]
 
 Grâce à la protection des grandes constellations, ou simplement par chance, elles sont devenues des constellations et exploitent les autres constellations débutantes ou les incarnations.
 
-[La constellation, '*', convoite vos ongles.]
+[La constellation, 'Rat Mangeur d'Ongles', convoite vos ongles.]
 
-[La constellation, '*', observe les réactions des autres constellations.]
+[La constellation, 'Chien qui s'Est Jeté dans les Flammes', observe les réactions des autres constellations.]
 
 Je savais que je finirais par les affronter un jour, car elles rôdaient autour de moi depuis le début.
 
 [De nombreuses constellations attendent avec impatience votre combat !]
 
-[La constellation, '*', espère voir vos exploits !]
+[La constellation, 'Prisonnier du Bandeau d'Or', espère voir vos exploits !]
 
 Je pouvais sentir le regard brûlant des étoiles.
 
@@ -262,7 +262,7 @@ Mais il était trop tard pour changer le "sous-scénario".
 
 Il avait déjà épuisé une grande partie de la cohérence narrative en forçant l'exécution excessive de "sous-scénarios".
 
-[La constellation, '*', se prépare à battre en retraite.]
+[La constellation, 'Rat Mangeur d'Ongles', se prépare à battre en retraite.]
 
 Le rat, sentant que quelque chose n'allait pas, a été le premier à tourner les talons.
 
@@ -288,7 +288,7 @@ En me voyant approcher, *Serpent Nouveau Riche*, étalé sur le sol, a commencé
 
 Seuls ceux qui possèdent une légende de "roi" peuvent rester intacts face à cette "légende".
 
-[La constellation, '*', est ravie.]
+[La constellation, 'Prisonnier du Bandeau d'Or', est ravie.]
 
 [Le démon roi, *Démon de la Luxure et de la Fureur*, vous observe.]
 
@@ -332,7 +332,7 @@ Crack, crack, crack !
 
 Le pouvoir de l'Épée du Carnage en Quatre Mouvements, capable de trancher même l'espace entre les constellations et les incarnations.
 
-[La constellation, '*', sombre dans un profond sommeil en hurlant.]
+[La constellation, 'Serpent Nouveau Riche', sombre dans un profond sommeil en hurlant.]
 
 *Serpent Nouveau Riche* ne reviendra probablement jamais sous forme d'incarnation.
 
@@ -342,9 +342,9 @@ Crunch ! Crunch !
 
 Peu de temps après, *Rat Mangeur d'Ongles* a subi le même sort.
 
-[La constellation, '*', se réjouit de votre folie.]
+[La constellation, 'Dragon des Abysses Infinies aux Flammes Noires', se réjouit de votre folie.]
 
-[La constellation, '*', vous regarde avec regret.]
+[La constellation, 'Juge du Feu Quasi-Démonique', vous regarde avec regret.]
 
 J'ai essuyé le sang qui avait éclaboussé ma joue et j'ai regardé la dernière constellation restante.
 
@@ -358,7 +358,7 @@ J'ai repensé à la liste des légendes de cette créature.
 
 Ce chien était différent des deux autres créatures du zodiaque.
 
-[La constellation, '*', vous jure loyauté.]
+[La constellation, 'Chien qui s'Est Jeté dans les Flammes', vous jure loyauté.]
 
 En regardant le chien haletant, j'ai hésité un instant.
 

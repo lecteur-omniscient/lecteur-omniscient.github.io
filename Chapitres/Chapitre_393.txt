@@ -66,7 +66,7 @@ Dans mon état actuel, je ne suis pas inférieur à une *Constellation de rang �
 
 Même s'il s'agit du Roi des Dieux.
 
-[La constellation, '*', active le stigmate *Pluie de Foudre Céleste* !]
+[La constellation, 'Roi Divin de la Foudre', active le stigmate *Pluie de Foudre Céleste* !]
 
 Les yeux qui entouraient Indra ont brillé d'un éclat intense, recouvrant le monde d'une lumière blanche. Le ciel tout entier était en proie à une tempête d'éclairs.
 
@@ -100,9 +100,9 @@ Pourtant, les constellations craignent <Royaume des Enfers> pour une raison.
 
 [Mes parents sont vraiment effrayants quand ils sont en colère, tu sais ?]
 
-[La constellation, '*', hoche la tête.]
+[La constellation, 'Reine du Printemps Ténébreux', hoche la tête.]
 
-[La constellation, '*', vous protège.]
+[La constellation, 'Père des Nuits Opulentes', vous protège.]
 
 Dans un dernier effort, une pluie d'éclairs a explosé du corps d'Indra. Ma peau a noirci, et mon cœur, électrocuté, battait de manière irrégulière. Ma vision clignotait comme une ampoule défectueuse. J'ai serré les dents.
 
@@ -120,11 +120,11 @@ Je me suis penché à son oreille et ai murmuré.
 
 Puis un message est apparu.
 
-[La constellation, '*', a subi une blessure mortelle à son vrai corps !]
+[La constellation, 'Roi Divin de la Foudre', a subi une blessure mortelle à son vrai corps !]
 
-[La constellation, '*', ne peut plus invoquer d'incarnation !]
+[La constellation, 'Roi Divin de la Foudre', ne peut plus invoquer d'incarnation !]
 
-[La constellation, '*', abandonne ce scénario !]
+[La constellation, 'Roi Divin de la Foudre', abandonne ce scénario !]
 
 [Une autre défaite est enregistrée dans le récit de la constellation, *Roi Divin de la Foudre*.]
 
@@ -172,9 +172,9 @@ Les constellations qui affrontaient le <Royaume des Enfers> ont reculé, hésita
 
 Mais ce n'était pas le cas de tous. Contrairement aux constellations de <Vedas> et <Papyrus>, celles d'<Asgard> étaient toujours présentes.
 
-[La constellation, '*', vous observe.]
+[La constellation, 'Dieu de l'Équité et de la Bonté', vous observe.]
 
-[La constellation, '*', vous observe.]
+[La constellation, 'Flammes de Muspelheim', vous observe.]
 
 [Une constellation qui aime changer de genre vous observe.]
 
@@ -200,7 +200,7 @@ Mais c'était une question importante.
 
 [La constellation 'Dieu de l'Équité et de la Bonté' est mécontente d'être affiliée au camp du *Mal*.]
 
-[La constellation, '*', désire un combat enflammé.]
+[La constellation, 'Flammes de Muspelheim', désire un combat enflammé.]
 
 Pour moi, c'était une situation favorable si l'autre camp se retirait. Combattre <Asgard> ici ne nous apporterait rien de bon.
 
@@ -234,11 +234,11 @@ Selena Kim et Iris semblaient tout aussi surprises.
 
 Pendant un moment, l'air du champ de bataille a été rempli de messages indirects des constellations.
 
-[La constellation, '*', dit qu'on ne peut pas faire confiance à quelqu'un qui aime changer de genre.]
+[La constellation, 'Flammes de Muspelheim', dit qu'on ne peut pas faire confiance à quelqu'un qui aime changer de genre.]
 
-[La constellation, '*', dit que les préférences personnelles et la crédibilité d'une constellation doivent être distinguées.]
+[La constellation, 'Dieu de l'Équité et de la Bonté', dit que les préférences personnelles et la crédibilité d'une constellation doivent être distinguées.]
 
-[La constellation, '*', dit que ce type est un escroc, mais qu'il fait parfois des remarques pertinentes.]
+[La constellation, 'Tonnerre du Jeudi', dit que ce type est un escroc, mais qu'il fait parfois des remarques pertinentes.]
 
 [Certaines constellations d'<Asgard> rappellent que croire ses paroles a déjà plongé <Asgard> dans le chaos.]
 
@@ -248,7 +248,7 @@ C'était un véritable chaos.
 
 Au fait, en voyant comment la situation évoluait, je pense que je sais qui est cette *Constellation qui Aime Changer de Genre*.
 
-[La constellation, '*', soutient que se retirer de ce combat causerait des dommages au récit gigantesque de la *Guerre des Saints et des Démons*.]
+[La constellation, 'Déesse de l'Amour et des Chats', soutient que se retirer de ce combat causerait des dommages au récit gigantesque de la *Guerre des Saints et des Démons*.]
 
 [La *Constellation qui Aime Changer de Genre* soutient que ce n'est pas nécessairement le cas.]
 
@@ -320,7 +320,7 @@ Ainsi, le champ de bataille local n°123 est terminé.
 
 Le niveau de chaos a maintenant dépassé 70.
 
-Metatron et Agares ne peuvent plus ignorer cette pression.
+Metatron et Agarès ne peuvent plus ignorer cette pression.
 
 Surtout Metatron, qui a vu la chute d'<Éden> dans le 1863e tour.
 

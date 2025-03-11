@@ -202,13 +202,13 @@ Classification : Principal
 
 Difficulté : ???
 
-Condition de réussite : Détruisez le noyau narratif qui fait fonctionner l'Arche et empêchez les Grands Dokkaebi et les Constellations de rang mythique de migrer vers une nouvelle ligne mondiale.
+Condition de réussite : Détruisez le noyau narratif qui fait fonctionner l'Arche et empêchez les Grands Dokkaebi et les Constellations de rang mythique de migrer vers une nouvelle ligne d'univers parallèle.
 
 Temps imparti : 24 heures
 
 Récompense : Le Mur Final
 
-En cas d'échec : Destruction de la ligne mondiale.
+En cas d'échec : Destruction de la ligne d'univers parallèle.
 
 +
 
@@ -284,7 +284,7 @@ Dès que je dis cela, les mantras des constellations résonnèrent à travers la
 
 [Attrapez-les !]
 
-[Ils sont quelque part près d'ici. Nous ne pouvons pas les laisser aller vers la prochaine ligne mondiale avec nous !]
+[Ils sont quelque part près d'ici. Nous ne pouvons pas les laisser aller vers la prochaine ligne d'univers parallèle avec nous !]
 
 Han Suyeong me parla via [Rendez-vous de Mi-journée].
 

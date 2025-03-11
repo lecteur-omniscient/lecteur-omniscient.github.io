@@ -366,10 +366,10 @@ Que quelqu'un change cette histoire.
 
 Même un petit salut, s'il vous plaît. S'il vous plaît.
 
-[La constellation, '*', vous regarde.]
+[La constellation, 'Roi Démon du Salut', vous regarde.]
 
 Alors, étonnamment, le salut la regarda.
 
-[La constellation, '*', souhaite conclure un *contrat de sponsoring* avec vous.]
+[La constellation, 'Roi Démon du Salut', souhaite conclure un *contrat de sponsoring* avec vous.]
 
 < Épisode 45. Association de Gastronomie (4) - Fin>

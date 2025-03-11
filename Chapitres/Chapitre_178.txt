@@ -216,11 +216,11 @@ Une ligne déforma l'équilibre de l'espace-temps. Les vagues se séparèrent, e
 
 C'était une épée créée pour affronter la mer.
 
-[La constellation, '*', est impressionnée par la puissance de la *Première Épée de Goryeo* !]
+[La constellation, 'Dieu des Batailles Navales', est impressionnée par la puissance de la *Première Épée de Goryeo* !]
 
-[La constellation, '*', est purement émerveillée par la puissance d'une constellation humaine !]
+[La constellation, 'Dragon des Abysses Infinies aux Flammes Noires', est purement émerveillée par la puissance d'une constellation humaine !]
 
-[La constellation, '*', montre un grand intérêt pour la *Première Épée de Goryeo* !]
+[La constellation, 'Prisonnier du Bandeau d'Or', montre un grand intérêt pour la *Première Épée de Goryeo* !]
 
 L'épée, se déplaçant en ligne droite en explosant l'air, avala même le son à un moment donné.
 
@@ -284,7 +284,7 @@ Non, je ne sentais même pas la force entrer.
 
 Quoi...
 
-[La constellation, '*', vous regarde avec des yeux tristes.]
+[La constellation, 'Reine du Printemps Ténébreux', vous regarde avec des yeux tristes.]
 
 En regardant en bas, je réalisai dans quel état j'étais.
 

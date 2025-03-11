@@ -290,21 +290,21 @@ Mais il ne semblait pas avoir l'intention de me rencontrer facilement.
 
 Alors, il n'y avait qu'une seule solution.
 
-[La constellation, '*', appelle la constellation 'Mystérieux Conspirateur'.]
+[La constellation, 'Roi Démon du Salut', appelle la constellation 'Mystérieux Conspirateur'.]
 
 S'il ne veut pas me rencontrer.
 
-[La constellation, '*', regarde la constellation 'Mystérieux Conspirateur'.]
+[La constellation, 'Roi Démon du Salut', regarde la constellation 'Mystérieux Conspirateur'.]
 
 Je continuerai à le regarder.
 
-[La constellation, '*', envoie un message indirect à la constellation 'Mystérieux Conspirateur'.]
+[La constellation, 'Roi Démon du Salut', envoie un message indirect à la constellation 'Mystérieux Conspirateur'.]
 
 Je continuerai à l'ennuyer jusqu'à ce qu'il réagisse.
 
-[La constellation, '*'...]
+[La constellation, 'Roi Démon du Salut'...]
 
-[La constellation, '*', vous regarde.]
+[La constellation, 'Mystérieux Conspirateur', vous regarde.]
 
 Comme prévu, une réaction arriva. Mais au moment où j'allais envoyer un autre message, la porte de la pièce s'ouvrit brusquement.
 
@@ -344,11 +344,11 @@ L'écran du smartphone montrait un arrière-plan familier.
 
 Sous la mention [LIVE], les messages indirects des constellations que je connaissais bien défilaient comme dans un chat.
 
-[La constellation, '*', hoche vigoureusement la tête.]
+[La constellation, 'Général Chauve de la Paix', hoche vigoureusement la tête.]
 
-[La constellation, '*', réconforte les membres de <Kim Dokja & cie>.]
+[La constellation, 'Dieu des Batailles Navales', réconforte les membres de <Kim Dokja & cie>.]
 
-[La constellation, '*'...]
+[La constellation, 'Dragon des Abysses Infinies aux Flammes Noires'...]
 
 Ce qui était encore plus choquant, c'était ce qui se trouvait en bas du chat.
 

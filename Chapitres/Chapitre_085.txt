@@ -36,9 +36,9 @@ Si je n’avais pas obtenu [Le Miroir de la Médecine Orientale], je serais éga
 
 Mais cette fois, elle n’avait pas de chance.
 
-[La constellation, '*', vous observe avec un air de regret.]
+[La constellation, 'Compilateur Royal de la Médecine Traditionnelle', vous observe avec un air de regret.]
 
-[La constellation, '*', espère que vous ferez preuve de clémence.]
+[La constellation, 'Compilateur Royal de la Médecine Traditionnelle', espère que vous ferez preuve de clémence.]
 
 [Vous avez reçu 300 pièces en soutien.]
 
@@ -48,9 +48,9 @@ En d’autres termes, le fait que Lee Seolhwa m’attaque n’était pas non plu
 
 Cela dit, espérer de la clémence pour seulement 300 pièces...
 
-[La constellation, '*', espère que vous ferez preuve de clémence.]
+[La constellation, 'Serviteur de la Paix', espère que vous ferez preuve de clémence.]
 
-[La constellation, '*', espère que vous ferez preuve de clémence.]
+[La constellation, 'Général Chauve de la Paix', espère que vous ferez preuve de clémence.]
 
 [Vous avez reçu 300 pièces en soutien.]
 
@@ -144,7 +144,7 @@ Le fait que quelques aiguilles aient suffi à faire sortir les parasites du corp
 
 [L’essence mystique de la médecine traditionnelle montre son efficacité !]
 
-[La constellation, '*', vous regarde avec satisfaction.]
+[La constellation, 'Compilateur Royal de la Médecine Traditionnelle', vous regarde avec satisfaction.]
 
 Je me levai, laissant Lee Seolhwa épuisée et haletante.
 
@@ -154,7 +154,7 @@ Un liquide jaunâtre s’écoulait lentement de son corps, là où le poison noi
 
 Les constellations devaient être satisfaites à ce stade.
 
-[La constellation, '*', vous remercie pour votre acte de bonté.]
+[La constellation, 'Compilateur Royal de la Médecine Traditionnelle', vous remercie pour votre acte de bonté.]
 
 [Vous avez reçu 500 pièces en soutien.]
 

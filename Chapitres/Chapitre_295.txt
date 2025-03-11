@@ -1,4 +1,4 @@
-**Épisode 56. Dokja et Auteur (1)**
+**Épisode 56. Lecteur et Auteur (1)**
 
 L'assaut a commencé à midi ce jour-là.
 
@@ -354,9 +354,9 @@ Alors, qu'en est-il de Yu Junghyeok ?
 
 "Gabriel, Yophiel ! Aidez-moi !"
 
-[La constellation, '*', vous regarde.]
+[La constellation, 'Lys Éclos en Verseau', vous regarde.]
 
-[La constellation, '*', vous regarde.]
+[La constellation, 'Commandant du Cosmos Rouge', vous regarde.]
 
 J'ai entendu Han Suyeong crier.
 
@@ -412,9 +412,9 @@ L'*Épée du Carnage en Quatre Mouvements* que je tenais s'est brisée en deux.
 
 J'ai regardé le lien de Yu Junghyeok, intact, sans la moindre égratignure.
 
-[La constellation, '*', ressent une peur inconnue.]
+[La constellation, 'Lys Éclos en Verseau', ressent une peur inconnue.]
 
-[La constellation, '*', est horrifiée.]
+[La constellation, 'Commandant du Cosmos Rouge', est horrifiée.]
 
 Soudain, j'ai eu l'impression qu'un univers lointain me regardait.
 

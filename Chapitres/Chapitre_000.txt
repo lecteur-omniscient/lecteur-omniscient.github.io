@@ -13,7 +13,22 @@ Cependant, au rythme de parution actuel, le manwha devrait finir l'adaptation ap
 Certains changements (expliqués plus bas) diffèrent de la traduction officielle en français du manwha pour plusieurs raisons, mais je n'ai absolument aucune intention de remettre en cause la traduction réalisée.
 
 **Comment a été faite la traduction ?**
+À partir du texte original en coréen, j'ai codé un script me permettant de remplacer certains termes récurrents (principalement des noms propres) dans le texte pour forcer la traduction, à partir d'un fichier préalablement rédigé manuellement où j'ai listé un (grand) nombre de traductions, par exemple pour les noms des constellations, l'orthographe du nom des personnages, le nom des compétences et stigmates...
+Puis, j'envoie le texte du chapitre à un Grand Modèle de Langage (LLM, ex : ChatGPT, Claude, Gemini, DeepSeek, Mistral...), qui réalise une traduction. Le nombre de tokens de sortie des modèles étant souvent limité à environ 8000 tokens, je ne peux malheureusement traduire les chapitres qu'un par un. Se pose alors la question de la cohérence des termes au sein d'un épisode, et au sein du webroman dans son ensemble. Pour garder cette cohérence, j'ai donc imaginé (après de nombreux tests) un prompt complexe incluant une liste des termes importants de l'univers, mais aussi un résumé de l'épisode précédent et de l'épisode en cours, et un extrait de la fin du chapitre précédent. Les résumés des épisodes ont été réalisés aussi à l'aide d'un LLM, mais on tous été révisés manuellement pour limiter les erreurs et incohérences de termes.
+Enfin, je lis des extraits des traductions pour repérer les erreurs récurrentes et automatiser leur remplacement à l'aide d'un script.
+
+J'ai d'abord essayé d'utiliser Gemini, dont l'accès à l'API est actuellement gratuite, mais les traductions étaient d'une qualité insatisfaisante. J'ai préféré DeepSeek dont les traductions me semblent plus vivantes (et aussi plus cohérentes, ce qui réduit mon travail de post-processing, qui est déjà suffisamment long comme cela).
+
+**Réflexions sur les choix de traduction**
+Concernant les noms des personnages principaux, j'ai choisi de faire un compromis similaire à la traduction française du Webtoon, afin d'éviter trop de confusions (sachant qu'il y en a déjà beaucoup car en anglais, les noms des personnages ont deux ortographes différentes dans le webroman du fait d'un changement de traducteur·ice durant le projet, et une autre ortographe dans le Webtoon). Même si je préfère l'utilisation du nom de famille "Yi", plus proche du coréen "이" (qui se prononce en fait "I"), mais j'ai donc choisi de m'aligner sur les choix réalisés dans le Webtoon, "Lee".
+J'ai fait des choix de traduction différents pour certains noms de constellation par rapport au Webtoon, je pense notamment à la "Juge du Feu Quasi-Démonique" et au "Mystérieux Conspirateur", qui me semblent plus pertinents par rapport au webroman.
 [En cours de rédaction]
+
+**Réflexions sur le caractère éthique de cette traduction**
+[En cours de rédaction]
+
+**Notes Supplémentaires**
+Je suis partisan·e d'une écriture inclusive, mais les outils d'IA de génération de texte sont malheureusement encore trop peu fiables sur cette question, avec ou sans point médian. Quelques modifications manuelles m'ont semblé toutefois importantes.
 
 [La constellation 'Ingénieur·e de la Grande Traduction' vous remercie pour votre attention.]
 [La constellation 'Ingénieur·e de la Grande Traduction' vous souhaite une agréable lecture.]

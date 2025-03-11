@@ -154,7 +154,7 @@ Un immense palais où les étoiles dansaient. Au-delà, s’étendait un mur inf
 
 J’ai fixé ce mur.
 
-Un mur arrogant, comme si c’était la fin de cette ligne mondiale, s’étalant comme le panorama de tout.
+Un mur arrogant, comme si c’était la fin de cette ligne d'univers parallèle, s’étalant comme le panorama de tout.
 
 « Tout dans le monde existait pour être enregistré là-bas. »
 
@@ -214,7 +214,7 @@ La coque, comme si elle avait été sculptée à partir d’un fragment de mur b
 
 En regardant la coque, le Grand Dokkaebi Heoche a parlé.
 
-[À l’origine, cette ligne mondiale avait été choisie comme la ‘dernière ligne mondiale’. Mais les choses ont commencé à mal tourner, et la distorsion de cette ligne mondiale s’est irrémédiablement aggravée. La conclusion de ce monde ne peut pas ouvrir le ‘Dernier Mur’. Cela signifie que ‘Le Plus Vieux Rêve’ ne peut pas être satisfait par une épopée digne de ce nom.]
+[À l’origine, cette ligne d'univers parallèle avait été choisie comme la ‘dernière ligne d'univers parallèle’. Mais les choses ont commencé à mal tourner, et la distorsion de cette ligne d'univers parallèle s’est irrémédiablement aggravée. La conclusion de ce monde ne peut pas ouvrir le ‘Dernier Mur’. Cela signifie que ‘Le Plus Vieux Rêve’ ne peut pas être satisfait par une épopée digne de ce nom.]
 
 « De quoi vous parlez ? »
 
@@ -224,25 +224,25 @@ Graines. Un mot que j’avais déjà entendu dans le *Guide de Survie*.
 
 C’était un terme qui désignait tous les candidats d’une ‘seule épopée’.
 
-Dans le ciel lointain de l’univers, des étincelles intermittentes ont jailli, comme des flammes furieuses. Un son sinistre, comme pour annoncer la fin de la ligne mondiale déformée.
+Dans le ciel lointain de l’univers, des étincelles intermittentes ont jailli, comme des flammes furieuses. Un son sinistre, comme pour annoncer la fin de la ligne d'univers parallèle déformée.
 
 Certaines étoiles, emportées par le grondement, se sont désintégrées et dispersées, tombant ensuite en météores.
 
 En regardant ces météores, le Dokkaebi a continué.
 
-[Considérez cela comme un honneur. Le fait que vous, qui avez ruiné cette ligne mondiale, soyez choisis comme ‘graines’ est la volonté du ‘Roi du Récit’. Vous monterez à bord de l’‘Arche’ et vous vous déplacerez vers une nouvelle ligne mondiale. Et là, vous deviendrez le noyau d’une nouvelle ‘épopée’ qui formera le monde. Comme l’ont fait ceux qui sont venus avant vous.]
+[Considérez cela comme un honneur. Le fait que vous, qui avez ruiné cette ligne d'univers parallèle, soyez choisis comme ‘graines’ est la volonté du ‘Roi du Récit’. Vous monterez à bord de l’‘Arche’ et vous vous déplacerez vers une nouvelle ligne d'univers parallèle. Et là, vous deviendrez le noyau d’une nouvelle ‘épopée’ qui formera le monde. Comme l’ont fait ceux qui sont venus avant vous.]
 
 C’est alors que j’ai commencé à comprendre leurs paroles.
 
 En d’autres termes, ils nous proposaient de fuir.
 
-« Vous... Vous abandonnez ce monde si facilement ? Vous voulez que nous laissions cette ligne mondiale derrière nous et que nous partions tous ensemble ? Vous pensez vraiment que c’est possible ? »
+« Vous... Vous abandonnez ce monde si facilement ? Vous voulez que nous laissions cette ligne d'univers parallèle derrière nous et que nous partions tous ensemble ? Vous pensez vraiment que c’est possible ? »
 
 [Il n’y a pas besoin de faire cette tête. Ce n’est pas une mauvaise proposition pour vous. Votre objectif n’est-il pas une fin où ‘personne ne se sacrifie’ ?]
 
 J’ai été momentanément sans voix.
 
-[Vous avez réussi, ‘Roi Démon du Salut’. Vous et votre groupe pouvez quitter cette ligne mondiale et survivre tous ensemble.]
+[Vous avez réussi, ‘Roi Démon du Salut’. Vous et votre groupe pouvez quitter cette ligne d'univers parallèle et survivre tous ensemble.]
 
 Un grondement mêlé de tonnerre a résonné depuis le ciel lointain. C’était le son de la cohérence narrative protégée par le <Bureau de Gestion> qui s’effondrait.
 
@@ -282,7 +282,7 @@ Condition de réussite : Embarquez sur l’‘Arche’ avec vos compagnons de la
 
 Temps limite : 2 heures
 
-Récompense : Vous monterez à bord de l’‘Arche’ et vous vous déplacerez vers une nouvelle ligne mondiale. Là-bas, votre ‘épopée’ commencera à nouveau, et les épopées que vous avez accumulées seront enregistrées sur le ‘Mur Final’ du <Star Stream> pour devenir un Héritage Éternel.
+Récompense : Vous monterez à bord de l’‘Arche’ et vous vous déplacerez vers une nouvelle ligne d'univers parallèle. Là-bas, votre ‘épopée’ commencera à nouveau, et les épopées que vous avez accumulées seront enregistrées sur le ‘Mur Final’ du <Star Stream> pour devenir un Héritage Éternel.
 
 En cas d’échec : Vous resterez dans le monde en train de s’effondrer et mourrez.
 

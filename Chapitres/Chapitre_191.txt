@@ -134,7 +134,7 @@ Je caressai légèrement l'œuf et continuai :
 
 "... Tu sais ce que cela signifie ?"
 
-"Cela signifie qu'ils pourront diffuser des émissions en dehors du contrôle de l'Administration."
+"Cela signifie qu'ils pourront diffuser des émissions en dehors du contrôle du Bureau de Gestion."
 
 À mes mots, la bosse du bossu trembla légèrement.
 
@@ -152,7 +152,7 @@ Mais il était impossible de comprendre mon intérieur, que même l'[Œil du Gra
 
 "... Tu prévois de trahir le <Star Stream> ?"
 
-"Trahir ? Peut-être. Peut-on dire que l'Administration représente tout le <Star Stream> ?"
+"Trahir ? Peut-être. Peut-on dire que le Bureau de Gestion représente tout le <Star Stream> ?"
 
 "Parfois, une partie peut représenter le tout."
 
@@ -342,7 +342,7 @@ C'était une histoire historique que j'avais reçue en aidant les constellations
 
 Maegumjijon aurait pleuré s'il avait entendu ça.
 
-C'est une récit gigantesque où Silla s'est alliée à la dynastie Tang pour trahir le peuple coréen.
+C'est un récit gigantesque où Silla s'est alliée à la dynastie Tang pour trahir le peuple coréen.
 
 "Alors, et celle-ci ? 'Exterminateur d'Insectes'."
 
