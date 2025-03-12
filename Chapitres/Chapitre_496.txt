@@ -206,7 +206,7 @@ Condition de réussite : Détruisez le noyau narratif qui fait fonctionner l'Arc
 
 Temps imparti : 24 heures
 
-Récompense : Le Mur Final
+Récompense : Le Dernier Mur
 
 En cas d'échec : Destruction de la ligne d'univers parallèle.
 

@@ -282,7 +282,7 @@ Condition de réussite : Embarquez sur l’‘Arche’ avec vos compagnons de la
 
 Temps limite : 2 heures
 
-Récompense : Vous monterez à bord de l’‘Arche’ et vous vous déplacerez vers une nouvelle ligne d'univers parallèle. Là-bas, votre ‘épopée’ commencera à nouveau, et les épopées que vous avez accumulées seront enregistrées sur le ‘Mur Final’ du <Star Stream> pour devenir un Héritage Éternel.
+Récompense : Vous monterez à bord de l’‘Arche’ et vous vous déplacerez vers une nouvelle ligne d'univers parallèle. Là-bas, votre ‘épopée’ commencera à nouveau, et les épopées que vous avez accumulées seront enregistrées sur le ‘Dernier Mur’ du <Star Stream> pour devenir un Héritage Éternel.
 
 En cas d’échec : Vous resterez dans le monde en train de s’effondrer et mourrez.
 
