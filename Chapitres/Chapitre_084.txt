@@ -326,7 +326,7 @@ En disant cela, je plongeai ma main dans ma poche.
 
 Un moment plus tard, un livre sortit de ma poche.
 
-[Une constellation inquiète de la dégradation de la médecine traditionnelle révèle son épithète.]
+[Une constellation inquiète de la dégradation de la médecine traditionnelle révèle son modificateur.]
 
 [La constellation, 'Compilateur Royal de la Médecine Traditionnelle', vous regarde avec surprise.]
 

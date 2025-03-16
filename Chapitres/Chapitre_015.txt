@@ -268,7 +268,7 @@ C'est la partie la plus importante.
 
 [50-50, ça te va ? En échange, je ne te ferai pas payer les frais de la chaîne. Ah, tu connais le mode de calcul, non ? On divise exactement selon le ratio à partir des dons que tu recevras à l'avenir. Par exemple, si tu reçois 100 pièces, tu en gardes 50 et j'en prends 50.]
 
-Tous les <Contrats de Stream> fonctionnent ainsi. Les constellations font apparaître des incarnations sur la chaîne des Dokkaebis, et les dons reçus des autres constellations sont partagés selon un ratio. C'est la norme.
+Tous les <Contrats de Stream> fonctionnent ainsi. Les constellations font apparaître des incarnations sur la chaîne des Dokkaebi, et les dons reçus des autres constellations sont partagés selon un ratio. C'est la norme.
 
 "Tu me prends pour un pigeon ? Non."
 

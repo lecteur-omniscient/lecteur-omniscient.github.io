@@ -144,7 +144,7 @@ Avec la sensation dure du sol, j'ai lentement ouvert les yeux.
 
 [Vous êtes entré dans une nouvelle zone de scénario !]
 
-[Les Dokkaebis du Bureau de Gestion sont méfiants envers votre existence.]
+[Les Dokkaebi du Bureau de Gestion sont méfiants envers votre existence.]
 
 Chaque articulation de mon corps incarné hurlait de douleur.
 
@@ -180,7 +180,7 @@ Peu à peu, un sentiment d'inconfort m'a envahi, montant depuis la pointe de mes
 
 Où suis-je, au juste ?
 
-[Le <Star Stream> a reconnu votre épithète.]
+[Le <Star Stream> a reconnu votre modificateur.]
 
 [Une nouvelle place vous est réservée dans le ciel nocturne !]
 

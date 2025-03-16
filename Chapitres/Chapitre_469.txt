@@ -28,7 +28,7 @@ Parmi les noms désormais disparus, il y avait certainement un tel fléau.
 
 À mes mots, un message apparut dans les airs, accompagné d'une violente tempête.
 
-[Le personnage "Lee Gilyeong" révèle son épithète.]
+[Le personnage "Lee Gilyeong" révèle son modificateur.]
 
 [La constellation, 'Souverain du Dernier Cercle", vous regarde.]
 
@@ -80,7 +80,7 @@ Je comprenais. Ce récit gigantesque n'était plus son festival.
 
 [La Grande Guerre... Sainte-Démoniaque... est déjà terminée...]
 
-[Elle est terminée maintenant. Mais un jour, elle recommencera. Un scénario où tu deviendras un fléau pourrait être créé. Tout le monde se souviendra de ton épithète et tremblera devant ton nom.]
+[Elle est terminée maintenant. Mais un jour, elle recommencera. Un scénario où tu deviendras un fléau pourrait être créé. Tout le monde se souviendra de ton modificateur et tremblera devant ton nom.]
 
 [Pourquoi... dis-tu cela... ?]
 

@@ -16,7 +16,7 @@ Les constellations qui avaient déjà fait leur apparition sur l'île principale
 
 Alors que nous entrions progressivement dans la zone d'influence de Michael, Anna Croft a parlé.
 
-"C'est trop dangereux d'aller plus loin. Avec mon skill [Prières Béniques]..."
+"C'est trop dangereux d'aller plus loin. Avec ma compétence [Prières Béniques]..."
 
 J'ai saisi le poignet d'Anna Croft.
 
@@ -44,7 +44,7 @@ Je n'avais pas le temps de lui expliquer plus en détail.
 
 Des cadavres de constellations gisaient à chaque coin du champ de bataille. Parfois, on apercevait un survivant.
 
-Le démon du 68e Royaume des Démons, 'Belial, l'Obscurité Sans Valeur'.
+Le Roi Démon du 68e Royaume des Démons, 'Belial, l'Obscurité Sans Valeur'.
 
 Celui qui avait été touché par l'attaque de Michael perdait des fragments de fable tout en essayant de se maintenir en vie.
 
@@ -60,11 +60,11 @@ J'ai tranquillement enfoncé [Conviction Inébranlable] dans son corps.
 
 [Vous avez obtenu le collier de modificateur, 'Obscurité Sans Valeur'.]
 
-[Vous avez tué cinq incarnations de démons.]
+[Vous avez tué cinq incarnations de Rois Démons.]
 
 [Une nouvelle possibilité de caractéristique s'ouvre à vous !]
 
-"C'est un démon, non ? Vous pouvez vraiment le tuer comme ça ?"
+"C'est un Roi Démon, non ? Vous pouvez vraiment le tuer comme ça ?"
 
 "Il n'est plus démon maintenant."
 
@@ -118,7 +118,7 @@ Asmodée a éclaté de rire. Du sang a jailli de sa bouche.
 
 Une tension palpable s'est installée entre Asmodée et moi pendant un instant. Dans le regard d'Asmodée, j'ai vu une lueur de regret.
 
-[Vous êtes devenu un véritable 'démon' maintenant. Personne parmi les 72 ne pourra nier que vous êtes un démon.]
+[Vous êtes devenu un véritable 'Roi Démon' maintenant. Personne parmi les 72 ne pourra nier que vous êtes un Roi Démon.]
 
 "Merci pour le compliment."
 
@@ -126,7 +126,7 @@ Une tension palpable s'est installée entre Asmodée et moi pendant un instant. 
 
 "Vous ne serez pas éliminé du scénario tant que vous ne perdez pas tous vos caractères. Je vous laisserai un caractère."
 
-Le caractère que j'avais l'intention de laisser était [Justice]. Un caractère que j'avais en réserve. Asmodée a dit :
+Le caractère que j'avais l'intention de laisser était [de]. Un caractère que j'avais en réserve. Asmodée a dit :
 
 [Vous êtes vraiment trop gentil.]
 
@@ -134,13 +134,19 @@ J'ai tendu la main vers son collier de modificateur.
 
 Les syllabes du collier d'Asmodée ont commencé à se transférer une par une.
 
-[Vous avez acquis la syllabe de modificateur, 'Justice'.]
+[Vous avez acquis la syllabe de modificateur, 'Roi'.]
 
-[Vous avez acquis la syllabe de modificateur, 'Désir'.]
+[Vous avez acquis la syllabe de modificateur, 'Dé'.]
 
-[Vous avez acquis la syllabe de modificateur, 'Excès'.]
+[Vous avez acquis la syllabe de modificateur, 'Mon'.]
 
-[Vous avez acquis la syllabe de modificateur, 'Colère'.]
+[Vous avez acquis la syllabe de modificateur, 'La'.]
+
+[Vous avez acquis la syllabe de modificateur, 'Lu'.]
+
+[Vous avez acquis la syllabe de modificateur, 'Xu'.]
+
+[Vous avez acquis la syllabe de modificateur, 'Re'.]
 
 [...]
 
@@ -156,11 +162,11 @@ J'ai caché mon collier de modificateur sous mes vêtements et j'ai dit :
 
 Soudain, j'ai vu le collier qu'il tenait dans sa main intacte.
 
-[Chasseur de Haine].
+[Chasseur de Salvatrices].
 
 Le 'collier cible' d'Asmodée, avec tous ses caractères assemblés, brillait intensément.
 
-[Le démon 'Dieu Démon de la Luxure et de la Colère' a rempli les conditions pour terminer le scénario !]
+[Le démon 'Roi Démon de la Luxure et de la Colère' a rempli les conditions pour terminer le scénario !]
 
 [Le transfert du scénario commence.]
 

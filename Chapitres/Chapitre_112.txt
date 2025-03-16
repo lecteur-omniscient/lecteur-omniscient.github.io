@@ -2,7 +2,7 @@
 
 Divinité du Vin et de l'Extase.
 
-Parmi les douze dieux de l'Olympe, seul Dionysos est capable d'utiliser une telle épithète.
+Parmi les douze dieux de l'Olympe, seul Dionysos est capable d'utiliser une telle modificateur.
 
 [La constellation, 'Divinité du Vin et de l'Extase', fredonne une chanson.]
 
@@ -120,7 +120,7 @@ Je fus un peu surpris par les mots écrits sur le sol.
 
 Certains pourraient se demander ce qu'il y a de si impressionnant à écrire quelques mots avec des gouttes de vin, mais dans le monde du *Guide de Survie*, le fait que les constellations transmettent un 'message' est en soi un événement majeur.
 
-Ce n'est pas pour rien que de nombreuses constellations utilisent les canaux des Dokkaebis pour envoyer des 'messages indirects'.
+Ce n'est pas pour rien que de nombreuses constellations utilisent les canaux des Dokkaebi pour envoyer des 'messages indirects'.
 
 Déjà, transmettre sa volonté sur Terre sans l'aide d'une constellation de l'ombre ou d'un Dokkaebi était réservé aux entités de rang supérieur parmi les constellations, et cela consommait énormément de cohérence narrative. La cohérence narrative de ce monde est très sensible au 'langage'.
 

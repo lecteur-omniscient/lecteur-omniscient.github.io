@@ -126,9 +126,9 @@ Tsss tsss tsss !
 
 [De nombreuses constellations observent la collision entre les deux constellations de rang mythique !]
 
-[De nombreuses constellations crient les épithètes de 'Trident Créateur des Frontières Maritimes' !]
+[De nombreuses constellations crient les modificateurs de 'Trident Créateur des Frontières Maritimes' !]
 
-[De nombreuses constellations crient les épithètes de 'Père des Nuits Opulentes' !]
+[De nombreuses constellations crient les modificateurs de 'Père des Nuits Opulentes' !]
 
 .
 

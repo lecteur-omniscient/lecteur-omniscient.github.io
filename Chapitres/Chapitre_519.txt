@@ -90,7 +90,7 @@ Des étincelles jaillirent, et des messages apparurent les uns après les autres
 
 [Le système <Star Stream> doute de votre éligibilité.]
 
-[Le Dokkaebi de rang inférieur "Bihyeong" trouve votre épithète étrange.]
+[Le Dokkaebi de rang inférieur "Bihyeong" trouve votre modificateur étrange.]
 
 [Quelques constellations sont surprises par votre apparition !]
 
@@ -152,7 +152,7 @@ Mais, à ma surprise, ce ne fut pas Yu Junghyeok qui s'intéressa à moi, mais d
 
 [La constellation, 'Divinité du Vin et de l'Extase" vous salue.]
 
-[La constellation, "Divinité du Vin et de l'Extase" trouve votre épithète impressionnante.]
+[La constellation, "Divinité du Vin et de l'Extase" trouve votre modificateur impressionnante.]
 
 Dionysos était aussi sociable dans n'importe quel chapitre. S'il n'avait pas cédé lors de l'Arche Finale, le combat aurait été encore plus difficile.
 
@@ -162,7 +162,7 @@ Alors que j'allais le saluer à mon tour, quelqu'un intervint.
 
 ... Ah oui, ce type était là aussi. Tu dois aussi surveiller Kim Namwun dans la cellule voisine, combien de jambes as-tu ?
 
-[La constellation, "Dragon des Abysses Infinies aux Flammes Noires" pense que vous avez copié son épithète.]
+[La constellation, "Dragon des Abysses Infinies aux Flammes Noires" pense que vous avez copié son modificateur.]
 
 Je faillis demander en quoi c'était similaire, mais je me retins.
 
@@ -180,7 +180,7 @@ J'avalai ma salive.
 
 +
 
-Yu Junghyeok, qui avait regardé l'épithète pendant un moment, détourna les yeux.
+Yu Junghyeok, qui avait regardé le modificateur pendant un moment, détourna les yeux.
 
 « Quel nom désordonné. »
 
@@ -192,7 +192,7 @@ Ensuite, les yeux de Yu Junghyeok se tournèrent vers le candidat numéro 2.
 
 +
 
-Yu Junghyeok regarda cette épithète pendant un bon moment, ce qui me rendit nerveux.
+Yu Junghyeok regarda cette modificateur pendant un bon moment, ce qui me rendit nerveux.
 
 Réveille-toi, Yu Junghyeok. Choisis plutôt le Dragon des Flammes Noires.
 
@@ -248,7 +248,7 @@ Le [Quatrième Mur] hésita, semblant ne pas comprendre l'intention de la questi
 
 « Eh bien... »
 
-'Pas en termes de force réelle, mais juste en regardant les épithètes.'
+'Pas en termes de force réelle, mais juste en regardant les modificateurs.'
 
 Je m'attendais à une réponse immédiate, mais le [Quatrième Mur] semblait réfléchir.
 
@@ -266,9 +266,9 @@ Dragon des Abysses Infinies aux Flammes Noires ? C'est clairement un choix à ne
 
 Même si Yu Junghyeok du chapitre 0 est stupide, il ne ferait pas d'erreur ici.
 
-Le seul épithète normal ici, c'est moi.
+Le seul modificateur normal ici, c'est moi.
 
-En effet, Yu Junghyeok sembla impressionné par mon épithète et pointa le numéro 4. Et il pensa.
+En effet, Yu Junghyeok sembla impressionné par mon modificateur et pointa le numéro 4. Et il pensa.
 
 « Un nom arrogant. »
 

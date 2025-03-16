@@ -156,7 +156,7 @@ Les flammes jaillissant de l'épée d'Uriel s'étendaient sans fin, atteignant l
 
 [Elle est folle !]
 
-Les constellations paniquées commencèrent à s'enfuir. Je n'avais pas non plus imaginé qu'Uriel utiliserait sa véritable puissance. Même les Dokkaebis cachés quelque part apparurent.
+Les constellations paniquées commencèrent à s'enfuir. Je n'avais pas non plus imaginé qu'Uriel utiliserait sa véritable puissance. Même les Dokkaebi cachés quelque part apparurent.
 
 [Attendez, archange. Calmez-vous un peu... !]
 
@@ -170,7 +170,7 @@ Comme si elle lisait dans mes pensées, Uriel dit :
 
 [Hein ?]
 
-[■ le scénario ! ■ les Dokkaebis ! ■■■.]
+[■ le scénario ! ■ les Dokkaebi ! ■■■.]
 
 Uriel semblait vraiment en colère.
 
@@ -406,7 +406,7 @@ Et aucun monde ne choisirait comme maître une entité qui cherche à le détrui
 
 [Le *73e Royaume des Démons* a choisi son maître.]
 
-Les Dokkaebis et les constellations paniqués envoyèrent des messages.
+Les Dokkaebi et les constellations paniqués envoyèrent des messages.
 
 Mais je n'entendis aucune de leurs voix.
 

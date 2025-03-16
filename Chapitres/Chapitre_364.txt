@@ -34,11 +34,11 @@ Je connaissais bien le propriétaire de ce récit.
 
 Parmi les archanges d'<Éden>, le seul à me montrer de l'hostilité.
 
-[La constellation, 'Sauveur des Déchu·es', exécute le jugement du salut.]
+[La constellation, 'Salvateur des Déchu·es', exécute le jugement du salut.]
 
-Sauveur des Déchu·es, l'archange Michaël.
+Salvateur des Déchu·es, l'archange Michaël.
 
-Un être qui, comme moi, porte le titre de "salut".
+Un être qui, comme moi, a un modificateur avec une notion de salut et de salvation.
 
 Cracracracra!
 
@@ -50,7 +50,7 @@ Les cinq ou six constellations qui fuyaient se sont effondrées en hurlant.
 
 Les récits se dispersant en cendres dans les flammes violettes.
 
-Tout ce qui restait à la place des constellations mortes était des colliers de titres argentés étincelants.
+Tout ce qui restait à la place des constellations mortes était des colliers de modificateurs argentés étincelants.
 
 Michaël a examiné les colliers tombés du ciel.
 
@@ -76,7 +76,7 @@ Grrroooaaar!
 
 Une lueur argentée est apparue dans les yeux de Michaël.
 
-[Les yeux de l'archange].
+[Les Yeux de l'Archange].
 
 Une compétence unique des archanges pour détecter la corruption. Il semblait que l'utilisation de cette compétence était devenue possible avec la libération de la cohérence narrative de la deuxième génération.
 
@@ -146,7 +146,7 @@ Peu importe à quel point les ennemis que je dois affronter sont puissants, j'ai
 
 J'ai hoché la tête en regardant les cadavres étendus.
 
-Plus précisément, ce n'étaient pas les cadavres, mais leurs 'colliers de titres' qui étaient étranges.
+Plus précisément, ce n'étaient pas les cadavres, mais leurs 'colliers de modificateurs' qui étaient étranges.
 
 Les colliers de titres des cadavres avaient généralement disparu, ou une partie du titre était endommagée.
 
@@ -156,7 +156,7 @@ Yu Sangah a demandé.
 
 [Un ancien □□□]
 
-[Un vieux □□□]
+[Vieux □□□]
 
 [□ et □□□ de □□]
 
@@ -170,9 +170,9 @@ Comme si quelqu'un avait volé ces caractères spécifiques.
 
 'Vous vous souvenez des conditions pour terminer ce scénario?'
 
-« (Voler le [collier de titre] de la cible désignée, non?) »
+« (Voler le [collier de modificateur] de la cible désignée, non?) »
 
-'Exactement. Mais en réalité, il n'est pas nécessaire de chasser la cible. Ce qui compte, c'est d'obtenir le [collier de titre].'
+'Exactement. Mais en réalité, il n'est pas nécessaire de chasser la cible. Ce qui compte, c'est d'obtenir le [collier de modificateur].'
 
 Yu Sangah a soudainement compris.
 
@@ -180,17 +180,17 @@ Yu Sangah a soudainement compris.
 
 Au moment où j'ai hoché la tête, un message a retenti dans le vide.
 
-[Dans cette zone, il est possible de collecter des 'syllabes de titres'.]
+[Dans cette zone, il est possible de collecter des 'syllabes de modificateurs'.]
 
 [Vous pouvez fabriquer de nouveaux colliers avec les syllabes collectées.]
 
-'Il y a des gens qui volent les titres d'autres constellations pour fabriquer le [collier de titre] de la cible.'
+'Il y a des gens qui volent les titres d'autres constellations pour fabriquer le [collier de modificateur] de la cible.'
 
-Un 'titre' est une combinaison de caractères.
+Un 'modificateur' est une combinaison de caractères.
 
-Par exemple, mon titre [Roi Démon du Salut] est composé de cinq syllabes : [salut], [démon], [roi], [du], [le].
+Par exemple, mon modificateur [Roi Démon du Salut] est composé de six syllabes : [roi], [dé], [mon], [du], [sa], [lut].
 
-En d'autres termes, même sans voler mon collier, si vous obtenez ces cinq caractères d'une manière ou d'une autre, vous pouvez fabriquer le même collier.
+En d'autres termes, même sans voler mon collier, si vous obtenez ces six caractères d'une manière ou d'une autre, vous pouvez fabriquer le même collier.
 
 « (Pourquoi le bureau de gestion a-t-il permis une telle astuce?) »
 
@@ -202,15 +202,15 @@ Les constellations détestent la lenteur et préfèrent un développement rapide
 
 J'ai hoché la tête.
 
-Les constellations puissantes ont probablement massacré des constellations de rang inférieur pour combiner les titres de la cible.
+Les constellations puissantes ont probablement massacré des constellations de rang inférieur pour combiner les syllabes du modificateur de la cible.
 
 C'est plus rapide que de chercher une cible en fuite.
 
-Au lieu de pleurer les morts, j'ai fouillé les colliers de titres éparpillés comme des épis de maïs égrenés.
+Au lieu de pleurer les morts, j'ai fouillé les colliers de modificateur éparpillés comme des épis de maïs égrenés.
 
 Yu Sangah n'a rien dit.
 
-[Syllabe de titre, 'salut', acquise.]
+[Syllabe de modificateur, 'sa', acquise.]
 
 Il ne restait presque plus de caractères utiles.
 
@@ -230,7 +230,7 @@ Ma voix a résonné doucement dans les ruines désertes. Aucune présence ne se 
 
 Parmi les cadavres, il y avait une autre personne cachée. Elle avait parfaitement dissimulé sa présence, mais j'en étais sûr. Parce que je l'avais vue se cacher de mes propres yeux.
 
-Avec un bruissement, une partie du tas de cadavres s'est effondrée et quelqu'un s'est levé. Une incarnation qui avait miraculeusement échappé aux [yeux de l'archange] était là.
+Avec un bruissement, une partie du tas de cadavres s'est effondrée et quelqu'un s'est levé. Une incarnation qui avait miraculeusement échappé aux [Yeux de l'Archange] était là.
 
 "Roi Démon du Salut."
 
@@ -304,7 +304,7 @@ Je comprenais facilement la rage contenue dans ces mots.
 
 J'avais déjà eu plusieurs conflits avec Anna Croft auparavant, et à cause de cela, son avenir original avait changé.
 
-Dans 'l'Association de la Gourmandise' et dans la <Gigantomachie>, elle n'avait pas accompli grand-chose.
+Dans 'l'Association de Gastronomie' et dans la <Gigantomachie>, elle n'avait pas accompli grand-chose.
 
 Avec ces échecs répétés, la nébuleuse <Asgard> l'avait jetée seule dans la <Guerre Sainte et Démoniaque>.
 
@@ -352,15 +352,15 @@ Anna Croft ne le savait probablement pas.
 
 Sur les hauteurs de l'île. Sur un grand arbre, Asmodée caressait son menton en regardant le collier de titre qu'il avait obtenu.
 
-[□ chasseur de □]
+[Chasseur de □vatrices]
 
-Le titre cible original d'Asmodée était [Chasseur de Vengeance].
+Le titre cible original d'Asmodée était [Chasseur de Salvatrices].
 
-Mais d'autres concurrents avaient chassé sa cible avant lui, et Asmodée avait donc obtenu un collier en lambeaux : [□□ chasseur de □].
+Mais d'autres concurrents avaient chassé sa cible avant lui, et Asmodée avait donc obtenu un collier en lambeaux, où d'autres constellations avaient déjà volé les syllabes : [□ Chass□ de □□].
 
-'J'ai déjà [chasseur] et [de]... il ne me manque plus que [vengeance]...'
+'J'ai déjà [Chass] et [de]... il ne me manque plus que [sal]...'
 
-Le problème était qu'il ne restait presque plus de constellations sur l'île ayant la syllabe [vengeance] dans leur titre.
+Le problème était qu'il ne restait presque plus de constellations sur l'île ayant la syllabe [sal] dans leur titre.
 
 'J'ai participé trop tard à cause de mes subordonnés.'
 
@@ -386,7 +386,7 @@ Asmodée a souri.
 
 Le roi démon du salut.
 
-Le propriétaire du [salut] qu'il cherchait était devant lui.
+Le propriétaire du [sal] qu'il cherchait était devant lui.
 
 Mais l'homme n'avait pas l'air surpris du tout.
 
@@ -394,11 +394,11 @@ Mais l'homme n'avait pas l'air surpris du tout.
 
 [Ce n'est pas à toi de décider. Parce que—]
 
-"Tu as besoin de la syllabe [salut], non?"
+"Tu as besoin de la syllabe [sal], non?"
 
 [...!]
 
-"Me tuer et obtenir [salut] est une option. Mais j'ai une proposition bien plus intéressante, tu veux entendre?"
+"Me tuer et obtenir [sal] est une option. Mais j'ai une proposition bien plus intéressante, tu veux entendre?"
 
 Asmodée, après un moment d'hésitation, a ouvert la bouche.
 
@@ -410,9 +410,9 @@ Asmodée a continué.
 
 [Mais si cette proposition n'est pas intéressante, alors tu—]
 
-"Je ne suis pas le seul sur cette île à avoir la syllabe [salut]."
+"Je ne suis pas le seul sur cette île à avoir la syllabe [sal]."
 
-Un autre propriétaire de [salut].
+Un autre propriétaire de [sal].
 
 L'expression d'Asmodée a changé.
 
@@ -422,6 +422,6 @@ L'expression d'Asmodée a changé.
 
 À ce moment-là, Kim Dokja, tel un vrai démon, souriait.
 
-"La 'chasse à l'archange', ça te dit?"
+"Une 'chasse à l'archange', ça te dit?"
 
 < Épisode 68. Les mots inaudibles (4) - Fin>

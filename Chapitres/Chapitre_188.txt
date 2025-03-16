@@ -418,10 +418,10 @@ Les étoiles du ciel s'éteignirent une à une, et finalement, l'histoire de l'i
 
 [Vous avez été expulsé du scénario.]
 
-[<Star Stream> annonce votre épithète.]
+[<Star Stream> annonce votre modificateur.]
 
 Dans l'obscurité lointaine, j'entendis le murmure calme de <Star Stream>.
 
-[Votre épithète est 'Roi Démon du Salut'.]
+[Votre modificateur est 'Roi Démon du Salut'.]
 
 < Épisode 35. Le 73ème Roi Démon (7) - Fin>

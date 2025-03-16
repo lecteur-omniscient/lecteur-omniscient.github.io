@@ -352,7 +352,7 @@ La petite et jolie Uriel que j'avais vue lors du banquet.
 
 Ce petit visage, pleurant et se débattant.
 
-À quel point cet ange est-il différent de l'épithète 'démoniaque' ?
+À quel point cet ange est-il différent du modificateur 'démoniaque' ?
 
 "Faites ce que vous devez faire. C'est la seule façon pour cette histoire de s'accomplir."
 

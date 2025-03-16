@@ -2,7 +2,7 @@
 
 *Bienvenue à toi,*
 
-Tu trouveras ici une traduction réalisée par un·e fan du Point de Vue du Lecteur Omniscient (aussi connu sous le nom de Lecteur Omniscient, ou par son nom anglais Omnscient Reader's Viewpoint). Cette traduction est donc non-officielle (il n'existe pas de traduction officielle du webroman en français). Je vous invite donc très fortement à soutenir les auteur·ices de ce webroman en achetant l'oeuvre originale sur <a href="https://novel.munpia.com/104753" target="__blank">Munpia</a> ou <a href="https://m.series.naver.com/novel/detail.series?productNo=3400123" target="__blank">Naver</a>. Cette traduction a été réalisée depuis la version originale en coréen, de manière semi-automatisée à l'aide de modèles d'Intelligence Artificielle (et de mon travail manuel). Je répertorie sur cette page des explications sur ce travail et mes choix de traduction. Si vous souhaitez démarrer d'où le Webtoon est rendu actuellement, rendez-vous au début de l'épisode 41. 
+Tu trouveras ici une traduction réalisée par un·e fan du Point de Vue du Lecteur Omniscient (aussi connu sous le nom de Lecteur Omniscient, ou par son nom anglais Omniscient Reader's Viewpoint). Cette traduction est donc non-officielle (il n'existe pas de traduction officielle du webroman en français). Je vous invite donc très fortement à soutenir les auteur·ices de ce webroman en achetant l'oeuvre originale sur <a href="https://novel.munpia.com/104753" target="__blank">Munpia</a> ou <a href="https://m.series.naver.com/novel/detail.series?productNo=3400123" target="__blank">Naver</a>. Cette traduction a été réalisée depuis la version originale en coréen, de manière semi-automatisée à l'aide de modèles d'Intelligence Artificielle (et de mon travail manuel). Je répertorie sur cette page des explications sur ce travail et mes choix de traduction. Si vous souhaitez démarrer d'où le Webtoon est rendu actuellement, rendez-vous au début de l'épisode 41. 
 Toute remarque ou demande de modification du texte peut être réalisée sur le dépôt GitHub de ce projet (oui, l'ensemble des fichiers traduits sont disponibles en open source et gratuitement) ou par mail : point-de-vue-du-lecteur-omniscient@protonmail.com.
 Bonne lecture !
 
@@ -21,14 +21,27 @@ J'ai d'abord essayé d'utiliser Gemini, dont l'accès à l'API est actuellement 
 
 **Réflexions sur les choix de traduction**
 Concernant les noms des personnages principaux, j'ai choisi de faire un compromis similaire à la traduction française du Webtoon, afin d'éviter trop de confusions (sachant qu'il y en a déjà beaucoup car en anglais, les noms des personnages ont deux ortographes différentes dans le webroman du fait d'un changement de traducteur·ice durant le projet, et une autre ortographe dans le Webtoon). Même si je préfère l'utilisation du nom de famille "Yi", plus proche du coréen "이" (qui se prononce en fait "I"), mais j'ai donc choisi de m'aligner sur les choix réalisés dans le Webtoon, "Lee".
-J'ai fait des choix de traduction différents pour certains noms de constellation par rapport au Webtoon, je pense notamment à la "Juge du Feu Quasi-Démonique" et au "Mystérieux Conspirateur", qui me semblent plus pertinents par rapport au webroman.
-[En cours de rédaction]
+J'ai fait des choix de traduction différents pour certains noms de constellation par rapport au Webtoon, je pense notamment à la "Juge du Feu Quasi-Démonique" et au "Mystérieux Conspirateur", qui me semblent plus pertinents par rapport au webroman. C'est aussi le cas d'un type de créature que l'on rencontre pour la première à l'épisode 22 (cf notes ci-dessous, attention risques de spoils).
 
 **Réflexions sur le caractère éthique de cette traduction**
-[En cours de rédaction]
+Deux éléments me semblent importants à mentionner : la mise en ligne de ce contenu et la traduction par IA.
+Je pense que la mise en ligne de ce contenu demeure positive pour les auteur·ices dans le sens où je donne accès à un contenu que la plupart n'auraient jamais eu accès, car à ma connaissance, aucune traduction en français du webrooman ou de l'e-book n'est prévue. De plus, j'invite très fortement tous les lecteur·ices à soutenir les auteur·ices via les liens Munpia et Naver.
+La traduction par IA me semble justifiée car traduire manuellement une telle oeuvre (équivalent à l'entièreté d'Harry Potter, plus 1 tome et demi supplémentaire) est une tâche qui demanderait un effort gigantesque (et plusieurs mois de travail à temps plein bénévolement), tant qu'il n'y a pas de traduction officielle en tout cas. Cela ne veut pas dire que je soutiens ni ne cautionne l'automatisation de ce travail par IA.
 
-**Notes Supplémentaires**
+**Notes supplémentaires sur la traduction**
 Je suis partisan·e d'une écriture inclusive, mais les outils d'IA de génération de texte sont malheureusement encore trop peu fiables sur cette question, avec ou sans point médian. Quelques modifications manuelles m'ont semblé toutefois importantes.
+
+**Notes supplémentaires sur l'histoire et les personnages [Spoiler]**
+J'ai classé ces notes par thématique, avec entre parenthèses l'épisode le plus tard auquel les informations que je discute pourraient être considérées comme des spoilers (même si j'essaie volontairement de rester vague). Ces notes sont classées par ordre chronologique.
+
+*1. Divinités d'Outre-Monde / Dieux Extérieurs (Épisode 22)*
+J'ai choisi la traduction 'Divinité d'Outre-Monde' qui me semble plus épique, contrairement à la traduction du manwha.
+
+*2. Pays de la Paix / Peace Land (Épisode 26)*
+L'ensemble de l'arc narratif relatif au Pays de la Paix est assez différent dans le webroman et dans le manwha (qui est adapté de la version e-book). Le webroman met beaucoup plus l'accent sur les rapports historiques conflictuels qu'ont entretenu le Japon et la Corée (invasion et colonisation), passage qui a été ré-écrit.
+
+*3. Nirvana Moebius (Épisode 28)*
+Concernant le personnage de Nirvana Moebius, comme iel est canoniquement non-binaire, j'ai choisi d'utiliser le pronom 'iel' et l'article 'lae'. Son personnage peut (mlaheureusement) être analysé comme un archétype de Queer vilain, mais notons que 1. En fait c'est plus compliqué que cela, mais en dire plus, spoilerait des chapitres futurs ; 2. Son arc narratif est une critique de l'influence des religions et en particulier des sectes sur la société coréenne, et iel n'est en fait pas explicitement défini·e comme non-binaire, mais c'est plutôt la conséquence du cycle de réincarnations successives qu'iel subi·e.
 
 [La constellation 'Ingénieur·e de la Grande Traduction' vous remercie pour votre attention.]
 [La constellation 'Ingénieur·e de la Grande Traduction' vous souhaite une agréable lecture.]

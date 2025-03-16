@@ -270,7 +270,7 @@ Description : Un objet qui permet de savoir ce que les autres pensent de vous. A
 
 En voyant cet objet, je me sentis étourdi.
 
-Le [Détecteur de Favorabilité] était un objet de luxe que seuls les membres Platinum et plus du Bazar des Dokkaebis pouvaient acheter, et il coûtait la bagatelle de 100 000 pièces.
+Le [Détecteur de Favorabilité] était un objet de luxe que seuls les membres Platinum et plus du Bazar des Dokkaebi pouvaient acheter, et il coûtait la bagatelle de 100 000 pièces.
 
 Sérieusement, ils ont dépensé 100 000 pièces pour ce genre de divertissement ?
 

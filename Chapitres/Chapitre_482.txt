@@ -158,11 +158,11 @@ J'ai rallumé la télévision. Les gros titres des nouvelles défilaient à l'é
 
 [Le <Star Stream> veut parler de votre 'destin' !]
 
-[Les Grands Dokkaebis vous appellent dans la zone du 'dernier scénario'.]
+[Les Grands Dokkaebi vous appellent dans la zone du 'dernier scénario'.]
 
 [Certaines nébuleuses souhaitent s'allier avec votre nébuleuse...]
 
-"Ce soir à 20 heures. Contactez les Dokkaebis et les constellations."
+"Ce soir à 20 heures. Contactez les Dokkaebi et les constellations."
 
 *
 
@@ -200,11 +200,11 @@ Au dernier moment, Uriel du 999e cycle avait prononcé ces mots avant de sceller
 
 [Certaines constellations expriment leur mécontentement face à votre manière de progresser dans le scénario !]
 
-[Certains Grands Dokkaebis vous témoignent une hostilité inexplicable.]
+[Certains Grands Dokkaebi vous témoignent une hostilité inexplicable.]
 
-[Quelques Grands Dokkaebis reconnaissent vos mérites pour avoir convaincu les 'Divinités d'Outre-Monde'.]
+[Quelques Grands Dokkaebi reconnaissent vos mérites pour avoir convaincu les 'Divinités d'Outre-Monde'.]
 
-[Actuellement, de nombreux Dokkaebis vous portent de l'affection.]
+[Actuellement, de nombreux Dokkaebi vous portent de l'affection.]
 
 D'innombrables messages flottaient encore dans les airs.
 
@@ -256,7 +256,7 @@ Le 'dernier scénario' qui nous attendait serait probablement très différent d
 
 "Nous rencontrerons probablement le Roi des Récits."
 
-"Le Roi des Dokkaebis, tu veux dire."
+"Le Roi des Dokkaebi, tu veux dire."
 
 Han Suyeong a réfléchi un instant avant de demander.
 
@@ -350,7 +350,7 @@ J'ai regardé le ciel en souriant. Han Suyeong a dit :
 
 "Tu ris encore de manière dégoûtante. C'est bientôt 20 heures, prépare-toi. Les gens attendent."
 
-J'ai hoché la tête et me suis dirigé vers les étages supérieurs du [Complexe]. Des murmures résonnaient à l'intérieur. Divers médias, Dokkaebis et constellations m'attendaient.
+J'ai hoché la tête et me suis dirigé vers les étages supérieurs du [Complexe]. Des murmures résonnaient à l'intérieur. Divers médias, Dokkaebi et constellations m'attendaient.
 
 Juste avant d'entrer dans la salle de conférence, un membre du [Complexe] m'a arrêté.
 

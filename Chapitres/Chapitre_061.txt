@@ -210,7 +210,7 @@ Nous avons puisé de l'eau des environs et avons joint nos mains en silence. Apr
 
 [Une constellation qui aime utiliser la Hallebarde de la Lune est ravie de votre visite.]
 
-[Une constellation qui aime utiliser la Hallebarde de la Lune révèle son épithète.]
+[Une constellation qui aime utiliser la Hallebarde de la Lune révèle son modificateur.]
 
 [La constellation, 'Seigneur à la Belle Barbe, Marquis de Zhuangmu' vous accorde sa bénédiction.]
 
@@ -388,7 +388,7 @@ Dans tout le *Guide de Survie*, il n'y a qu'une seule personne avec un tel titre
 
 Majesté de Maegum.
 
-C'est l'épithète de la dernière reine de Silla, la reine Jinseong.
+C'est le modificateur de la dernière reine de Silla, la reine Jinseong.
 
 [La constellation de soutien du personnage 'Min Jiwon' est fortement perturbée.]
 

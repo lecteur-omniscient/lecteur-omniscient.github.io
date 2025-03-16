@@ -2,11 +2,11 @@
 
 [Vous êtes devenu un Grand Dokkaebi.]
 
-[Vous pouvez désormais participer au "Vote Final" des Grands Dokkaebis.]
+[Vous pouvez désormais participer au "Vote Final" des Grands Dokkaebi.]
 
 En lisant le message, Bihyeong cligna lentement des yeux.
 
-Après avoir rencontré le Roi des Dokkaebis, l'apparence de Bihyeong avait beaucoup changé. Il avait désormais une forme humaine complète, semblable au vent. La peau d'un tigre blanc recouvrant ses épaules et les trois cornes jaillissant de son front dégageaient une puissance mythique.
+Après avoir rencontré le Roi des Dokkaebi, l'apparence de Bihyeong avait beaucoup changé. Il avait désormais une forme humaine complète, semblable au vent. La peau d'un tigre blanc recouvrant ses épaules et les trois cornes jaillissant de son front dégageaient une puissance mythique.
 
 Il était désormais un véritable "Grand Dokkaebi".
 
@@ -24,7 +24,7 @@ Bihyeong ne répondit pas. Le vent parla à sa place.
 
 [Je le sais.]
 
-[De plus, ils ont retourné contre eux la majorité des Grands Dokkaebis et le Bureau de Gestion.]
+[De plus, ils ont retourné contre eux la majorité des Grands Dokkaebi et le Bureau de Gestion.]
 
 [Je le sais aussi.]
 
@@ -234,7 +234,7 @@ Mais maintenant, qu'en était-il ?
 
 Maintenant, y a-t-il une nébuleuse pour nous aider ?
 
-[Le récit mythique géant, 'Printemps du Royaume des Démons', commence son histoire.]
+[Le récit gigantesque, 'Printemps du Royaume des Démons', commence son histoire.]
 
 Les membres du groupe me regardaient.
 
@@ -352,7 +352,7 @@ Je fus surpris. Je savais que Yu Sangah avait hérité d'une partie du pouvoir d
 
 Profitant du temps gagné par Yu Sangah, Yu Junghyeok, Han Suyeong et moi courûmes à travers le ciel nocturne.
 
-[Le récit mythique géant, 'Printemps du Royaume des Démons', continue son histoire !]
+[Le récit gigantesque, 'Printemps du Royaume des Démons', continue son histoire !]
 
 [Le récit mythique géant, 'Torche Sacrée qui Engloutit les Mythes', commence son histoire !]
 

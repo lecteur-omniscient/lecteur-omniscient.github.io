@@ -118,7 +118,7 @@ Que devrais-je dire pour convaincre ce maudit régresseur ?
 
 [Les conditions d'utilisation du skill exclusif 'Point de Vue du Lecteur Omniscient' niveau 2 ont été remplies !]
 
-[Voulez-vous activer le skill exclusif ?]
+[Voulez-vous activer la compétence exclusive ?]
 
 Et peu après, je pus lire les pensées de quelqu'un qui déferlaient dans mon esprit comme une cascade.
 
@@ -248,7 +248,7 @@ Même si Yu Junghyeok découvrait mes informations, je pourrais en apprendre plu
 
 [Le skill exclusif, 'Le Quatrième Mur', s'active !]
 
-['Le Quatrième Mur' a repéré le skill de détection 'Œil du Sage' !]
+['Le Quatrième Mur' a repéré la compétence de détection 'Œil du Sage' !]
 
 Des étincelles jaillirent dans les airs, et Yu Junghyeok vacilla.
 
@@ -304,7 +304,7 @@ C'était de jouer une carte qui le ferait mal interpréter.
 
 “Yu Junghyeok, je connais 'un futur que tu ne connais pas'.”
 
-[Le personnage 'Yu Junghyeok' active le skill 'Détecteur de Mensonges'.]
+[Le personnage 'Yu Junghyeok' active la compétence 'Détecteur de Mensonges'.]
 
 ['Détecteur de Mensonges' confirme que vos paroles sont vraies.]
 
@@ -380,7 +380,7 @@ Finalement, Yu Junghyeok leva la tête au moment où je regardais anxieusement l
 
 [Le skill exclusif, 'Point de Vue du Lecteur Omniscient', est désactivé.]
 
-Que ce soit à cause de la fatigue ou du soulagement, mon skill exclusif se désactiva à ce moment précis.
+Que ce soit à cause de la fatigue ou du soulagement, ma compétence exclusive se désactiva à ce moment précis.
 
 Le visage de Yu Junghyeok devint alors aussi énigmatique qu'un livre de philosophie sans explication.
 

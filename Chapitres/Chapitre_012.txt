@@ -70,7 +70,7 @@ J'ai fermé les yeux et relu les messages qui étaient apparus lorsque j'avais c
 
 [La constellation 'Mystérieux Conspirateur' est déçue par vos propos imprudents.]
 
-Il y avait pas mal de messages. De plus, les parrainages des constellations qui m'avaient exposé leurs épithètes étaient visibles.
+Il y avait pas mal de messages. De plus, les parrainages des constellations qui m'avaient exposé leurs modificateurs étaient visibles.
 
 C'était probablement à cause de la dernière conversation que j'avais eue avec Yu Junghyeok.
 
@@ -220,14 +220,14 @@ Une fois les constellations parties, Bihyeong a montré son vrai visage.
 
 [Hein ?]
 
-"Bihyeong, tu veux devenir le 'Roi des Dokkaebis' ?"
+"Bihyeong, tu veux devenir le 'Roi des Dokkaebi' ?"
 
 [Qu'est-ce que tu...]
 
-"Tu veux devenir le meilleur conteur, surpassant Dokkaebis comme Dokgak ou Gildal ?"
+"Tu veux devenir le meilleur conteur, surpassant des Dokkaebi comme Dokgak ou Gildal ?"
 
 L'expression de Bihyeong changeait.
 
-"Bihyeong, le Dokkaebi, fais un contrat avec moi. Je ferai de toi le roi des Dokkaebis."
+"Bihyeong, le Dokkaebi, fais un contrat avec moi. Je ferai de toi le roi des Dokkaebi."
 
 < Épisode 3. Contrat (1) - Fin>

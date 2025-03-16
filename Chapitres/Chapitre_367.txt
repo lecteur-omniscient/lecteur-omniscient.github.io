@@ -90,11 +90,11 @@ Avec une tempête de magie dévastatrice, un message résonna à ses oreilles.
 
 [Vous avez accompli un exploit impossible !]
 
-[Vous avez acquis la possibilité d'une nouvelle fable !]
+[Vous avez acquis la possibilité d'un nouveau récit !]
 
 [<Star Stream> est impressionné par votre exploit.]
 
-[<Star Stream> réfléchit à votre deuxième épithète.]
+[<Star Stream> réfléchit à votre deuxième modificateur.]
 
 La sensation d'une constellation, qu'il n'avait pas ressentie depuis longtemps après être devenu un Roi Démon.
 
@@ -388,7 +388,7 @@ Mais est-ce que les informations que j'avais sur Anna Croft représentaient tout
 
 Je soupirai.
 
-"Séparons-nous ici. Vous avez probablement déjà tous les caractères de votre épithète."
+"Séparons-nous ici. Vous avez probablement déjà tous les caractères de votre modificateur."
 
 "Ça m'est égal, mais êtes-vous sûr ?"
 

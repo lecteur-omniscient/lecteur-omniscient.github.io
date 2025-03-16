@@ -358,13 +358,13 @@ J’ouvris immédiatement la fenêtre du scénario.
 
 +
 
-<Scénario caché ― Vol du Stigmate>
+<Scénario caché ― Vol de Modificateur>
 
 Classification : Principal
 
 Difficulté : ???
 
-Condition de réussite : Voler le "collier du stigmate" de la cible désignée (si la cible n’a pas de stigmate, son vrai nom sera utilisé à la place).
+Condition de réussite : Voler le "collier de modificateur" de la cible désignée (si la cible n’a pas de modificateur, son vrai nom sera utilisé à la place).
 
 Temps limite : ―
 
@@ -376,13 +376,13 @@ En cas d’échec : ???
 
 Ce scénario était le dernier obstacle avant d’accéder à l’île principale.
 
-Le contenu du scénario était simple : voler le symbole du stigmate de la cible désignée.
+Le contenu du scénario était simple : voler le symbole du modificateur de la cible désignée.
 
 Autour de mon cou, un petit collier argenté brillait déjà.
 
 [Roi Démon du Salut]
 
-C’était un collier portant le nom du stigmate.
+C’était un collier portant le nom du modificateur.
 
 [Il y a actuellement 262 survivants sur l’île intermédiaire numéro 3.]
 
@@ -394,7 +394,7 @@ Ce qui importait, c’était de savoir qui était ma cible, mais puisque les plu
 
 [Votre "cible principale" a été déterminée.]
 
-[Le stigmate de la "cible principale" est...]
+[Le modificateur de la "cible principale" est...]
 
 Et à ce moment-là, je vis un groupe de constellations courir dans ma direction.
 
