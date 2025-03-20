@@ -42,7 +42,7 @@ J’ai hoché la tête. Je savais très bien ce qui se passait quand une *cohér
 
 D’ailleurs, ces derniers temps, j’avais souvent l’impression d’être sur une tour de Jenga dont de nombreux blocs avaient été retirés.
 
-― Fais attention. Tu ne peux pas toujours compter sur la chance. Même si tu as la protection des Grands Dokkaebi et des divinités étrangères...
+― Fais attention. Tu ne peux pas toujours compter sur la chance. Même si tu as la protection des Grands Dokkaebi et des Divinités d'Outre-Monde...
 
 ― La protection de qui ?
 
@@ -186,7 +186,7 @@ C’est alors que les juges, qui étaient restés silencieux, sont intervenus.
 
 [Oh, vraiment ?]
 
-[Voici les résultats de notre enquête via les systèmes de matchmaking d’Olympe, ‘Cupidon va-t-il tirer ?’ et ‘Vénus en duo’.]
+[Voici les résultats de notre enquête via les systèmes de matchmaking d’<Olympe>, ‘Cupidon va-t-il tirer ?’ et ‘Vénus en duo’.]
 
 [Les juges ont enfin fait quelque chose de bien.]
 
@@ -222,7 +222,7 @@ Le juge, qui souriait en regardant la vidéo, a continué.
 
 [La candidate numéro 2 a un caractère tranchant et lance souvent des piques, mais elle partage un lien spécial avec vous. Elle est la seule à pouvoir comprendre vos passe-temps sombres, et peut même en discuter avec vous. Elle est vraiment unique en son genre...]
 
-Le système de matchmaking d’Olympe était vraiment détraqué.
+Le système de matchmaking d’<Olympe> était vraiment détraqué.
 
 Juste avant que le visage de la troisième candidate n’apparaisse, j’ai crié de toutes mes forces.
 

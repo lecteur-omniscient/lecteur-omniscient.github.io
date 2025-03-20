@@ -32,7 +32,7 @@ J’ai ouvert et fermé mon poing pour la provoquer.
 
 C’était notre première rencontre depuis notre affrontement lors du Festival de la Gastronomie.
 
-Selena Kim, qui se tenait à côté d’Anna Croft, m’a salué d’un léger hochement de tête.
+Séléna Kim, qui se tenait à côté d’Anna Croft, m’a salué d’un léger hochement de tête.
 
 Anna Croft a froncé légèrement les sourcils et a demandé :
 
@@ -60,7 +60,7 @@ De loin, Han Suyeong a ricané.
 
 ―Hé, on partage les 3 millions, hein ? Sans moi, tu n’aurais pas cet argent.
 
-Anna Croft a serré son poing tremblant pendant un moment, puis après avoir regardé Selena Kim, elle s’est tournée vers moi.
+Anna Croft a serré son poing tremblant pendant un moment, puis après avoir regardé Séléna Kim, elle s’est tournée vers moi.
 
 « Je suis désolée, mais je ne peux pas payer le prix de l’enchère. »
 
@@ -164,31 +164,31 @@ Une lueur a traversé les yeux d’Anna Croft.
 
 « Une autre condition... ? »
 
-« Si je gagne, vous libérerez Selena Kim du [Serment de Sujétion]. »
+« Si je gagne, vous libérerez Séléna Kim du [Serment de Sujétion]. »
 
 [La constellation, ‘Ami de la Justice et de la Réconciliation’ est surprise par vos paroles.]
 
 [La constellation, ‘Juge du Feu Quasi-Démonique’ hoche la tête en entendant vos paroles.]
 
-Les yeux de Selena Kim tremblaient.
+Les yeux de Séléna Kim tremblaient.
 
-Selena Kim avait probablement été soumise à la ‘Preuve de l’Étoile’ en traversant le ‘Contexte de la Constellation’. Il était impossible qu’Anna Croft garde à ses côtés quelqu’un qu’elle ne pouvait pas contrôler.
+Séléna Kim avait probablement été soumise à la ‘Preuve de l’Étoile’ en traversant le ‘Contexte de la Constellation’. Il était impossible qu’Anna Croft garde à ses côtés quelqu’un qu’elle ne pouvait pas contrôler.
 
 Anna Croft semblait déconcertée.
 
 « Roi Démon du Salut ! C’est... »
 
-« Si vous invoquez la cohérence narrative d’<Asgard>, vous devriez pouvoir libérer Selena Kim sans problème, non ? »
+« Si vous invoquez la cohérence narrative d’<Asgard>, vous devriez pouvoir libérer Séléna Kim sans problème, non ? »
 
 Libérer une relation de sujétion liée par la ‘Preuve de l’Étoile’ serait un fardeau considérable pour Anna Croft.
 
-Le simple fait d’avoir établi une [Relation de Sujétion] était la preuve qu’elle ne faisait pas entièrement confiance à Selena Kim.
+Le simple fait d’avoir établi une [Relation de Sujétion] était la preuve qu’elle ne faisait pas entièrement confiance à Séléna Kim.
 
 Après un moment de réflexion, Anna Croft a répondu :
 
 « ... Très bien. »
 
-Selena Kim m’a regardé avec des yeux écarquillés.
+Séléna Kim m’a regardé avec des yeux écarquillés.
 
 Une voix métaphorique a résonné dans les airs.
 
@@ -302,7 +302,7 @@ Tzzztzzztzzzt !
 
 C’est alors que quelqu’un m’a barré la route.
 
-[La cohérence narrative de la nébuleuse ‘Olympe’ réagit à votre présence !]
+[La cohérence narrative de la nébuleuse ‘<Olympe>’ réagit à votre présence !]
 
 Il n’y avait pas qu’une seule personne.
 
@@ -338,7 +338,7 @@ Quelqu’un dans les gradins a crié.
 
 [‘Terreur Errante’, Phobos ! Le fils d’Arès !]
 
-Parmi les douze dieux de l’Olympe, le ‘Dieu de la Guerre Sanglante’ avait un fils.
+Parmi les douze dieux de l’<Olympe>, le ‘Dieu de la Guerre Sanglante’ avait un fils.
 
 Le dieu de la ‘Terreur’, né de la guerre.
 

@@ -248,7 +248,7 @@ Certes, c'est Yu Sangah elle-même qui a utilisé ces pouvoirs.
 
 Mais c'est <Olympe> qui a poussé à ce contrat absurde.
 
-[Olympe, assumez votre propre cohérence narrative.]
+[<Olympe>, assumez votre propre cohérence narrative.]
 
 J'ai lancé une incantation silencieuse vers le ciel nocturne.
 
@@ -328,6 +328,6 @@ La zone du scénario 47.
 
 Là-bas se trouve la cité interstellaire des constellations, 'Le Contexte des constellations'.
 
-"Allons détruire Olympe."
+"Allons détruire <Olympe>."
 
 < Épisode 58. Le Contexte des constellations (3) - Fin>

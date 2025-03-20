@@ -210,7 +210,7 @@ Regardant l'épée pointée vers sa gorge, Anna Croft sourit.
 
 [L'incarnation 'Anna Croft' appartient au camp du Bien.]
 
-"… Asgard n'était pas ta nébuleuse de soutien ?"
+"… <Asgard> n'était pas ta nébuleuse de soutien ?"
 
 "Je comprends ta rancune, mais peux-tu reporter ta vengeance ?"
 
@@ -234,7 +234,7 @@ L'armée de <Asgard> s'arrêta, soulevant un nuage de poussière.
 
 [Une constellation qui aime changer de sexe observe l'incarnation 'Yu Junghyeok'.]
 
-Comme s'il s'agissait d'un dernier geste de considération, Selena Kim et Iris se tenaient à l'avant de l'armée.
+Comme s'il s'agissait d'un dernier geste de considération, Séléna Kim et Iris se tenaient à l'avant de l'armée.
 
 Yu Junghyeok lut les émotions sur leurs visages.
 

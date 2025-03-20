@@ -14,7 +14,7 @@ Le nombre de messages des constellations diminuant rapidement, il semblait que l
 
 [L'« Bureau de Gestion » du <Star Stream> tient une réunion concernant cet incident.]
 
-L'Bureau de Gestion n'avait probablement pas prévu que la « Guerre des Saints et des Démons » prendrait une telle ampleur.
+Le Bureau de Gestion n'avait probablement pas prévu que la « Guerre des Saints et des Démons » prendrait une telle ampleur.
 
 À l'origine, le « Niveau de Chaos » était un dispositif mis en place pour accélérer la progression de la guerre. Mais ce niveau a dépassé celui du Bien et du Mal, et maintenant, il menace de réveiller le « Dragon de l'Apocalypse ».
 
@@ -382,9 +382,9 @@ C'est à ce moment-là qu'un portail s'ouvrit dans le ciel, des étincelles tomb
 
 "... Dokkaebi ?"
 
-[Le Grand Dokkaebi, 'Maître du Vide', est apparu dans le scénario !]
+[Le Grand Dokkaebi, 'Heoju', est apparu dans le scénario !]
 
-[Le Grand Dokkaebi, 'Corps du Vide', est apparu dans le scénario !]
+[Le Grand Dokkaebi, 'Heoche', est apparu dans le scénario !]
 
 Deux Grands Dokkaebi, vêtus respectivement d'un costume noir et d'un costume blanc, descendaient sur le sol en répandant une énergie imposante. Ils semblaient pressés, leurs chemises froissées et leurs cravates flottant au vent.
 

@@ -46,7 +46,7 @@ Jo Yeongran, que l’on pourrait considérer comme le bras droit de ma mère, é
 
 [Le récit gigantesque, *L’Arbre Sacré*, commence son histoire !]
 
-Il semblait que *Hongik* surveillait également la situation, car le récit de l’[Arbre Sacré], ancré dans la mer, utilisait la probabilité de la péninsule coréenne pour repousser la catastrophe.
+Il semblait que <Hongik> surveillait également la situation, car le récit de l’[Arbre Sacré], ancré dans la mer, utilisait la probabilité de la péninsule coréenne pour repousser la catastrophe.
 
 Han Suyeong murmura, comme si elle avait attendu dix ans pour le dire :
 
@@ -80,7 +80,7 @@ Un changement massif des informations sur le futur. C’était probablement la p
 
 Han Suyeong demanda, sur un ton accusateur :
 
-« Et *Asgard* ? Vous avez réussi la *Guerre Sainte*, donc ils devraient à nouveau vous soutenir. »
+« Et <Asgard> ? Vous avez réussi la *Guerre Sainte*, donc ils devraient à nouveau vous soutenir. »
 
 Anna Croft, les lèvres serrées, murmura en baissant la tête :
 
@@ -88,7 +88,7 @@ Anna Croft, les lèvres serrées, murmura en baissant la tête :
 
 Le *Dernier Scénario* allait bientôt commencer.
 
-*Asgard* n’avait probablement pas le luxe de s’attacher à un seul continent d’une seule planète.
+<Asgard> n’avait probablement pas le luxe de s’attacher à un seul continent d’une seule planète.
 
 Après tout, la Terre n’était pas la seule planète à être menacée de destruction.
 
@@ -332,7 +332,7 @@ Shin Yuseung demanda :
 
 « Ce sont des nébuleuses, non ? Pourquoi nous attaquent-elles ? »
 
-Ce n’était pas certain, mais cela ressemblait aux armes de récit des grandes nébuleuses comme *Vedas* ou *Papyrus*. Lee Jihye grimaca et dit :
+Ce n’était pas certain, mais cela ressemblait aux armes de récit des grandes nébuleuses comme <Vedas> ou <Papyrus>. Lee Jihye grimaca et dit :
 
 « On invoque le *Tortue Géante* ? »
 

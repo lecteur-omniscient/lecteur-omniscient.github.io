@@ -244,7 +244,7 @@ Je l'ai regardée et j'ai dit.
 
 Je me souviens du moment où Anna Croft est apparue pour la première fois dans le *Guide de Survie*.
 
-La prophétesse d'Asgard.
+La prophétesse d'<Asgard>.
 
 Capable d'utiliser librement [Vision du Futur] et [Vision du Passé], elle était un personnage doté d'une compétence contre Yu Junghyeok, le régresseur.
 
@@ -318,7 +318,7 @@ J'ai regardé Anna Croft, qui me lançait un regard plein de mépris, et j'ai di
 
 "...Quoi?"
 
-"Alors Asgard te réévaluerait, non?"
+"Alors <Asgard> te réévaluerait, non?"
 
 Un récit mythique. Les yeux d'Anna Croft ont vacillé à ces mots.
 

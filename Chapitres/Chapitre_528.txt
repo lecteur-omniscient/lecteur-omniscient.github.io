@@ -144,7 +144,7 @@ L'équipe d'Anna, dirigée par Anna Croft, avait choisi de rester dans cette lig
 
 "Le système s'affaiblit, et le monde que j'avais imaginé est sur le point d'arriver. Nous resterons donc ici. Mais parmi nous, il y a quelqu'un qui souhaite partir... Pourriez-vous l'accepter ?"
 
-La seule membre de l'équipe d'Anna à rejoindre *Capture du Calmar* était Selena Kim. Elle sourit timidement, disant simplement qu'elle avait une dette envers Kim Dokja. Han Suyeong vérifia une dernière fois.
+La seule membre de l'équipe d'Anna à rejoindre *Capture du Calmar* était Séléna Kim. Elle sourit timidement, disant simplement qu'elle avait une dette envers Kim Dokja. Han Suyeong vérifia une dernière fois.
 
 "Personne d'autre ne vient ? C'est tout pour l'usine ?"
 
@@ -244,7 +244,7 @@ En raison de l'effondrement du Bureau, la fenêtre de message n'était pas très
 
 [Ce scénario secondaire est facultatif.]
 
-[Puisque le *Star Stream* a été détruit, je ne peux rien vous offrir en récompense. Mais si vous aidez *Kim Dokja & cie*...]
+[Puisque le *Star Stream* a été détruit, je ne peux rien vous offrir en récompense. Mais si vous aidez <Kim Dokja & cie>...]
 
 Biyu sourit, satisfaite de son reflet sur l'écran.
 
@@ -266,7 +266,7 @@ En voyant la foule, Yu Junghyeok fronça les sourcils.
 
 "Il faut en emmener le plus possible. C'est comme ça qu'on pourra sauver plus de gens."
 
-Rien qu'à première vue, il y avait plus de cinq cents candidats. Les membres de *Kim Dokja & cie* vérifièrent méticuleusement chaque candidat, éliminant ceux qui avaient des raisons d'être disqualifiés.
+Rien qu'à première vue, il y avait plus de cinq cents candidats. Les membres de <Kim Dokja & cie> vérifièrent méticuleusement chaque candidat, éliminant ceux qui avaient des raisons d'être disqualifiés.
 
 Yu Junghyeok et Han Suyeong les entraînèrent, leur apprenant les compétences nécessaires.
 
@@ -320,7 +320,7 @@ Les gens qui étaient venus pour devenir des régresseurs se regardèrent. Certa
 
 C'était Asuka Ren.
 
-La Japonaise qui avait combattu aux côtés de *Kim Dokja & cie* dans [Peace Land].
+La Japonaise qui avait combattu aux côtés de <Kim Dokja & cie> dans [Peace Land].
 
 Celle qui avait perdu plus de camarades que quiconque.
 

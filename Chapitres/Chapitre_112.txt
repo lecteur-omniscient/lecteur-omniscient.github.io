@@ -2,7 +2,7 @@
 
 Divinité du Vin et de l'Extase.
 
-Parmi les douze dieux de l'Olympe, seul Dionysos est capable d'utiliser une telle modificateur.
+Parmi les douze dieux de l'<Olympe>, seul Dionysos est capable d'utiliser une telle modificateur.
 
 [La constellation, 'Divinité du Vin et de l'Extase', fredonne une chanson.]
 
@@ -128,7 +128,7 @@ Un son lointain résonna depuis le 'Grand Hall' céleste.
 
 Apparemment, la Divinité d'Outre-Monde avait également remarqué la présence de Dionysos.
 
-Le fait qu'il ait transmis sa volonté directement, sans passer par une incarnation, montrait qu'il était confiant dans sa capacité à gérer les conséquences... En effet, être l'un des douze dieux de l'Olympe devait faire la différence.
+Le fait qu'il ait transmis sa volonté directement, sans passer par une incarnation, montrait qu'il était confiant dans sa capacité à gérer les conséquences... En effet, être l'un des douze dieux de l'<Olympe> devait faire la différence.
 
 Je provoquai délibérément :
 
@@ -156,7 +156,7 @@ D'après ce que je savais, les parents de Dionysos étaient Zeus et Sémélé, l
 
 Héra, jalouse de la relation entre Zeus et Sémélé, se déguisa un jour en nourrice de Sémélé et l'incita avec ces mots :
 
-'Zeus pourrait être un imposteur. Demande-lui de te montrer sa vraie forme lorsqu'il est sur l'Olympe.'
+'Zeus pourrait être un imposteur. Demande-lui de te montrer sa vraie forme lorsqu'il est sur l'<Olympe>.'
 
 Sémélé, trompée, fit cette demande à Zeus, et peu après, elle fut consumée par la lumière émanant de la véritable forme de Zeus.
 
@@ -252,7 +252,7 @@ Comme si j'avais pris de la drogue, des couleurs se répandirent dans mon esprit
 
 Des murmures.
 
-Probablement les dieux de l'Olympe.
+Probablement les dieux de l'<Olympe>.
 
 [La compétence exclusive, 'Quatrième Mur', s'active intensément.]
 

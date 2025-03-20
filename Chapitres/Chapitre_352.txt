@@ -70,9 +70,9 @@ Uriel, paniquée, a tenté de se précipiter vers nous, mais un écran bleu inst
 
 C'était la pire des situations.
 
-[Le Grand Dokkaebi *Vent* attend votre choix.]
+[Le Grand Dokkaebi 'Baram' attend votre choix.]
 
-[Le Grand Dokkaebi *Harong* observe votre décision.]
+[Le Grand Dokkaebi 'Harong' observe votre décision.]
 
 Même les Grands Dokkaebi avaient révélé leur présence.
 
@@ -350,7 +350,7 @@ J'ai repoussé les enfants et me suis avancé.
 
 [La constellation 'Déesse de l'Étoile du Matin' souhaite la victoire du *Bien*.]
 
-[De nombreuses constellations et Rois Démons observent *Kim Dokja & cie*.]
+[De nombreuses constellations et Rois Démons observent <Kim Dokja & cie>.]
 
 Les messages des constellations qui me regardaient marcher.
 

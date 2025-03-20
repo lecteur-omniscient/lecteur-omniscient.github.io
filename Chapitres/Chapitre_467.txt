@@ -10,7 +10,7 @@ Depuis quelques jours, ce message ne cessait de se répéter.
 
 — Oui. »
 
-Ma mère et moi étions assis face à face, sirotant du thé. Nous avons regardé un instant le panneau installé dans le salon de réception de la [Corporation].
+Ma mère et moi étions assis face à face, sirotant du thé. Nous avons regardé un instant le panneau installé dans le salon de réception du Complexe Industriel.
 
 — Le continent américain anéanti ! La prochaine cible des Divinités d'Outre-Monde ?
 
@@ -28,9 +28,9 @@ Je savais très bien ce qu'ils espéraient en venant ici.
 
 [Il reste 6 jours, 8 heures et 24 minutes avant le début du scénario du Grand Cataclysme.]
 
-À l'écran, ma mère, représentant la [Corporation], prenait la parole à ma place.
+À l'écran, ma mère, représentant le Complexe Industriel, prenait la parole à ma place.
 
-La [Corporation] n'empêche pas les nouveaux citoyens. Cependant...
+Le Complexe Industriel n'empêche pas les nouveaux citoyens. Cependant...
 
 Ma mère sourit avec amertume.
 
@@ -38,11 +38,11 @@ Ma mère sourit avec amertume.
 
 — Ça vous va bien. Vous ressemblez à une présidente. »
 
-En réalité, la maîtresse de la [Corporation] n'était plus moi, mais ma mère. Les citoyens d'ici la suivaient bien plus que moi.
+En réalité, la maîtresse du Complexe Industriel n'était plus moi, mais ma mère. Les citoyens d'ici la suivaient bien plus que moi.
 
 « Avant de partir, montre-toi une fois aux habitants de Séoul. Un simple salut de ta part leur donnera beaucoup de force. »
 
-Effectivement, à l'extérieur de la [Corporation], on entendait les voix des journalistes criant dans des mégaphones.
+Effectivement, à l'extérieur du Complexe Industriel, on entendait les voix des journalistes criant dans des mégaphones.
 
 — Roi Démon du Salut ! Est-il vrai que vous êtes de retour ?
 
@@ -162,7 +162,7 @@ Je me souviens vaguement avoir dit quelque chose comme ça.
 
 Bihyeong tourna la tête vers la fenêtre.
 
-Devant la place de la [Corporation], les constellations qui avaient combattu ensemble lors de la bataille de Papyrus étaient rassemblées.
+Devant la place du Complexe Industriel, les constellations qui avaient combattu ensemble lors de la bataille de <Papyrus> étaient rassemblées.
 
 Le Dragon des Flammes Noires, maîtrisé par Uriel, étalé comme un coussin. Perséphone et Hadès, sirotant du thé à une table. Le Grand Saint Céleste, fumant une pipe empruntée à la Guerrière Sainte à l'Épée Fendant les Cieux.
 

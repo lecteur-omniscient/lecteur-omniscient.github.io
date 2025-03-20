@@ -410,7 +410,7 @@ En raison de la consommation de probabilité précédente, elle ne descendit pas
 
 J'ouvris la bouche.
 
-"Olympe. Je veux faire un marché avec vous."
+"<Olympe>. Je veux faire un marché avec vous."
 
 Les étincelles autour de nous devinrent plus agitées.
 

@@ -86,7 +86,7 @@ J'avais envisagé d'utiliser le pouvoir du 'Plus Vieux Rêve' pour produire des 
 
 [La constellation 'Dragon des Abysses Infinies aux Flammes Noires' promet de rendre votre dragon de flammes noires magnifique si vous contractez avec elle...]
 
-[La constellation 'Divinité du Vin et de l'Extase' offre des vins légendaires de l'Olympe en bonus si vous contractez avec elle...]
+[La constellation 'Divinité du Vin et de l'Extase' offre des vins légendaires de l'<Olympe> en bonus si vous contractez avec elle...]
 
 [La constellation 'Roi des Rois' propose un pack de départ intermédiaire si vous contractez avec elle...]
 

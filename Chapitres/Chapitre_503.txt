@@ -230,7 +230,7 @@ Et la queue du Dragon de l'Apocalypse bougea. Très lentement, mais à une vites
 
 Nuwa, paniquée, hurla vers le ciel.
 
-[Que faites-vous ! Fuxi ! Shennong ! Zhurong ! Maudits Trois Souverains et Cinq Empereurs, jusqu'à quand allez-vous rester endormis dans l'abîme !]
+[Que faites-vous ! Fuxi ! Shennong ! Zhurong ! Maudits Trois Souverains et Cinq <Empereur>s, jusqu'à quand allez-vous rester endormis dans l'abîme !]
 
 *Kugugugugugu !*
 

@@ -280,11 +280,11 @@ Pendant ce temps, plusieurs messages indirects me parvinrent du vide.
 
 Des messages de constellations qui voulaient profiter de la situation.
 
-[La constellation, 'Premier Empereur qui Rêvait d'Immortalité', vous fait une proposition.]
+[La constellation, 'Premier <Empereur> qui Rêvait d'Immortalité', vous fait une proposition.]
 
-[La constellation, 'Premier Empereur qui Rêvait d'Immortalité', propose de vous fournir immédiatement une 'herbe d'immortalité' si vous contractez avec elle.]
+[La constellation, 'Premier <Empereur> qui Rêvait d'Immortalité', propose de vous fournir immédiatement une 'herbe d'immortalité' si vous contractez avec elle.]
 
-Premier Empereur qui Rêvait d'Immortalité... Le "roi" chinois, n'est-ce pas ?
+Premier <Empereur> qui Rêvait d'Immortalité... Le "roi" chinois, n'est-ce pas ?
 
 L'herbe d'immortalité était certainement un objet comparable au saint-élixir ou au fruit sacré. Mais même en l'utilisant, Yu Sangah ne pourrait plus être sauvée.
 

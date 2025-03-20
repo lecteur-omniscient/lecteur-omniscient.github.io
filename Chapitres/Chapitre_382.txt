@@ -258,7 +258,7 @@ Peu après, un message de scénario apparut.
 
 Un message de notification coloré apparut également dans le ciel.
 
-[La nébuleuse 'Kim Dokja & cie' a rejoint la 'Guerre Sainte et Démoniaque' !]
+[La nébuleuse '<Kim Dokja & cie>' a rejoint la 'Guerre Sainte et Démoniaque' !]
 
 C'était sûrement l'œuvre des Dokkaebi.
 

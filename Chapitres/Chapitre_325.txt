@@ -240,7 +240,7 @@ Lee Jihye regarda autour d'elle avec un air perplexe.
 
 [Parc à thème, <Gigantomachie>, bienvenue !]
 
-[L'événement 'Les 12 Travaux d'Olympe' est en cours !]
+[L'événement 'Les 12 Travaux d'<Olympe>' est en cours !]
 
 Une foule d'incarnations et de constellations se pressait, se déplaçant avec empressement.
 
@@ -364,7 +364,7 @@ Achille tenait dans sa main la relique [Lance de Frêne], la lance légendaire q
 
 Les incarnations poussèrent des cris d'enthousiasme.
 
-Il était le grand héros d'Olympe.
+Il était le grand héros d'<Olympe>.
 
 Même la Guerrière Sainte à l'Épée Fendant les Cieux ne pourrait pas résister facilement dans une telle situation.
 

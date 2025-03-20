@@ -182,7 +182,7 @@ Après un moment de réflexion, j'ai pris la parole.
 
 "Pour ce match, nous avons décidé de coopérer avec le [Complexe de Berkan]."
 
-[......Vous voulez dire que nous allons unir nos forces avec ces morceaux de Papyrus ?]
+[......Vous voulez dire que nous allons unir nos forces avec ces morceaux de <Papyrus> ?]
 
 "Ce n'est pas le moment de faire la fine bouche."
 

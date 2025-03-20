@@ -328,11 +328,11 @@ Un cliquetis se fit entendre, comme si une serrure tournait.
 
 La puissance du meurtre du dragon réveillait le dragon endormi. Le ciel entier clignota comme une gigantesque ampoule. La moitié de la nuit et la moitié du jour se partagèrent le ciel, et je sentis l’éveil d’un maître de récit d’une ampleur jamais vue auparavant.
 
-[Toutes les constellations de la Nébuleuse *Olympe* sont horrifiées.]
+[Toutes les constellations de la Nébuleuse <Olympe> sont horrifiées.]
 
-[Toutes les constellations de la Nébuleuse *Vedas* exultent.]
+[Toutes les constellations de la Nébuleuse <Vedas> exultent.]
 
-[Toutes les constellations de la Nébuleuse *Papyrus* sont sur leurs gardes.]
+[Toutes les constellations de la Nébuleuse <Papyrus> sont sur leurs gardes.]
 
 Parmi les messages des Nébuleuses, l’ombre du dragon, enfermée dans un dôme hémisphérique, commença à se révéler.
 

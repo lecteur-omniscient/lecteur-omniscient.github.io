@@ -226,9 +226,9 @@ Les gens se turent.
 
 Je levai les yeux vers le message flottant dans les airs.
 
-[Le genre de ce scénario est “Kim Dokja & cie”.]
+[Le genre de ce scénario est “<Kim Dokja & cie>”.]
 
-Kim Dokja & cie. Un tel genre n’existait pas dans le monde. Mais ce n’est pas parce qu’un tel genre n’existait pas qu’on ne pouvait rien raconter.
+<Kim Dokja & cie>. Un tel genre n’existait pas dans le monde. Mais ce n’est pas parce qu’un tel genre n’existait pas qu’on ne pouvait rien raconter.
 
 “<Kim Dokja & cie> n’est aucun genre.”
 

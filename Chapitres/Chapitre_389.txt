@@ -28,7 +28,7 @@ Malgré son air embarrassé, sa voix semblait plutôt amusée.
 
 [La lutte ancestrale entre un père et son fils, avec une mère au milieu...]
 
-...C’était une narration profondément contaminée par l’esprit de l’Olympe.
+...C’était une narration profondément contaminée par l’esprit de l’<Olympe>.
 
 Perséphone me tapota l’épaule comme pour me rassurer. Aussitôt, la tension qui avait figé mes muscles sous l’effet de la pression d’Hadès se dissipa.
 
@@ -134,7 +134,7 @@ Perséphone coupa un morceau de nourriture dans l’assiette devant elle tout en
 
 “Que voulez-vous dire... ?”
 
-[L’Olympe est tombé, et le Royaume des Enfers a perdu son ancien prestige. Se contenter du titre de ‘Roi des Enfers’ maintenant, c’est comme graver son nom à la fin d’un récit en déclin.]
+[L’<Olympe> est tombé, et le Royaume des Enfers a perdu son ancien prestige. Se contenter du titre de ‘Roi des Enfers’ maintenant, c’est comme graver son nom à la fin d’un récit en déclin.]
 
 “Le Royaume des Enfers est un bon récit.”
 
@@ -198,7 +198,7 @@ Je ne savais pas que Perséphone portait un tel Héritage Éternel.
 
 La main de Perséphone effleura doucement mes cheveux.
 
-[Au début, j’ai attendu, espérant un miracle. Peut-être que cette fois, un enfant magnifique, qui se souviendrait de notre histoire, naîtrait. Bien que cet endroit ne soit fait que de ténèbres, d’enfer et de prison, si une chance nous était donnée, je savais que nous pourrions élever un enfant mieux que n’importe lequel des douze dieux de l’Olympe. Je lui aurais appris à comprendre les ténèbres des autres, à connaître l’enfer de ceux qui ne peuvent ressentir d’empathie, et à voir la prison qui punit le mal écrasant la justice du monde.]
+[Au début, j’ai attendu, espérant un miracle. Peut-être que cette fois, un enfant magnifique, qui se souviendrait de notre histoire, naîtrait. Bien que cet endroit ne soit fait que de ténèbres, d’enfer et de prison, si une chance nous était donnée, je savais que nous pourrions élever un enfant mieux que n’importe lequel des douze dieux de l’<Olympe>. Je lui aurais appris à comprendre les ténèbres des autres, à connaître l’enfer de ceux qui ne peuvent ressentir d’empathie, et à voir la prison qui punit le mal écrasant la justice du monde.]
 
 “......”
 
@@ -206,7 +206,7 @@ La main de Perséphone effleura doucement mes cheveux.
 
 Les doigts de Perséphone tremblaient légèrement.
 
-Je n’osais pas comprendre la signification de ce tremblement. Je ne pouvais même pas mesurer la douleur contenue dans chaque mot, la haine envers l’Olympe.
+Je n’osais pas comprendre la signification de ce tremblement. Je ne pouvais même pas mesurer la douleur contenue dans chaque mot, la haine envers l’<Olympe>.
 
 Perséphone reprit la parole après avoir repris son souffle.
 

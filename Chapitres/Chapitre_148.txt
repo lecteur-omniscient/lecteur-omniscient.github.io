@@ -174,7 +174,7 @@ En me retournant, je vis une belle femme qui semblait être un mélange d'Est et
 
 Je me sentis soudainement heureux. Je ne m'attendais pas à ce qu'elle m'adresse la parole en premier.
 
-"Enchanté. Selena Kim."
+"Enchanté. Séléna Kim."
 
 "Vous me connaissez ?"
 
@@ -192,7 +192,7 @@ Mais je la connaissais.
 
 <Résumé des personnages>
 
-Personnage : Selena Kim
+Personnage : Séléna Kim
 
 Caractéristiques exclusives : Amoureuse des animaux (rare), Gardienne du Roi (héroïque)
 
@@ -200,7 +200,7 @@ Constellation de soutien : Cessez-le-feu de la Guerre
 
 +
 
-Selena Kim du *Dôme de Washington*.
+Séléna Kim du *Dôme de Washington*.
 
 Elle était membre du *Zarathoustra* créé par Anna Croft et deviendrait l'une des 100 incarnations les plus fortes du *Guide de Survie*. Le *Roi de la Non-Violence* que j'avais autrefois était à l'origine une caractéristique qu'elle aurait obtenue.
 
@@ -246,7 +246,7 @@ Une jeune fille aux petites couettes était là.
 
 "Je suis censé te connaître ?"
 
-Selena Kim intervint, ne supportant plus la situation.
+Séléna Kim intervint, ne supportant plus la situation.
 
 "Ahjussiokja, laissez-moi vous présenter. Voici Iris. Elle est la représentante de la Russie. En Russie, on l'appelle 'L'Éclair de la Place Rouge'."
 
@@ -256,7 +256,7 @@ Je hochai la tête.
 
 Un surnom plein de prétention, j'avais envie de lancer une pique, mais je décidai de ne pas créer de problèmes.
 
-Selena Kim continua.
+Séléna Kim continua.
 
 "Iris, voici Kim Dokja. Il est le représentant de la Corée, et son surnom est... Euh, désolée, mais monsieurDokja, votre surnom est..."
 
@@ -310,9 +310,9 @@ Les constellations et les incarnations peuvent interagir non seulement à traver
 
 Nous nous dirigeâmes un par un vers la salle de banquet.
 
-Le premier nom appelé fut celui de Selena Kim.
+Le premier nom appelé fut celui de Séléna Kim.
 
-[Selena Kim ! Gardienne du Roi !]
+[Séléna Kim ! Gardienne du Roi !]
 
 [Nous suivons tes exploits avec attention !]
 

@@ -60,7 +60,7 @@ Je me demandais si c'était bien de raconter des histoires aussi farfelues, mais
 
 [De nombreux spectateurs s'intéressent à la légende de la nébuleuse <Kim Dokja & cie>.]
 
-À ce stade, je ne savais plus si c'était *La Pérégrination vers l'Ouest* ou *Les Aventures Chaotiques de Kim Dokja & cie*.
+À ce stade, je ne savais plus si c'était *La Pérégrination vers l'Ouest* ou *Les Aventures Chaotiques de <Kim Dokja & cie>*.
 
 Peut-être que c'était ce que Han Suyeong visait.
 

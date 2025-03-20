@@ -462,7 +462,7 @@ Et à cet instant, un message de scénario explosa devant moi.
 
 [Vous n'avez choisi aucun genre.]
 
-[Le choix caché, 'Genre : Kim Dokja & cie', s'active !]
+[Le choix caché, 'Genre : <Kim Dokja & cie>', s'active !]
 
 .
 
