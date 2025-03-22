@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script defer src="https://cloud.umami.is/script.js" data-website-id="710824cb-d3a2-42d3-85b2-53c56449de98"></script>
+    <!-- Import chapter titles data -->
+    <script src="./chapter-titles.js"></script>
     <title>Le Point de Vue du Lecteur Omniscient</title>
     <style>
         body {
@@ -112,6 +114,10 @@
             color: #aaa;
         }
 
+        body.dark-mode a {
+            color: #88ccff;
+        }
+
         /* Responsive adjustments */
         @media (max-width: 600px) {
             body {
@@ -161,7 +167,6 @@
     <div class="chapter-selection">
         <label for="chapter-selector">🚀 Aller au chapitre:</label>
         <select id="chapter-selector"></select>
-        <!-- Removed the "Charger" button -->
     </div>
 
     <div id="chapter-content"></div>
@@ -194,14 +199,12 @@
             let chapters = [];
             for (let i = 0; i <= 551; i++) {
                 let fileName = `./Chapitres/Chapitre_${String(i).padStart(3, '0')}.txt`;
-                // Check if the file exists (optional)
                 chapters.push(fileName);
             }
             return chapters;
         }
 
         let chapters = [];
-        let chapterTitles = {}; // Object to store chapter titles
         let currentChapterIndex = 0;
         let isDarkMode = true; // Track dark mode state
 
@@ -253,24 +256,6 @@
             
             return text;
         }
-        // Extract chapter title from content (first line)
-        function extractTitle(text) {
-            const firstLine = text.trim().split('\n')[0];
-            return firstLine.trim();
-        }
-
-        // Fetch chapter title
-        async function fetchChapterTitle(chapter, index) {
-            try {
-                const response = await fetch(chapter);
-                const text = await response.text();
-                const title = extractTitle(text);
-                return { index, title };
-            } catch (error) {
-                console.error(`Error fetching chapter ${index} title:`, error);
-                return { index, title: `Chapitre ${index + 1}` };
-            }
-        }
 
         // Load chapter content
         async function loadChapter(index) {
@@ -281,12 +266,6 @@
             try {
                 const response = await fetch(chapters[index]);
                 const text = await response.text();
-                
-                // Get title if not already cached
-                if (!chapterTitles[index]) {
-                    chapterTitles[index] = extractTitle(text);
-                    updateChapterOption(index, chapterTitles[index]);
-                }
                 
                 // Use innerHTML to render HTML (including bold tags)
                 chapterContent.innerHTML = processText(text);
@@ -306,33 +285,23 @@
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
-        // Update chapter option text with title
-        function updateChapterOption(index, title) {
-            const option = chapterSelector.querySelector(`option[value="${index}"]`);
-            if (option) {
-                // Extract text between ** markers (bold text)
-                const trueTitleMatch = title.match(/\*\*([^\*]+)\*\*/);
-                const trueTitle = trueTitleMatch ? trueTitleMatch[1] : title;
-                option.textContent = `${trueTitle}`;
-            }
-        }
-
-        // Populate chapter selector initially with placeholder titles
+        // Populate chapter selector with pre-loaded titles
         function populateChapterSelector(chapters) {
             chapterSelector.innerHTML = '';
+            
             chapters.forEach((chapter, index) => {
                 const option = document.createElement('option');
                 option.value = index;
                 
                 // Extract chapter number from filename
                 const chapterMatch = chapter.match(/Chapitre_(\d+)/);
-                const chapterNumber = chapterMatch ? chapterMatch[1] : index + 1;
+                const chapterNumber = chapterMatch ? parseInt(chapterMatch[1]) : index;
                 
-                // Use cached title if available, otherwise placeholder
-                if (chapterTitles[index]) {
-                    option.textContent = `${parseInt(chapterNumber)}. ${chapterTitles[index]}`;
+                // Use pre-loaded title if available
+                if (chapterTitlesData && chapterTitlesData[chapterNumber]) {
+                    option.textContent = `${chapterNumber}. ${chapterTitlesData[chapterNumber]}`;
                 } else {
-                    option.textContent = `Chapitre ${parseInt(chapterNumber)}`;
+                    option.textContent = `Chapitre ${chapterNumber}`;
                 }
                 
                 chapterSelector.appendChild(option);
@@ -350,28 +319,6 @@
             darkModeToggle_bottom.textContent = buttonText;
         }
 
-        // Fetch all chapter titles in background (first 20 initially)
-        async function fetchChapterTitles(start, count) {
-            const promises = [];
-            const end = Math.min(start + count, chapters.length);
-            
-            for (let i = start; i < end; i++) {
-                promises.push(fetchChapterTitle(chapters[i], i));
-            }
-            
-            const results = await Promise.all(promises);
-            
-            results.forEach(result => {
-                chapterTitles[result.index] = result.title;
-                updateChapterOption(result.index, result.title);
-            });
-            
-            // If more chapters remain, fetch the next batch
-            if (end < chapters.length) {
-                setTimeout(() => fetchChapterTitles(end, count), 1000);
-            }
-        }
-
         async function initReader() {
             // Get list of txt files
             chapters = await getTextFiles();
@@ -379,14 +326,11 @@
             // Sort chapters alphabetically to ensure consistent order
             chapters.sort();
 
-            // Populate chapter selector dropdown with placeholder titles
+            // Populate chapter selector dropdown with pre-loaded titles
             populateChapterSelector(chapters);
 
             // Load first chapter
             await loadChapter(0);
-            
-            // Start fetching chapter titles in the background (20 at a time)
-            fetchChapterTitles(0, 20);
         }
 
         // Event Listeners

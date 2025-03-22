@@ -6,7 +6,7 @@
 
 [Votre rang dans le Royaume des Démons est ajusté !]
 
-[Vous êtes devenu le 'Roi Démon du 72e Royaume des Démons' !]
+[Vous êtes devenu le 'Roi Démon du 72ème Royaume des Démons' !]
 
 Je passai devant Jo Jincheol, qui se désintégrait en cendres, et jetai un regard derrière moi. Là-bas, deux autres rois démons étaient encore sous le choc.
 
@@ -78,7 +78,7 @@ Un jet de sang jaillit, et la tête d'une incarnation distraite roula sur le sol
 
 [Votre rang dans le Royaume des Démons est ajusté !]
 
-[Vous êtes devenu le 'Roi Démon du 71e Royaume des Démons' !]
+[Vous êtes devenu le 'Roi Démon du 71ème Royaume des Démons' !]
 
 Je tournai mon regard vers le dernier roi démon restant, 'Amdusias, le Corniste Joueur'.
 
@@ -150,7 +150,7 @@ Que la colère qu'il ressentait maintenant n'était pas entièrement la sienne.
 
 Enfin, le concert de l'enfer commença.
 
-Les ondes sonores, remplies de la magie du 67e Royaume des Démons, envahirent le ciel.
+Les ondes sonores, remplies de la magie du 67ème Royaume des Démons, envahirent le ciel.
 
 "Ahhhhh !"
 
@@ -232,7 +232,7 @@ C'était à ce point que l'écart de puissance était écrasant.
 
 [Votre rang dans le Royaume des Démons est ajusté !]
 
-[Vous êtes devenu le 'Roi Démon du 67e Royaume des Démons' !]
+[Vous êtes devenu le 'Roi Démon du 67ème Royaume des Démons' !]
 
 [Votre renommée se répand dans tout le Royaume des Démons !]
 
@@ -366,7 +366,7 @@ Je leur fis un signe de la main.
 
 Un message système scintillant apparut dans les airs.
 
-[Au représentant de <Kim Dokja & cie>, maître du 73e Royaume des Démons.]
+[Au représentant de <Kim Dokja & cie>, maître du 73ème Royaume des Démons.]
 
 Au moment où j'allais toucher le message, quelqu'un parla derrière moi.
 

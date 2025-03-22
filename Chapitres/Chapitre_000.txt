@@ -3,7 +3,7 @@
 *Bienvenue à toi,*
 
 Tu trouveras ici une traduction réalisée par un·e fan du Point de Vue du Lecteur Omniscient (aussi connu sous le nom de Lecteur Omniscient, ou par son nom anglais Omniscient Reader's Viewpoint). Cette traduction est donc non-officielle (il n'existe pas de traduction officielle du webroman en français). Je vous invite donc très fortement à soutenir les auteur·ices de ce webroman en achetant l'oeuvre originale sur <a href="https://novel.munpia.com/104753" target="__blank">Munpia</a> ou <a href="https://m.series.naver.com/novel/detail.series?productNo=3400123" target="__blank">Naver</a>. Cette traduction a été réalisée depuis la version originale en coréen, de manière semi-automatisée à l'aide de modèles d'Intelligence Artificielle (et de mon travail manuel). Je répertorie sur cette page des explications sur ce travail et mes choix de traduction. Si vous souhaitez démarrer d'où le Webtoon est rendu actuellement, rendez-vous au début de l'épisode 41. 
-Toute remarque ou demande de modification du texte peut être réalisée sur le dépôt GitHub de ce projet (oui, l'ensemble des fichiers traduits sont disponibles en open source et gratuitement) ou par mail : point-de-vue-du-lecteur-omniscient@protonmail.com.
+Toute remarque ou demande de modification du texte peut être réalisée sur le dépôt GitHub de ce projet (oui, l'ensemble des fichiers traduits sont disponibles en open source, gratuitement et sans publicité) ou par mail : **point-de-vue-du-lecteur-omniscient@protonmail.com**.
 Bonne lecture !
 
 **Pourquoi faire une traduction ?**
