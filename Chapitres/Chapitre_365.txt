@@ -46,7 +46,7 @@ Il fallait bien dire ça ici. Surtout pour convaincre Asmodée, qui n’était p
 
 En réalité, Asmodée semblait assez tourmenté.
 
-"Réfléchis bien. Tu as besoin du caractère [sal], non ? En plus, tu pourras obtenir la légende d’un archange. ‘Celui qui a chassé un grand archange’. Juste d’y penser, ça te donne des frissons, non ?"
+"Réfléchis bien. Tu as besoin du caractère [sal], non ? En plus, tu pourras obtenir le récit d’un archange. ‘Celui qui a chassé un grand archange’. Juste d’y penser, ça te donne des frissons, non ?"
 
 Mais Asmodée ne se laissa pas convaincre si facilement.
 
@@ -348,7 +348,7 @@ Vraiment, Asmodée.
 
 C’était un combat à couper le souffle.
 
-"Allons-y. Si nous ne faisons rien, ce roi démon va s’emparer de la légende mythique."
+"Allons-y. Si nous ne faisons rien, ce roi démon va s’emparer du récit mythique."
 
 "Pas encore."
 
@@ -358,7 +358,7 @@ Elle ne pouvait pas savoir, n’ayant pas encore utilisé sa [Vision du Futur] p
 
 Ce qui allait se passer.
 
-[La légende, ‘Le Mal qui détruit le Mal’, commence son récit.]
+[Le récit, ‘Le Mal qui détruit le Mal’, commence son récit.]
 
 Une aura noire se rassembla autour de Michael comme un bourgeon.
 

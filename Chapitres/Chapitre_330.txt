@@ -58,11 +58,11 @@ Qu'il avait un corps forgé dans l'acier.
 
 Qu'il était le protecteur d'<Olympe>.
 
-[La légende, 'Celui qui a étranglé le lion de Némée', commence son récit.]
+[Le récit, 'Celui qui a étranglé le lion de Némée', commence son récit.]
 
-[La légende, 'Celui qui a battu le sanglier géant', commence son récit.]
+[Le récit, 'Celui qui a battu le sanglier géant', commence son récit.]
 
-[La légende, 'Celui qui a maîtrisé Cerbère à mains nues', commence son récit.]
+[Le récit, 'Celui qui a maîtrisé Cerbère à mains nues', commence son récit.]
 
 ······.
 
@@ -218,7 +218,7 @@ Je fixai Héraclès.
 
 [Compétence exclusive, 'Compréhension Écrite', activée !]
 
-[Grâce à l'effet de la caractéristique, la structure générale de la légende de l'adversaire a été comprise !]
+[Grâce à l'effet de la caractéristique, la structure générale du récit de l'adversaire a été comprise !]
 
 « Il est né uniquement pour la guerre, le dieu de la guerre »
 
@@ -226,9 +226,9 @@ Je fixai Héraclès.
 
 « À chaque pas qu'il franchit dans le 'conflit', il laissait derrière lui la 'discorde' »
 
-Les légendes des constellations qui s'écoulaient à travers le corps du géant de guerre Héraclès.
+Les récits des constellations qui s'écoulaient à travers le corps du géant de guerre Héraclès.
 
-Ce n'était pas la légende d'Héraclès.
+Ce n'était pas le récit d'Héraclès.
 
 Héraclès était un géant de guerre.
 
@@ -268,7 +268,7 @@ Je m'envolai dans les airs et me glissai dans le cockpit de Pluton.
 
 [Le 'géant de guerre Pluton' a confirmé la constellation du maître.]
 
-[La légende du 'géant de guerre Pluton' fusionne avec la vôtre.]
+[Le récit du 'géant de guerre Pluton' fusionne avec la vôtre.]
 
 Le confort du géant de guerre enveloppant tout mon corps. En ouvrant les yeux avec la sensation de muscles doux enveloppant tout mon corps, je pouvais voir à travers les yeux du 'géant de guerre'.
 
@@ -364,9 +364,9 @@ Moi aussi, je me préparai pour le combat.
 
 L'énergie blanche et pure provenant de [Perfection Humaine] et le rang du Roi Démoniaque. Par-dessus, le récit gigantesque de <Kim Dokja & cie> fut ajoutée.
 
-J'avais libéré toutes les légendes que j'avais cachées jusqu'à présent.
+J'avais libéré toutes les récits que j'avais cachées jusqu'à présent.
 
-La légende que j'avais libérée était amplifiée à un niveau incroyable grâce à l'effet de buff de Pluton.
+Le récit que j'avais libérée était amplifiée à un niveau incroyable grâce à l'effet de buff de Pluton.
 
 Arès était stupéfait.
 

@@ -212,7 +212,7 @@ Un regard sans joie ni tristesse.
 
 [Vous avez obtenu 150 000 pièces.]
 
-[Vous avez obtenu la légende 'Paradis du Désespoir'.]
+[Vous avez obtenu le récit 'Paradis du Désespoir'.]
 
 [Votre rang dans l'Étoile Noire a été ajusté.]
 
@@ -296,7 +296,7 @@ En observant le groupe à la troisième personne, je frissonnai en entendant ces
 
 [Les habitants du <Paradis> se souviennent de 'Kim Dokja, le Libérateur du Paradis'.]
 
-[La légende 'Le Messie Solitaire' s'est enrichie.]
+[Le récit 'Le Messie Solitaire' s'est enrichie.]
 
 Je ne comprenais pas bien la situation.
 

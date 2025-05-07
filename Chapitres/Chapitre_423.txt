@@ -158,7 +158,7 @@ Je prononçai une incantation.
 
 Ces mots me transpercèrent comme une lame.
 
-C'était vrai. Je n'étais qu'une constellation qui avait convoité les légendes et observé les histoires.
+C'était vrai. Je n'étais qu'une constellation qui avait convoité les récits et observé les histoires.
 
 Mais en tant que telle, je pouvais aussi comprendre certaines choses.
 
@@ -290,7 +290,7 @@ Classification : Caché
 
 Difficulté : ???
 
-Condition de réussite : Faites apparaître les *Divinités d'Outre-Monde* dans les principales légendes de <Star Stream>. Cependant, ils ne doivent pas apparaître dans leur rôle habituel de *Divinités d'Outre-Monde*.
+Condition de réussite : Faites apparaître les *Divinités d'Outre-Monde* dans les principaux récits de <Star Stream>. Cependant, ils ne doivent pas apparaître dans leur rôle habituel de *Divinités d'Outre-Monde*.
 
 Temps limite : 100 jours
 

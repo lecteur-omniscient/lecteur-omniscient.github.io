@@ -2,13 +2,13 @@
 
 Un jour, une constellation avait laissé ces mots :
 
-« "Toutes les légendes ont des défauts. Cela signifie que toutes les légendes peuvent être perfectionnées." »
+« "Toutes les récits ont des défauts. Cela signifie que toutes les récits peuvent être perfectionnées." »
 
-La légende de rang légendaire, *Interprète Arbitraire*.
+Le récit de rang légendaire, *Interprète Arbitraire*.
 
 Cette légende avait été créée par une constellation de rang épique qui avait prononcé ces mots.
 
-[La légende, *Interprète Arbitraire*, cherche une cible à interpréter.]
+[Le récit, *Interprète Arbitraire*, cherche une cible à interpréter.]
 
 Je me suis relevé en écartant les débris de l'immeuble effondré.
 
@@ -18,13 +18,13 @@ Je me suis relevé en écartant les débris de l'immeuble effondré.
 
 [Grroooaaaah...]
 
-[La légende, rends-nous le noyau.]
+[Le récit, rends-nous le noyau.]
 
 Des incarnations d'environ cinq mètres de haut m'encerclaient.
 
 Un géant avec une tête de serpent rappelant Orochi, un énorme rat, et enfin un chien enflammé ressemblant à Cerbère.
 
-Lors de ma visite à la Guilde de la Gastronomie, le *Fabricant de Produits de Masse* avait dit ceci :
+Lors de ma visite à l'Association de Gastronomie, le *Fabricant de Produits de Masse* avait dit ceci :
 
 — Toutes les constellations ne possèdent pas un tempérament digne de leur rang.
 
@@ -84,7 +84,7 @@ Même si ce sont des animaux, ce sont des constellations qui ont atteint le rang
 
 À l'origine, cette compétence ne me permettait pas de les analyser.
 
-[L'effet de la légende, *Celui qui a regardé dans l'abîme*, augmente la maîtrise de toutes vos compétences.]
+[L'effet du récit, *Celui qui a regardé dans l'abîme*, augmente la maîtrise de toutes vos compétences.]
 
 [L'effet de la compétence exclusive 'Profil du Personnage', est amplifié !]
 
@@ -126,7 +126,7 @@ Le poing de *Serpent Nouveau Riche* a frôlé mon épaule. Le corps-à-corps de 
 
 [L'effet de la caractéristique augmente considérablement la vitesse de lecture.]
 
-Sans reculer, j'ai lu toutes les légendes de ces créatures.
+Sans reculer, j'ai lu toutes les récits de ces créatures.
 
 Même si elles se prétendent constellations, elles possèdent un nombre respectable de légendes.
 
@@ -156,7 +156,7 @@ Le [Manteau de l'Espace aux Dimensions Infinies] ne pouvait pas supporter une te
 
 Crack, crack, crack !
 
-Des fragments de la légende qui composait l'incarnation ont commencé à tomber comme des éclats.
+Des fragments du récit qui composait l'incarnation ont commencé à tomber comme des éclats.
 
 [Les constellations qui aiment les histoires cruelles sont excitées.]
 
@@ -184,7 +184,7 @@ Elles sont trop occupées à survivre.
 
 "Vous êtes vraiment pitoyables. Vous savez, la plupart des constellations ont au moins une légende de 'roi'..."
 
-[La légende, *Interprète Arbitraire*, prête attention à vos paroles.]
+[Le récit, *Interprète Arbitraire*, prête attention à vos paroles.]
 
 Qu'il s'agisse d'un serpent, d'un rat, d'un chien ou d'un humain.
 
@@ -198,21 +198,21 @@ Mais les créatures devant moi n'en avaient pas.
 
 À cet instant, une lumière vive a jailli de mon corps.
 
-[La légende, *Interprète Arbitraire*, a trouvé une histoire à interpréter !]
+[Le récit, *Interprète Arbitraire*, a trouvé une histoire à interpréter !]
 
-La légende, *Interprète Arbitraire*.
+Le récit, *Interprète Arbitraire*.
 
 Cette légende n'a pas le pouvoir d'améliorer la puissance de combat.
 
-[La légende, *Interprète Arbitraire*, commence à interpréter une légende.]
+[Le récit, *Interprète Arbitraire*, commence à interpréter une légende.]
 
 En revanche, cette légende peut réveiller le potentiel des légendes qui n'ont pas encore trouvé leur véritable pouvoir.
 
 Peu importe la direction.
 
-[La légende, *Roi d'un Monde sans Roi*, a été interprétée !]
+[Le récit, *Roi d'un Monde sans Roi*, a été interprétée !]
 
-[La légende, *Roi d'un Monde sans Roi*, commence à raconter son histoire.]
+[Le récit, *Roi d'un Monde sans Roi*, commence à raconter son histoire.]
 
 Grrrrrrrr !
 
@@ -226,9 +226,9 @@ Le serpent dont les écailles avaient été déchirées a hurlé de douleur.
 
 « En ce moment, ce monde est un monde sans roi. »
 
-Une quantité colossale de mana s'est échappée alors que la légende commençait à raconter son histoire.
+Une quantité colossale de mana s'est échappée alors que le récit commençait à raconter son histoire.
 
-La raison pour laquelle j'avais vérifié les légendes des constellations était simple.
+La raison pour laquelle j'avais vérifié les récits des constellations était simple.
 
 C'était pour utiliser ce pouvoir.
 
@@ -238,7 +238,7 @@ Une épée que j'avais gardée dans mon sein a émis une lumière éblouissante 
 
 Épée du Carnage en Quatre Mouvements.
 
-L'épée que j'avais utilisée pour briser le [Trône Absolu], et l'arme que j'avais utilisée pour obtenir la légende *Roi d'un Monde sans Roi*. Cette arme, réagissant à ma légende, retrouvait sa véritable forme.
+L'épée que j'avais utilisée pour briser le [Trône Absolu], et l'arme que j'avais utilisée pour obtenir le récit *Roi d'un Monde sans Roi*. Cette arme, réagissant à ma légende, retrouvait sa véritable forme.
 
 « Il règne sur tous les êtres qui ne sont pas des rois. »
 
@@ -270,7 +270,7 @@ Mais je ne laisserai aucune de ces créatures s'échapper.
 
 "Arrête."
 
-[L'effet de la légende, *Roi d'un Monde sans Roi*, s'active.]
+[L'effet du récit, *Roi d'un Monde sans Roi*, s'active.]
 
 Crack, crack, crack !
 
@@ -290,7 +290,7 @@ Seuls ceux qui possèdent une légende de "roi" peuvent rester intacts face à c
 
 [La constellation, 'Prisonnier du Bandeau d'Or', est ravie.]
 
-[Le démon roi, *Démon de la Luxure et de la Fureur*, vous observe.]
+[Le Roi Démon, *Démon de la Luxure et de la Fureur*, vous observe.]
 
 Alors que le roi des singes et le roi des 32 Royaumes des Démons me regardaient, l'Épée du Carnage en Quatre Mouvements a bougé.
 
@@ -310,7 +310,7 @@ La chair de *Serpent Nouveau Riche*, tranchée par l'Aura de Pouvoir Blanche, a 
 
 J'ai retiré l'Épée du Carnage en Quatre Mouvements plantée dans le crâne de *Serpent Nouveau Riche*.
 
-[Le démon roi, *Oiseau de Nuit aux Griffes d'Argent*, se réjouit de votre massacre.]
+[Le Roi Démon, *Oiseau de Nuit aux Griffes d'Argent*, se réjouit de votre massacre.]
 
 [Vous avez reçu 2 000 pièces.]
 
@@ -370,7 +370,7 @@ Grrrrrr !
 
 D'autres constellations, me visant de loin, se précipitaient vers moi.
 
-[L'effet de la légende, *Interprète Arbitraire*, a pris fin.]
+[L'effet du récit, *Interprète Arbitraire*, a pris fin.]
 
 L'utilisation excessive de mana m'avait laissé dans un état où j'avais besoin de récupérer.
 
