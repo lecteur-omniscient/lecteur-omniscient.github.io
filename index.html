@@ -202,7 +202,6 @@
                 fontSize: fontSizeSelector.value,
                 darkMode: isDarkMode
             };
-            console.log(preferences)
             localStorage.setItem('readerPreferences', JSON.stringify(preferences));
         }
 
@@ -388,8 +387,7 @@
 
             // Load user preferences
             const preferences = loadUserPreferences();
-            console.log("ljsbgvnjl")
-            console.log(preferences)
+            
             // Apply preferences to interface
             if (preferences) {
                 applyPreferences(preferences);
