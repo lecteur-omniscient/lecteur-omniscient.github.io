@@ -194,6 +194,57 @@
     </div>
 
     <script>
+        // Save user preferences to localStorage
+        function saveUserPreferences() {
+            const preferences = {
+                currentChapter: currentChapterIndex,
+                fontFamily: fontSelector.value,
+                fontSize: fontSizeSelector.value,
+                darkMode: isDarkMode
+            };
+            console.log(preferences)
+            localStorage.setItem('readerPreferences', JSON.stringify(preferences));
+        }
+
+        // Load user preferences from localStorage
+        function loadUserPreferences() {
+            const saved = localStorage.getItem('readerPreferences');
+            if (saved) {
+                try {
+                    return JSON.parse(saved);
+                } catch (e) {
+                    console.warn('Could not parse saved preferences:', e);
+                    return null;
+                }
+            }
+            return null;
+        }
+
+        // Apply loaded preferences to the interface
+        function applyPreferences(preferences) {
+            if (!preferences) return;
+            
+            // Apply font family
+            if (preferences.fontFamily) {
+                document.body.className = document.body.className.replace(/font-\w+/, '');
+                document.body.classList.add(preferences.fontFamily);
+                fontSelector.value = preferences.fontFamily;
+                fontSelector_bottom.value = preferences.fontFamily;
+            }
+            
+            // Apply font size
+            if (preferences.fontSize) {
+                document.body.style.fontSize = preferences.fontSize;
+                fontSizeSelector.value = preferences.fontSize;
+                fontSizeSelector_bottom.value = preferences.fontSize;
+            }
+            
+            // Apply dark mode (only if different from current state)
+            if (preferences.darkMode !== undefined && preferences.darkMode !== isDarkMode) {
+                toggleDarkMode();
+            }
+        }
+
         async function getTextFiles() {
             // Generate file names based on the known naming convention 'Chapitre_XXX.txt'
             let chapters = [];
@@ -280,9 +331,11 @@
                 // Update chapter selector
                 chapterSelector.value = index;
 
-                saveUserPreferences();
+                setTimeout(() => {
+                    saveUserPreferences();
+                }, 100);
             } catch (error) {
-                chapterContent.textContent = `Error loading chapter: ${error.message}`;
+                chapterContent.textContent = `Erreur durant le chargement du chapitre : ${error.message}`;
             }
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
@@ -323,56 +376,6 @@
             saveUserPreferences();
         }
 
-        // Save user preferences to localStorage
-        function saveUserPreferences() {
-            const preferences = {
-                currentChapter: currentChapterIndex,
-                fontFamily: fontSelector.value,
-                fontSize: fontSizeSelector.value,
-                darkMode: isDarkMode
-            };
-            localStorage.setItem('readerPreferences', JSON.stringify(preferences));
-        }
-
-        // Load user preferences from localStorage
-        function loadUserPreferences() {
-            const saved = localStorage.getItem('readerPreferences');
-            if (saved) {
-                try {
-                    return JSON.parse(saved);
-                } catch (e) {
-                    console.warn('Could not parse saved preferences:', e);
-                    return null;
-                }
-            }
-            return null;
-        }
-
-        // Apply loaded preferences to the interface
-        function applyPreferences(preferences) {
-            if (!preferences) return;
-            
-            // Apply font family
-            if (preferences.fontFamily) {
-                document.body.className = document.body.className.replace(/font-\w+/, '');
-                document.body.classList.add(preferences.fontFamily);
-                fontSelector.value = preferences.fontFamily;
-                fontSelector_bottom.value = preferences.fontFamily;
-            }
-            
-            // Apply font size
-            if (preferences.fontSize) {
-                document.body.style.fontSize = preferences.fontSize;
-                fontSizeSelector.value = preferences.fontSize;
-                fontSizeSelector_bottom.value = preferences.fontSize;
-            }
-            
-            // Apply dark mode (only if different from current state)
-            if (preferences.darkMode !== undefined && preferences.darkMode !== isDarkMode) {
-                toggleDarkMode();
-            }
-        }
-
         async function initReader() {
             // Get list of txt files
             chapters = await getTextFiles();
@@ -385,9 +388,14 @@
 
             // Load user preferences
             const preferences = loadUserPreferences();
-            
+            console.log("ljsbgvnjl")
+            console.log(preferences)
             // Apply preferences to interface
-            applyPreferences(preferences);
+            if (preferences) {
+                applyPreferences(preferences);
+            } else {
+                toggleDarkMode();
+            }
 
             // Load the saved chapter or default to first chapter
             const chapterToLoad = preferences && preferences.currentChapter !== undefined 
@@ -444,10 +452,7 @@
         chapterSelector.addEventListener('change', () => {
             const selectedIndex = parseInt(chapterSelector.value);
             loadChapter(selectedIndex);
-            saveUserPreferences();
         });
-
-        toggleDarkMode();
         // Initial load
         initReader();
     </script>
