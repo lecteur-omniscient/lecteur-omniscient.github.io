@@ -239,7 +239,7 @@
             }
             
             // Apply dark mode (only if different from current state)
-            if (preferences.darkMode !== undefined && preferences.darkMode !== isDarkMode) {
+            if (preferences.darkMode !== undefined && preferences.darkMode === isDarkMode) {
                 toggleDarkMode();
             }
         }
