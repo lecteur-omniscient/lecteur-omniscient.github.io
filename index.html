@@ -279,6 +279,8 @@
                 
                 // Update chapter selector
                 chapterSelector.value = index;
+
+                saveUserPreferences();
             } catch (error) {
                 chapterContent.textContent = `Error loading chapter: ${error.message}`;
             }
@@ -317,6 +319,58 @@
             const buttonText = isDarkMode ? '🌓 Mode Clair' : '🌓 Mode Sombre';
             darkModeToggle.textContent = buttonText;
             darkModeToggle_bottom.textContent = buttonText;
+
+            saveUserPreferences();
+        }
+
+        // Save user preferences to localStorage
+        function saveUserPreferences() {
+            const preferences = {
+                currentChapter: currentChapterIndex,
+                fontFamily: fontSelector.value,
+                fontSize: fontSizeSelector.value,
+                darkMode: isDarkMode
+            };
+            localStorage.setItem('readerPreferences', JSON.stringify(preferences));
+        }
+
+        // Load user preferences from localStorage
+        function loadUserPreferences() {
+            const saved = localStorage.getItem('readerPreferences');
+            if (saved) {
+                try {
+                    return JSON.parse(saved);
+                } catch (e) {
+                    console.warn('Could not parse saved preferences:', e);
+                    return null;
+                }
+            }
+            return null;
+        }
+
+        // Apply loaded preferences to the interface
+        function applyPreferences(preferences) {
+            if (!preferences) return;
+            
+            // Apply font family
+            if (preferences.fontFamily) {
+                document.body.className = document.body.className.replace(/font-\w+/, '');
+                document.body.classList.add(preferences.fontFamily);
+                fontSelector.value = preferences.fontFamily;
+                fontSelector_bottom.value = preferences.fontFamily;
+            }
+            
+            // Apply font size
+            if (preferences.fontSize) {
+                document.body.style.fontSize = preferences.fontSize;
+                fontSizeSelector.value = preferences.fontSize;
+                fontSizeSelector_bottom.value = preferences.fontSize;
+            }
+            
+            // Apply dark mode (only if different from current state)
+            if (preferences.darkMode !== undefined && preferences.darkMode !== isDarkMode) {
+                toggleDarkMode();
+            }
         }
 
         async function initReader() {
@@ -329,8 +383,18 @@
             // Populate chapter selector dropdown with pre-loaded titles
             populateChapterSelector(chapters);
 
-            // Load first chapter
-            await loadChapter(0);
+            // Load user preferences
+            const preferences = loadUserPreferences();
+            
+            // Apply preferences to interface
+            applyPreferences(preferences);
+
+            // Load the saved chapter or default to first chapter
+            const chapterToLoad = preferences && preferences.currentChapter !== undefined 
+                ? preferences.currentChapter 
+                : 0;
+            
+            await loadChapter(chapterToLoad);
         }
 
         // Event Listeners
@@ -342,12 +406,14 @@
             document.body.className = document.body.className.replace(/font-\w+/, '');
             document.body.classList.add(e.target.value);
             fontSelector_bottom.value = e.target.value;
+            saveUserPreferences();
         });
 
         // Font size selector
         fontSizeSelector.addEventListener('change', (e) => {
             document.body.style.fontSize = e.target.value;
             fontSizeSelector_bottom.value = e.target.value;
+            saveUserPreferences();
         });
 
         // Dark mode toggle
@@ -361,12 +427,14 @@
             document.body.className = document.body.className.replace(/font-\w+/, '');
             document.body.classList.add(e.target.value);
             fontSelector.value = e.target.value;
+            saveUserPreferences();
         });
 
         // Font size selector
         fontSizeSelector_bottom.addEventListener('change', (e) => {
             document.body.style.fontSize = e.target.value;
             fontSizeSelector.value = e.target.value;
+            saveUserPreferences();
         });
 
         // Dark mode toggle
@@ -376,6 +444,7 @@
         chapterSelector.addEventListener('change', () => {
             const selectedIndex = parseInt(chapterSelector.value);
             loadChapter(selectedIndex);
+            saveUserPreferences();
         });
 
         toggleDarkMode();
