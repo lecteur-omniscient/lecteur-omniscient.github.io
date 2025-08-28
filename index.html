@@ -118,6 +118,35 @@
             color: #88ccff;
         }
 
+        .chapter-image {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+
+        body.dark-mode .chapter-image {
+            box-shadow: 0 4px 8px rgba(255,255,255,0.1);
+        }
+
+        .image-container {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .image-loading {
+            font-style: italic;
+            color: #666;
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        body.dark-mode .image-loading {
+            color: #aaa;
+        }
+
         /* Responsive adjustments */
         @media (max-width: 600px) {
             body {
@@ -160,6 +189,7 @@
                 <option value="24px">Très Grand</option>
             </select>
             <button id="dark-mode-toggle">🌓 Mode Clair</button>
+            <button id="image-toggle">🖼️ Images: ON</button>
         </div>
     </div>
 
@@ -190,6 +220,7 @@
                 <option value="24px">Très Grand</option>
             </select>
             <button id="dark-mode-toggle-bottom">🌓 Mode Clair</button>
+            <button id="image-toggle-bottom">🖼️ Images: ON</button>
         </div>
     </div>
 
@@ -200,7 +231,8 @@
                 currentChapter: currentChapterIndex,
                 fontFamily: fontSelector.value,
                 fontSize: fontSizeSelector.value,
-                darkMode: isDarkMode
+                darkMode: isDarkMode,
+                showImages: showImages
             };
             localStorage.setItem('readerPreferences', JSON.stringify(preferences));
         }
@@ -242,6 +274,11 @@
             if (preferences.darkMode !== undefined && preferences.darkMode === isDarkMode) {
                 toggleDarkMode();
             }
+
+            if (preferences.showImages !== undefined) {
+                showImages = preferences.showImages;
+                updateImageToggleButtons();
+            }
         }
 
         async function getTextFiles() {
@@ -257,6 +294,7 @@
         let chapters = [];
         let currentChapterIndex = 0;
         let isDarkMode = true; // Track dark mode state
+        let showImages = true; // Track image display state
 
         // DOM Elements
         const chapterContent = document.getElementById('chapter-content');
@@ -271,6 +309,8 @@
         const fontSizeSelector_bottom = document.getElementById('font-size-bottom');
         const darkModeToggle_bottom = document.getElementById('dark-mode-toggle-bottom');
         const chapterSelector = document.getElementById('chapter-selector');
+        const imageToggle = document.getElementById('image-toggle');
+        const imageToggle_bottom = document.getElementById('image-toggle-bottom');
 
         // Process text to add bold formatting while preserving angle brackets
         function processText(text) {
@@ -317,8 +357,25 @@
                 const response = await fetch(chapters[index]);
                 const text = await response.text();
                 
-                // Use innerHTML to render HTML (including bold tags)
-                chapterContent.innerHTML = processText(text);
+                // Process text content
+                let processedContent = processText(text);
+                
+                // Check for chapter image if images are enabled
+                if (showImages) {
+                    const imagePath = await checkChapterImage(index);
+                    if (imagePath) {
+                        // Add image at the end of the chapter
+                        processedContent += `
+                            <div class="image-container">
+                                <img src="${imagePath}" alt="Chapter ${index} illustration" class="chapter-image" 
+                                    onerror="this.parentElement.style.display='none';" />
+                            </div>
+                        `;
+                    }
+                }
+                
+                // Use innerHTML to render HTML (including bold tags and images)
+                chapterContent.innerHTML = processedContent;
                 currentChapterIndex = index;
 
                 // Update navigation button states
@@ -338,6 +395,7 @@
             }
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
+
 
         // Populate chapter selector with pre-loaded titles
         function populateChapterSelector(chapters) {
@@ -361,6 +419,47 @@
                 chapterSelector.appendChild(option);
             });
         }
+
+        async function checkChapterImage(chapterIndex) {
+            const chapterMatch = chapters[chapterIndex].match(/Chapitre_(\d+)/);
+            if (!chapterMatch) return null;
+            
+            const chapterNumber = parseInt(chapterMatch[1]);
+            
+            // Check for jpg, jpeg, and png extensions only
+            const extensions = ['.jpg', '.jpeg', '.png'];
+            
+            for (const ext of extensions) {
+                try {
+                    const imagePath = `./Images/Chapter${chapterNumber}${ext}`;
+                    const response = await fetch(imagePath, { method: 'HEAD' });
+                    if (response.ok) {
+                        return imagePath;
+                    }
+                } catch (error) {
+                    // Continue to next extension
+                }
+            }
+            
+            return null;
+        }
+
+        function toggleImages() {
+            showImages = !showImages;
+            updateImageToggleButtons();
+            
+            // Reload current chapter to show/hide images
+            loadChapter(currentChapterIndex);
+            
+            saveUserPreferences();
+        }
+
+        function updateImageToggleButtons() {
+            const buttonText = showImages ? '🖼️ Images: ON' : '🖼️ Images: OFF';
+            imageToggle.textContent = buttonText;
+            imageToggle_bottom.textContent = buttonText;
+        }
+
 
         // Toggle dark mode and update button text
         function toggleDarkMode() {
@@ -393,6 +492,7 @@
                 applyPreferences(preferences);
             } else {
                 toggleDarkMode();
+                updateImageToggleButtons();
             }
 
             // Load the saved chapter or default to first chapter
@@ -445,6 +545,10 @@
 
         // Dark mode toggle
         darkModeToggle_bottom.addEventListener('click', toggleDarkMode);
+
+        // Images toggle
+        imageToggle.addEventListener('click', toggleImages);
+        imageToggle_bottom.addEventListener('click', toggleImages);
 
         // Chapter selector direct selection without button
         chapterSelector.addEventListener('change', () => {
