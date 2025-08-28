@@ -362,13 +362,14 @@
                 
                 // Check for chapter image if images are enabled
                 if (showImages) {
-                    const imagePath = await checkChapterImage(index);
+                    const imagePath = await getChapterImagePath(index);
                     if (imagePath) {
                         // Add image at the end of the chapter
                         processedContent += `
                             <div class="image-container">
                                 <img src="${imagePath}" alt="Chapter ${index} illustration" class="chapter-image" 
-                                    onerror="this.parentElement.style.display='none';" />
+                                    onerror="this.parentElement.style.display='none';"
+                                    onload="this.parentElement.style.display='block';" />
                             </div>
                         `;
                     }
@@ -420,28 +421,14 @@
             });
         }
 
-        async function checkChapterImage(chapterIndex) {
+        function getChapterImagePath(chapterIndex) {
             const chapterMatch = chapters[chapterIndex].match(/Chapitre_(\d+)/);
             if (!chapterMatch) return null;
             
             const chapterNumber = parseInt(chapterMatch[1]);
             
-            // Check for jpg, jpeg, and png extensions only
-            const extensions = ['.jpg', '.jpeg', '.png'];
-            
-            for (const ext of extensions) {
-                try {
-                    const imagePath = `./Images/Chapter${chapterNumber}${ext}`;
-                    const response = await fetch(imagePath, { method: 'HEAD' });
-                    if (response.ok) {
-                        return imagePath;
-                    }
-                } catch (error) {
-                    // Continue to next extension
-                }
-            }
-            
-            return null;
+            // Return the most common format first
+            return `./Images/Chapter${chapterNumber}.jpg`;
         }
 
         function toggleImages() {
