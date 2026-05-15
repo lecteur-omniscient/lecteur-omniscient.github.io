@@ -6,6 +6,7 @@ Tu trouveras ici une traduction réalisée par un·e fan du Point de Vue du Lect
 Toute remarque ou demande de modification du texte peut être réalisée sur le dépôt GitHub de ce projet (oui, l'ensemble des fichiers traduits sont disponibles en open source, gratuitement et sans publicité) ou par mail : **point-de-vue-du-lecteur-omniscient@protonmail.com**.
 Bonne lecture !
 
+[Edit 05/2026 : Uniformation de Huiwon et Armageddon, debug du chapitre 107, modification d'une erreur de traduction.]
 [Edit 11/2025 : L'EPUB (sans illustrations) est (enfin) téléchargeable <a href="https://lecteur-omniscient.github.io/Le%20Point%20de%20Vue%20du%20Lecteur%20Omniscient.epub">ici</a> ou directement sur le dépôt GitHub du site.]
 [Edit 08/2025 : J'ai rajouté les images officielles de l'e-book au site. Ces images ont été dessinées par BLACKBOX pour l'e-book officiel (en coréen).]
 
