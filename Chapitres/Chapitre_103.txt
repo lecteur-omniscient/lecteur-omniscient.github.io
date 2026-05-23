@@ -25,9 +25,9 @@ Aussi bizarre que cela puisse paraître, il n’y avait aucune raison pour qu’
 
 Est-ce qu’il ne va pas m’achever dès qu’il me verra ressusciter ?
 
-[La constellation, '*', est émue par votre camaraderie.]
+[La constellation, 'Dieu des Batailles Navales', est émue par votre camaraderie.]
 
-[La constellation, '*', a les yeux humides devant votre camaraderie.]
+[La constellation, 'Général Chauve de la Paix', a les yeux humides devant votre camaraderie.]
 
 [Vous avez reçu 500 pièces.]
 
