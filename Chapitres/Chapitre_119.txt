@@ -112,11 +112,11 @@ Pour Kim Dokja, un adolescent sans mère ni père, cette histoire était la seul
 
 Nous nous sommes regardés en silence pendant un moment.
 
-[La constellation, '*' vous observe avec un regard intrigué.]
+[La constellation, 'Prisonnier du Bandeau d'Or' vous observe avec un regard intrigué.]
 
-[La constellation, '*' vous observe avec un regard étrange.]
+[La constellation, 'Mystérieux Conspirateur' vous observe avec un regard étrange.]
 
-[La constellation, '*' vous observe avec un regard triste.]
+[La constellation, 'Juge du Feu Quasi-Démonique' vous observe avec un regard triste.]
 
 Ce fut moi qui brisa le silence en premier.
 
