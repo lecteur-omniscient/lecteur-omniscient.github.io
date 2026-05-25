@@ -2,11 +2,17 @@
 
 *Bienvenue à toi,*
 
-Tu trouveras ici une traduction réalisée par un·e fan du Point de Vue du Lecteur Omniscient (aussi connu sous le nom de Lecteur Omniscient, ou par son nom anglais Omniscient Reader's Viewpoint). Cette traduction est donc non-officielle (il n'existe pas de traduction officielle du webroman en français). Je vous invite donc très fortement à soutenir les auteur·ices de ce webroman en achetant l'oeuvre originale sur <a href="https://novel.munpia.com/104753" target="__blank">Munpia</a> ou <a href="https://m.series.naver.com/novel/detail.series?productNo=3400123" target="__blank">Naver</a>. Cette traduction a été réalisée depuis la version originale en coréen, de manière semi-automatisée à l'aide de modèles d'Intelligence Artificielle (et de mon travail manuel). Je répertorie sur cette page des explications sur ce travail et mes choix de traduction. Si vous souhaitez démarrer d'où le Webtoon est rendu actuellement, rendez-vous au début de l'épisode 45 (Fin Août 2025).
-Toute remarque ou demande de modification du texte peut être réalisée sur le dépôt GitHub de ce projet (oui, l'ensemble des fichiers traduits sont disponibles en open source, gratuitement et sans publicité) ou par mail : **point-de-vue-du-lecteur-omniscient@protonmail.com**.
-Bonne lecture !
+Tu trouveras ici une traduction réalisée par un·e fan du Point de Vue du Lecteur Omniscient (aussi connu sous le nom de Lecteur Omniscient, ou par son nom anglais Omniscient Reader's Viewpoint). Cette traduction est donc non-officielle (il n'existe pas de traduction officielle du webroman en français). Je vous invite donc très fortement à soutenir les auteur·ices de ce webroman en achetant l'oeuvre originale sur <a href="https://novel.munpia.com/104753" target="__blank">Munpia</a> ou <a href="https://m.series.naver.com/novel/detail.series?productNo=3400123" target="__blank">Naver</a>. Cette traduction a été réalisée depuis la version originale en coréen, de manière semi-automatisée à l'aide de modèles d'Intelligence Artificielle (et de mon travail manuel). Je répertorie sur cette page des explications sur ce travail et mes choix de traduction. Si vous souhaitez démarrer d'où le Webtoon est rendu actuellement, rendez-vous à l'épisode 50 (Mai 2026).
 
-[Edit 05/2026 : Uniformation de Huiwon et Armageddon, debug des chapitres 107, 114, 179 et 487, ainsi que modification d'une erreur de traduction.]
+Toute remarque ou demande de modification du texte peut être réalisée sur le dépôt GitHub de ce projet (oui, l'ensemble des fichiers traduits sont disponibles en open source, gratuitement et sans publicité) ou par mail : **point-de-vue-du-lecteur-omniscient@protonmail.com**.
+
+[La constellation 'Ingénieur·e de la Grande Traduction' vous souhaite une très bonne lecture.]
+
+[La constellation 'Ingénieur·e de la Grande Traduction' remercie l'ensemble des constellations et incarnations ayant fait remonter des pistes d'amélioration ou des erreurs de traduction.]
+
+[La constellation 'Ingénieur·e de la Grande Traduction' remercie tout particulièrement son homologue 'Maquettiste de l'Ombre' pour sa relecture et correction (en cours) des chapitres.]
+
+[Edit 05/2026 : Uniformation de Huiwon et Armageddon, debug notamment des chapitres 107, 114, 179 et 487, ainsi que modification d'une erreur de traduction.]
 [Edit 11/2025 : L'EPUB (sans illustrations) est (enfin) téléchargeable <a href="https://lecteur-omniscient.github.io/Le%20Point%20de%20Vue%20du%20Lecteur%20Omniscient.epub">ici</a> ou directement sur le dépôt GitHub du site.]
 [Edit 08/2025 : J'ai rajouté les images officielles de l'e-book au site. Ces images ont été dessinées par BLACKBOX pour l'e-book officiel (en coréen).]
 
@@ -46,6 +52,8 @@ L'ensemble de l'arc narratif relatif au Pays de la Paix est assez différent dan
 
 *3. Nirvana Moebius (Épisode 28)*
 Concernant le personnage de Nirvana Moebius, comme iel est canoniquement non-binaire, j'ai choisi d'utiliser le pronom 'iel' et l'article 'lae'. Son personnage peut (mlaheureusement) être analysé comme un archétype de Queer vilain, mais notons que 1. En fait c'est plus compliqué que cela, mais en dire plus, spoilerait des chapitres futurs ; 2. Son arc narratif est une critique de l'influence des religions et en particulier des sectes sur la société coréenne, et iel n'est en fait pas explicitement défini·e comme non-binaire, mais c'est plutôt la conséquence du cycle de réincarnations successives qu'iel subi·e.
+
+[La constellation 'Maquettiste de l'Ombre' regarde par dessus votre épaule et espère que vous apprécierez ce webroman.]
 
 [La constellation 'Ingénieur·e de la Grande Traduction' vous remercie pour votre attention.]
 [La constellation 'Ingénieur·e de la Grande Traduction' vous souhaite une agréable lecture.]
