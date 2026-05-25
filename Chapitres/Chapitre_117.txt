@@ -1,160 +1,139 @@
 **Épisode 23. Monde Abandonné (2)**
 
-Avec le message, le contenu du scénario m'est apparu.
+Avec le message, le contenu du scénario fit surface.
 
 +
 
 <Scénario Principal #6 ― ?????>
 
-Classification : Principal
-
+Catégorie : Principal
 Difficulté : ???
-
-Conditions de réussite : ???
-
-Temps imparti : ???
-
+Condition de réussite : ???
+Temps limite : ???
 Récompense : ???
-
 En cas d'échec : ―
 
 +
 
-« Hein ? Il n'y a pas de difficulté ni de conditions de réussite ? »
+« Hein ? Il n'y a ni difficulté ni condition de réussite ? »
+« ......Mais qu'est-ce qu'on est censés faire ? Tout n'est que points d'interrogation ? »
 
-« ... Qu'est-ce qu'on est censés faire ? Tout est marqué par des points d'interrogation ! »
+Les gens paniqués eurent beau rappeler la fenêtre plusieurs fois, le contenu du scénario restait toujours tapissé de points d'interrogation.
 
-Des personnes paniquées ont essayé de rappeler l'écran plusieurs fois, mais le contenu du scénario restait entièrement rempli de points d'interrogation.
+Bien sûr, sachant déjà de quoi il retournait, je ne fus pas surpris.
 
-Bien sûr, je n'étais pas surpris, car je savais déjà.
+Car ce scénario-ci...
 
-Parce que ce scénario...
+« Il paraît que ce scénario ne peut être accompli que par un nombre limité de personnes. »
 
-« Ce scénario ne peut être accompli que par un nombre limité de personnes. »
-
-Une voix résonna, et un homme de grande taille, d'âge moyen, se tenait là.
+Du côté d'où provenait la voix se tenait un homme d'âge mûr de grande taille.
 
 « Vous êtes... »
 
-« Ça fait longtemps, Kim Dokja. C'est la première fois que je vous salue officiellement. »
+« Cela fait longtemps, Kim Dokja. C'est la première fois que je vous salue officiellement. »
 
-... Ce monsieur était aussi ici.
+...Ce monsieur était donc là, lui aussi.
 
-Alors que j'allais ouvrir la bouche, l'homme a tendu la main en premier.
+Alors que je m'apprêtais à ouvrir la bouche, l'homme demanda le premier à me serrer la main.
 
-« Jeon Ildo. On m'appelle le "Roi Neutre". »
+« Je suis Jeon Ildo. On m'appelle le 'Roi de la Neutralité'. »
 
-« Kim Dokja. »
+« Je suis Kim Dokja. »
 
-Jeon Ildo, le Roi Neutre.
+Le Roi de la Neutralité, Jeon Ildo.
 
-L'un des rares rois de Séoul à avoir survécu à la "Guerre pour le Trône Absolu", aux côtés de Cha Sangkyung, le Roi Maitreya, et Min Jiwon, la Reine de la Beauté.
+Avec le Roi Maitreya, Cha Sangkyung, et la Reine Mihui, Min Jiwon, il était l'un des rares rois de Séoul à avoir survécu à la 'Lutte pour le Trône Absolu'.
 
-J'avais aussi des souvenirs marquants concernant Jeon Ildo.
+Moi aussi, j'avais un souvenir marquant concernant Jeon Ildo.
 
-Lors de la "Guerre pour le Trône", il était le seul roi à avoir volontairement abandonné son trône.
+Lors de la 'Lutte pour le Trône', il avait été le seul roi à abandonner le trône de sa propre volonté.
 
-« Lors de la Guerre pour le Trône, et maintenant aussi. Vos exploits m'ont profondément impressionné. Mes constellations ne cessent de parler de vous. Elles disent que je devrais être à moitié comme vous. »
+« Lors de la Lutte pour le Trône, et cette fois-ci encore, j'ai suivi vos exploits avec beaucoup d'admiration. Ma constellation tutélaire ne cesse de me rebattre les oreilles à votre sujet. Elle me dit de ne serait-ce que faire la moitié de ce que vous faites. »
 
-Jeon Ildo sourit d'un air aimable.
+Jeon Ildo sourit d'un air affable. En y repensant, qui était déjà la constellation tutélaire de ce monsieur ?
 
-D'ailleurs, quelle était sa constellation ?
+J'activai aussitôt ma compétence.
 
-J'ai immédiatement activé une compétence.
+[Compétence exclusive, 'Profil du Personnage', activée !]
 
-[Compétence exclusive, "Profil du Personnage" activée !]
+Sous forme de résumé synthétique ne comprenant que les traits distinctifs et la constellation tutélaire.
 
-Un résumé incluant seulement les caractéristiques et la constellation.
-
-[Le réglage du résumé a été modifié.]
+[Les paramètres du résumé synthétique ont été modifiés.]
 
 +
 
-<Résumé des Personnages>
-
+<Résumé du personnage>
 Personnage : Jeon Ildo
-
-Caractéristiques exclusives : Intellectuel médiocre (Commun), Roi Neutre (Héroïque)
-
-Constellation : Expert en Double Jeu
+Traits distinctifs exclusifs : Pseudo-Intellectuel (Normal), Roi de la Neutralité (Héroïque)
+Constellation tutélaire : Expert du Double Jeu
 
 +
 
-... En le voyant, je me demande pourquoi j'ai vérifié. Bien sûr, sa constellation serait celle-là. "Expert en Double Jeu" semble être une vieille constellation aux relations complexes, mais en réalité, c'est un titre honorifique pour un roi.
+......Après avoir vérifié, je me demande pourquoi je l'ai fait. Pour cet homme, c'était forcément cette constellation. 'Expert du Double Jeu' pourrait sembler de prime abord être une constellation ringarde aux relations amoureuses complexes, mais en réalité, c'est un modificateur de 'Roi'.
 
-[Une constellation prônant la neutralité en diplomatie révèle son titre honorifique.]
+[Une constellation prônant la diplomatie neutre révèle son modificateur.]
 
-[La constellation 'Expert en double jeu' vous témoigne de la bienveillance.]
+[La constellation, 'Expert du Double Jeu', vous témoigne de la bienveillance.]
 
-C'était le modificateur de Gwanghaegun, un roi de Joseon célèbre pour sa diplomatie de neutralité. 
+L'Expert du Double Jeu était le modificateur de 'Gwanghaegun', célèbre pour avoir été roi de Joseon et maître de la diplomatie neutre.
 
-Jeon Ildo portait le titre de Roi Neutre pour une bonne raison. 
+Ce n'est donc pas pour rien que le trait distinctif de Jeon Ildo est 'Roi de la Neutralité'.
 
-Je lui dis : « Parlez-moi davantage. Pourquoi avez-vous dit que seules certaines personnes pouvaient mener à bien le scénario ? » 
+« J'aimerais en entendre un peu plus sur ce que vous venez de dire. Qu'entendez-vous par 'un nombre limité de personnes' accomplira le scénario ? »
 
-« Ah, vous l'ignoriez. » 
+« Ah, vous n'étiez donc pas au courant. »
 
-Les rois avaient rapidement obtenu des informations. Bien sûr, c'est moi qui les connaissais le mieux — mais je devais tout de même les écouter. Les choses étaient peut-être différentes par rapport au *Guide de Survie* que je connaissais.
+Comme je le pensais, les rois, toujours prompts à obtenir des informations, semblaient savoir quelque chose.
 
-« Selon les informations divulguées par les Dokkaebi de rang inférieur ce matin, ce scénario sélectionnera des volontaires. »
+Bien sûr, en termes de connaissances, j'étais sans doute le mieux informé, mais je devais néanmoins écouter. Au cas où les choses auraient pu diverger du 'Guide de Survie' que je connaissais.
+
+« Selon les informations divulguées ce matin par les Dokkaebi de rang inférieur, ce scénario recruterait des volontaires séparément. »
 
 « Des volontaires ? »
 
-« Oui. Ce scénario ne nécessite pas la participation de tout le monde. Et il n'y a pas de pénalité si vous ne participez pas. Une condition incroyable, comparée aux scénarios précédents. »
+« Oui. Il n'est pas nécessaire que tout le monde participe à ce scénario. Et il n'y a pas de pénalité si l'on n'y participe pas. C'est une condition incroyable quand on repense aux scénarios précédents. »
 
-C'était bien ce que je savais.
+Effectivement, c'est bien ce que je savais.
 
-J'ai pointé l'écran et demandé :
+Je pointai l'écran du doigt et demandai :
 
-« Les participants iront là-bas, n'est-ce pas ? »
+« Les participants se rendront donc là-bas, n'est-ce pas ? »
 
-« C'est ce que j'ai entendu. »
+« C'est ce que j'ai entendu dire. »
 
-Comme s'ils avaient entendu les paroles de Jeon Ildo, des voix soulagées résonnèrent de partout.
+Des voix soulagées se firent entendre çà et là, comme si les gens avaient surpris les paroles de Jeon Ildo.
 
-« Quoi ? On n'est pas obligés d'y aller ? »
+« Quoi, on n'est pas obligés d'y aller tous ? »
 
-« Putain, ouf. J'avais peur de ce monstre... Qu'est-ce qui est si gros ? »
+« Putain, quel soulagement. Ces monstres m'ont vraiment foutu la trouille... Comment ils peuvent être aussi énormes ? »
 
-À ce stade, les incarnations du scénario se divisent en trois catégories.
+Arrivés à ce point, les incarnations du scénario se divisent en trois grandes catégories. 
 
-La première, ceux qui observent discrètement et s'éclipsent en douce.
+Premièrement, ceux qui, à force de jauger la situation, prennent discrètement leurs jambes à leur cou. Pour la plupart, ce sont des gens sans affiliation. Ils doivent penser qu'ils sont sauvés, qu'ils pourront se fondre dans la masse tant bien que mal. Mais cette idée est fausse. Tous les scénarios du <Star Stream> voient leur difficulté grimper de façon exponentielle à partir d'un certain moment. Probablement que ceux-là connaîtront une fin terrible en contrepartie de leur non-participation au scénario.
 
-Ce sont généralement des personnes sans affiliation, qui pensent qu'elles ont survécu et peuvent maintenant se fondre dans la masse.
+« ......Ça a l'air intéressant. »
 
-Mais ils ont tort.
+Et puis la deuxième catégorie.
+Ceux-là se sont déjà adaptés, dans une certaine mesure, à l'environnement cruel des scénarios.
+Des gens qui renforcent leur détermination en regardant l'écran, ou qui vérifient par avance leur équipement. Sans doute survivront-ils 'pour le moment'.
 
-Tous les scénarios du *Star Stream* voient leur difficulté augmenter de façon exponentielle à un certain moment.
+Et pour finir, la troisième catégorie...
 
-Ils paieront probablement le prix de ne pas avoir participé au scénario en affrontant un avenir terrible.
+« Maître Jeon Ildo ! Où êtes-vous ? »
 
-« ... Ça va être amusant. »
+Une voix appelant Jeon Ildo retentit de l'extérieur de la foule.
 
-Et la deuxième catégorie.
+Jeon Ildo consulta sa montre et gémit.
 
-Ce sont ceux qui se sont déjà adaptés à l'environnement cruel du scénario.
+« Le temps est déjà passé si vite. »
 
-Ceux qui se préparent en regardant l'écran ou en vérifiant leur équipement à l'avance.
+« Allez-y. Ça ira pour moi. »
 
-Ils survivront probablement... pour un temps.
+« Non, je ne peux pas y aller seul. Cela n'aurait alors aucun sens. »
 
-Et enfin, la troisième catégorie...
+« ......Que voulez-vous dire ? »
 
-« Jeon Ildo ! Où êtes-vous ? »
-
-Une voix appelant Jeon Ildo résonna depuis la foule.
-
-Jeon Ildo regarda sa montre et soupira.
-
-« Déjà cette heure. »
-
-« Allez-y. Je vais bien. »
-
-« Non, je ne peux pas y aller seul. Cela n'aurait aucun sens. »
-
-« ... Que voulez-vous dire ? »
-
-« Kim Dokja, en fait, je suis venu ici pour vous inviter. »
+« Maître Kim Dokja, en réalité, si je suis venu ici, c'est pour vous y emmener. »
 
 « Moi ? »
 
@@ -162,151 +141,258 @@ Jeon Ildo hocha la tête.
 
 « Un monde sans roi. »
 
-Il prononça ces mots et regarda autour de lui un instant.
+Sur ces mots, il parcourut brièvement les alentours du regard.
 
-Pendant un bref instant, je sentis les regards de nombreuses personnes se tourner vers nous.
+Ce ne fut qu'un instant, mais je sentis les regards de nombreuses personnes converger dans cette direction.
 
-Comme s'il avait remarqué ces regards, Jeon Ildo sourit d'un air énigmatique et continua.
+Comme s'il l'avait remarqué, Jeon Ildo afficha un sourire indéchiffrable et reprit :
 
-« Les rois laissés dans ce monde malheureux attendent votre venue avec impatience. »
+« Dans ce monde malheureux, les rois abandonnés attendent impatiemment votre venue. »
 
-La troisième catégorie.
+La dernière, la troisième catégorie.
 
-Ce sont ceux qui utilisent les autres pour survivre.
+Ce sont ceux qui utilisent autrui pour survivre.
 
 *
 
-J'ai suivi Jeon Ildo jusqu'au rassemblement des rois.
+Je suivis Jeon Ildo en direction du point de rassemblement des rois.
 
-Ils étaient rassemblés sur la plateforme centrale de la gare de Yongsan, et une tente géante, provenant d'on ne sait où, recouvrait la salle de réunion.
+Ils s'étaient réunis sur la plateforme centrale de la gare de Yongsan. La salle de réunion était masquée par une immense tente, je ne sais où ils se l'étaient procurée.
 
-Des dizaines de gardes entouraient la tente. Aucun d'eux n'était un adversaire facile.
+La tente était gardée par des dizaines de sentinelles. Des individus qui n'étaient pas de la petite bière, chacun d'eux.
 
-Ils devaient être l'élite entraînée par les rois.
+Probablement l'élite que les rois avaient cultivée.
 
-Pendant que nous combattions Shin Yuseung, ils devaient chasser les monstres qui infestaient d'autres régions.
+Quand nous combattions Shin Yuseung, ces gens devaient sans doute être en train de chasser les créatures monstrueuses qui pullulaient dans d'autres zones.
 
-« Désolé, mais seuls les "rois" peuvent entrer à partir de maintenant. »
+« Désolé, mais à partir de maintenant, seuls les 'Rois' peuvent entrer. »
 
-Face à l'interdiction des gardes, je me suis retourné vers mon groupe.
+Face à la restriction de la sentinelle, je me tournai vers mon groupe.
 
 Comme s'ils avaient déjà compris la situation, Jeong Huiwon et Lee Hyeonseong hochèrent la tête.
+Je confiai temporairement Yu Sangah, que je portais sur le dos, à Lee Hyeonseong.
 
-J'ai confié Yu Sangah, que je portais, à Lee Hyeonseong pour un moment.
+« Kim Dokja. S'il se passe quoi que ce soit, poussez un cri tout de suite. Compris ? »
 
-« Kim Dokja. Si quelque chose arrive, criez tout de suite. D'accord ? »
+C'est vraiment rassurant que Jeong Huiwon parle ainsi.
 
-Jeong Huiwon me rassura avec ces mots.
+Après un léger sourire, j'ouvris brusquement la porte de la tente.
 
-J'ai souri légèrement et poussé la porte de la tente.
+[Une compétence de blocage des ondes sonores est appliquée à cette zone.]
 
-[Une compétence bloquant les ondes sonores est active dans cette zone.]
+Tiens donc, jusqu'à bloquer les ondes sonores ?
 
-Oh, même un blocage sonore ?
+Ils ont l'air d'avoir un arsenal assez impressionnant...
 
-Ils ont vraiment tout prévu...
+En entrant à l'intérieur, un large espace abritait une table ronde.
 
-En entrant, j'ai vu une grande pièce avec une table ronde.
+Je ne sais où ils les avaient trouvés, mais quelques morceaux de viande séchée et de biscuits étaient posés sur la table.
 
-On ne sait d'où ils l'ont sortie, mais il y avait quelques morceaux de viande séchée et de biscuits sur la table.
+Les chaises occupées étaient toutes différentes.
 
-Les chaises étaient toutes différentes.
-
-Certains avaient des chaises en plastique, d'autres en bois massif, et un type avait même apporté un canapé entier. Mais peu importe où ils étaient assis, c'était clairement un trône.
+Certains avaient une chaise en plastique, d'autres une chaise en bois massif, il y avait même un type qui avait carrément ramené un canapé entier. Mais où qu'ils soient assis, l'endroit qu'ils occupaient était clairement un trône.
 
 Les rois survivants étaient là.
 
-« Donc, je disais que c'était avantageux pour notre groupe d'y aller. La Corée est un pays en retard. Vous pensez vraiment pouvoir rivaliser avec ceux qui sont déjà établis ? Mais si notre groupe y va, c'est différent. Si j'y vais... ! »
+« Alors, n'avais-je pas dit qu'il est avantageux que notre groupe y aille ? La Corée est un acteur tardif. Pensez-vous pouvoir rivaliser avec ceux qui sont déjà bien établis ? Mais si notre groupe y va, c'est différent. Si j'y vais, moi... ! »
 
-La voix tonitruante de l'homme d'âge moyen s'éteignit à mon arrivée.
+La voix tonitruante de l'homme d'âge mûr s'éteignit à mon apparition.
 
 Tous les rois me regardaient.
 
 « Le dernier roi est arrivé. »
 
-Min Jiwon, la Reine de la Beauté, parla.
+Dit la Reine Mihui, Min Jiwon.
 
-Je l'ai saluée légèrement et ai regardé les autres rois.
+Tout en la saluant légèrement, je balayai les rois du regard.
 
-Yu Junghyeok... Il n'est pas là. Bien sûr, c'est normal.
+Yu Junghyeok n'est... pas là. C'est vrai, c'est plutôt normal.
 
-Les rois présents, à part moi, étaient au nombre de cinq.
+Les rois présents étaient au nombre de cinq, moi exclu.
 
-Min Jiwon, la Reine de la Beauté.
-
-Cha Sangkyung, le Roi Maitreya.
-
-Jeon Ildo, le Roi Neutre.
-
+La Reine Mihui, Min Jiwon.
+Le Roi Maitreya, Cha Sangkyung.
+Le Roi de la Neutralité, Jeon Ildo.
 Le Roi des Vagabonds.
+Ces quatre-là, et le dernier...
 
-Et un autre...
-
-C'est étrange.
-
-Je ne connais pas cette personne.
+C'est étrange. Quelqu'un que je ne connais pas ?
 
 « Qui êtes-vous ? »
 
-« Kim Dokja. »
+« Je suis Kim Dokja. »
 
-« Ah, c'est vous... Hmm, hmm. Je suis le président de Yeouido, Yu Hyunho. »
+« Ah, c'est vous... Hum, hum. Je suis 'Yu Hyeonho', le président de Yeouido. »
 
-... Le président de Yeouido ?
+......Le président de Yeouido ?
 
-Le président est déjà mort, de quoi parle-t-il ?
+Le président était déjà mort, qu'est-ce que c'est que ces absurdités ?
 
-Min Jiwon ajouta d'un ton mécontent.
+Min Jiwon ajouta d'une voix désapprobatrice :
 
-« ... Yu Hyunho n'est pas un roi, mais il dirige un groupe, donc il est présent ici. »
+« ......Monsieur Yu Hyeonho n'est pas un roi, mais comme il dirige une faction, il a d'abord été invité ici. »
 
-« Un roi ? Vous pensez vraiment que nous vivons à l'époque de Joseon ? Nous vivons à l'ère de la démocratie libérale. S'il vous plaît, reprenez vos esprits ! »
+« Roi, mon œil ! Pensez-vous vraiment être à l'époque de Joseon ? Nous vivons à l'ère de la démocratie libérale. Ressaisissez-vous, je vous en prie ! »
 
-J'ai immédiatement activé [Profil du Personnage] en version résumée.
-
-+
-
-<Résumé des Personnages>
-
-Personnage : Yu Hyunho
-
-Caractéristiques exclusives : Politicien corrompu (Rare)
-
-Constellation : Maître de la Corruption Politique
-
-Compétences exclusives : [Corruption Nv. 5], [Commandement Militaire Nv. 4], [Pouvoir Corrompu Nv. 6], [Contrôle des Masses Nv. 7]...
+J'activai immédiatement [Profil du Personnage] en version résumée.
 
 +
 
-... Ça me revient soudain.
+<Résumé synthétique des personnages>
 
-Un politicien qui a survécu au premier scénario à l'Assemblée Nationale.
+Personnage : Yu Hyeonho
+Traits distinctifs exclusifs : Politicien Corrompu (Rare)
+Constellation tutélaire : Maître des Malversations d'État
+Compétences exclusives : [Corruption Nv.5], [Commandement de Troupes Nv.4], [Pouvoir Corrompu Nv.6], [Maîtrise des Masses Nv.7]......
 
-Il y avait certainement des personnages comme ça dans quelques régressions.
++
 
-Habituellement, ils meurent tous lorsque Yeouido est balayé par une invasion de monstres, mais cette fois, il a eu de la chance.
+......Il me semble soudain que ça me revient.
 
-[La constellation, '"' n'est pas encore arrivé. »
+Un politicien qui avait survécu en réussissant le premier scénario à l'Assemblée Nationale.
+Il y avait effectivement un tel personnage dans certaines reprises.
 
-Alors que je croquais le biscuit, un côté de la tente explosa, et le soi-disant président de Yeouido hurla en tombant.
+En principe, ils meurent tous quand Yeouido est rayé de la carte lors du Déferlement des Monstres, mais il semble avoir eu de la chance cette fois-ci.
 
-« Aaaah ! »
+[La constellation, 'Dieu des Batailles Navales', est furieuse contre un bureaucrate corrompu de Joseon.]
 
-Un homme apparut, écrasant le dos de Yu Hyunho, qui gisait à terre.
+[La constellation, 'Général Chauve de la Paix', déteste l'incarnation 'Yu Hyeonho'.]
 
-Derrière lui, des dizaines de gardes gisaient, ensanglantés et déchiquetés.
+Je me demandais ce qui se passait, mais c'est sans doute à cause de la constellation tutélaire de Yu Hyeonho.
 
-C'est bien notre régresseur.
+Qui était déjà ce Maître des Malversations d'État parmi les bureaucrates de Joseon...
 
-Peu importe le nombre de régressions, ce tempérament ne change jamais.
+C'est dommage, j'aurais pu demander à Yu Sangah si elle avait été là.
 
-Son regard menaçant balaya l'assemblée avant de se fixer sur moi.
+« Et puis ici, madame 'Lee Sukyung'... participe également pour des raisons similaires. Peut-être n'en avez-vous pas entendu parler, mais c'est la personne qu'on appelle le 'Roi des Vagabonds'. »
 
-« Le... Roi Suprême... ! »
+Le Roi des Vagabonds me regarda. Elle portait toujours son masque. Je fixai ce masque un court instant, puis tournai la tête vers l'assemblée.
 
-Quelques rois pâlirent et gémissèrent.
+« Les présentations suffiront, j'aimerais connaître la raison pour laquelle vous m'avez convoqué. »
 
-Alors, le Roi Suprême Yu Junghyeok ouvrit la bouche.
+À ces mots, Jeon Ildo, assis au centre de la table, prit la parole.
+
+« Nous comptons désigner ici les représentants qui participeront au 'sixième scénario'. »
+
+C'était donc bien leur but.
+
+Ce fut Yu Hyeonho qui enchaîna sur les paroles de Jeon Ildo.
+
+« Les personnes rassemblées ici sont celles qui possèdent les plus grandes factions dans le dôme de Séoul à l'heure actuelle. Bien que celle de maître Kim Dokja soit relativement petite, en raison de sa contribution majeure aux scénarios, nous l'avons spécialement invité ici. Considérez cela comme un honneur. »
+
+« Ah... Vraiment ? »
+
+Spécialement ? Un honneur ?
+
+Quel ramassis d'âneries.
+
+Un type qui se planquait pour guetter les opportunités pendant que je me tuais à réussir les scénarios...
+
+Il me dit quoi, là ?
+
+Yu Hyeonho parcourut l'assemblée du regard et déclara :
+
+« Je le répète, il est temps pour nous de sortir de la barbarie. Nous avons certes momentanément régressé à un état primitif, répétant la 'lutte de tous contre tous', mais notre essence demeure celle de citoyens respectueux des lois, agissant selon le contrat social ! Alors, ne serait-il pas préférable de choisir les participants au prochain scénario selon une procédure démocratique ? »
+
+À première vue, ça ressemble à des idioties pitoyables, mais avec ces mots pompeux mélangés dedans, ça sonne comme des idioties assez plausibles. Min Jiwon répondit :
+
+« De quelle procédure démocratique parlez-vous ? »
+
+« Comme je viens de le dire, je pense qu'il est juste de répartir le nombre de participants en fonction de la taille des factions. »
+
+Ce fut Jeon Ildo qui souleva immédiatement une objection.
+
+« Si l'on s'en tient simplement au nombre, je crois savoir que c'est la faction de Yeouido qui est la plus nombreuse. Cette proposition ne respecte pas l'équité. »
+
+« Je suis déçu par vos paroles, maître Jeon Ildo. Ne faisons-nous pas tous partie du peuple coréen ? Que beaucoup ou peu de membres d'une faction spécifique soient choisis n'a en réalité aucune importance. De toute façon, une fois dans le scénario, nous serons confrontés à d'autres nations, et à ce moment-là, ces histoires de groupes disparaîtront. Allons-nous nous battre entre nous alors que l'ennemi est devant nos yeux ? »
+
+C'était un pur sophisme politique, mais Jeon Ildo n'était pas en reste non plus.
+
+« Si peu importe qui est choisi, je ne vois pas non plus de raison de choisir un si grand nombre de votre groupe. »
+
+« Hum, donc, selon la procédure démocratique, la plus grande faction doit avoir plus de membres... »
+
+Énervé d'écouter cela, j'intervins.
+
+« Vous vous êtes rassemblés juste pour parler de ça ? D'abord, je ne comprends pas pourquoi vous sélectionnez les gens. On n'a qu'à laisser partir tous ceux qui le souhaitent. »
+
+« C'était notre intention au départ, mais la situation a quelque peu changé. »
+
+« Changé ? »
+
+Min Jiwon acquiesça.
+
+« Le quota de personnes pour ce scénario est limité. »
+
+......Limité ?
+
+« Les rois ont dû recevoir un message séparé du Dokkaebi, mais vous ne l'avez pas encore reçu, semble-t-il. »
+
+À cet instant, comme s'il n'attendait que ça, un message fit surface.
+
+[Le quota initial alloué au dôme de Séoul est de 10 personnes au total.]
+
+[Des quotas supplémentaires seront déterminés en fonction de l'avancée des incarnations déployées dans le scénario.]
+
+Ah, c'était donc pour ça qu'ils se disputaient.
+
+Contrairement aux autres incarnations qui craignent les scénarios, les 'Rois' savent bien qu'il est important de prendre rapidement pied dans les scénarios.
+
+Si l'on peut déployer les membres de sa propre faction dans le quota initial, on pense pouvoir s'emparer de l'initiative des prochains scénarios pour son groupe.
+
+En fin de compte, cette réunion n'est autre qu'une lutte des rois pour ne pas se faire chiper leur place.
+
+« C'est mon groupe qui ira. J'ai entendu dire qu'il y aurait beaucoup de Japonais dans la zone de ce scénario. Par conséquent, je pense qu'il est juste que j'y aille, moi, la descendante de Silla. »
+
+« Non, c'est moi qui dois y aller. Depuis toujours, Baekje a eu beaucoup d'échanges avec le Japon. »
+
+« Ça, c'était Baekje, et votre constellation tutélaire à vous est une personne du Baekje postérieur. »
+
+« De quoi parlez-vous tous ? C'est évidemment moi qui dois y aller. Croire en ces constellations tutélaires ringardes... »
+
+« Un instant, tout le monde. Calmez-vous un peu... »
+
+Jeon Ildo intervint tardivement, mais la confusion ne montrait aucun signe d'apaisement.
+Alors que je soupirais et tournais la tête sur le côté, mon regard croisa celui du Roi des Vagabonds.
+
+Depuis tout à l'heure, elle me regardait sans dire un seul mot.
+
+À travers son demi-masque, je vis une bouche au sourire subtil.
+
+Elle veut que je règle ça, c'est ça ?
+
+Les rois, dont le ton était monté, dégageaient à présent une atmosphère féroce, comme s'ils n'écartaient pas même l'idée d'un bain de sang.
+
+« Nous disputer ici entre nous ne sert absolument à rien. »
+
+À ces mots, les rois se tournèrent simultanément vers moi. Yu Hyeonho me foudroya du regard, comme si mes paroles étaient absurdes.
+
+Sentant une faible vibration parcourir le sol, je saisis un biscuit sur la table.
+Il arrive, enfin.
+
+Je me demandais pourquoi il tardait autant.
+
+« Puisque le dernier 'Roi' n'est pas encore arrivé. »
+
+Au moment même où je croquais le biscuit, un côté de la tente explosa et le soi-disant président de Yeouido s'écroula au sol en hurlant.
+
+*Kyaaaaaaaak*
+
+La silhouette d'un homme apparut, piétinant le dos de Yu Hyeonho effondré.
+
+Derrière la tente déchirée par son arrivée, on pouvait voir des dizaines de sentinelles joncher le sol en crachant du sang.
+
+Digne de notre régresseur.
+
+Peu importe la reprise, ce caractère de chien ne s'en va jamais.
+
+Ses yeux uniques et menaçants balayèrent l'assemblée, puis se fixèrent sur moi.
+
+« Le, Roi Suprême... ! »
+
+Quelques rois, blêmes, laissèrent échapper un gémissement.
+
+Alors, le Roi Suprême, Yu Junghyeok, ouvrit la bouche.
 
 « Je vais annoncer les participants au prochain scénario. »
 
